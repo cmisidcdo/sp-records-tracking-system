@@ -1,0 +1,34 @@
+Sangguniang Panlungsod Records Tracking System - Server Deployment Guide
+
+1. Copy this whole folder to the server.
+
+2. Create a MySQL database named:
+   lcd_records
+
+3. Import one database file:
+   database/lcd_records_current_backup.sql
+
+   If you want a fresh empty system instead of the current records and users,
+   import database/schema.sql instead.
+
+4. Open this file and update the database username/password if needed:
+   app/config.php
+
+5. Point the web server document root to:
+   public
+
+   Important: the public folder should be the only folder directly exposed by
+   the web server.
+
+6. Make sure this folder is writable by PHP:
+   storage/sessions
+
+7. Test the system in the browser:
+   http://server-ip-address/
+
+8. After deployment, change the default/admin passwords and make a database
+   backup schedule.
+
+Local quick-run command for testing:
+php -S 0.0.0.0:8000 -t public
+

@@ -1,0 +1,6 @@
+2026-08-17 10:39:08 0 [Note] Starting MariaDB 10.4.32-MariaDB source revision c4143f909528e3fab0677a28631d10389354c491 as process 10948
+2026-08-17 10:39:08 0 [ERROR] InnoDB: Can't create file '.\ibdata1' when --innodb-force-recovery is set
+2026-08-17 10:39:08 0 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2026-08-17 10:39:08 0 [Note] Plugin 'FEEDBACK' is disabled.
+2026-08-17 10:39:08 0 [ERROR] Unknown/unsupported storage engine: InnoDB
+2026-08-17 10:39:08 0 [ERROR] Aborting

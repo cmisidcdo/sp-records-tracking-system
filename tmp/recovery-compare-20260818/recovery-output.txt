@@ -1,0 +1,10 @@
+item	inserted
+records_inserted	2
+item	inserted
+attachments_inserted	2
+item	inserted
+committee_links_inserted	1
+item	inserted
+movements_inserted	2
+item	inserted
+audit_entries_inserted	4

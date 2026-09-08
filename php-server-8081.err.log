@@ -1,0 +1,2242 @@
+[Mon Aug 10 08:45:23 2026] PHP 8.2.12 Development Server (http://127.0.0.1:8081) started
+[Mon Aug 10 08:45:49 2026] 127.0.0.1:62998 Accepted
+[Mon Aug 10 08:45:49 2026] 127.0.0.1:62998 [200]: GET /
+[Mon Aug 10 08:45:49 2026] 127.0.0.1:62998 Closing
+[Mon Aug 10 08:45:49 2026] 127.0.0.1:62999 Accepted
+[Mon Aug 10 08:45:49 2026] 127.0.0.1:62999 [200]: GET /login.php
+[Mon Aug 10 08:45:49 2026] 127.0.0.1:62999 Closing
+[Mon Aug 10 08:46:03 2026] 127.0.0.1:54532 Accepted
+[Mon Aug 10 08:46:03 2026] 127.0.0.1:54532 [200]: GET /
+[Mon Aug 10 08:46:03 2026] 127.0.0.1:54532 Closing
+[Mon Aug 10 08:46:03 2026] 127.0.0.1:61947 Accepted
+[Mon Aug 10 08:46:03 2026] 127.0.0.1:64813 Accepted
+[Mon Aug 10 08:46:03 2026] 127.0.0.1:61947 [200]: GET /assets/styles.css
+[Mon Aug 10 08:46:03 2026] 127.0.0.1:64813 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 08:46:03 2026] 127.0.0.1:61947 Closing
+[Mon Aug 10 08:46:03 2026] 127.0.0.1:64813 Closing
+[Mon Aug 10 08:46:03 2026] 127.0.0.1:59305 Accepted
+[Mon Aug 10 08:46:03 2026] 127.0.0.1:59305 [404]: GET /favicon.ico - No such file or directory
+[Mon Aug 10 08:46:03 2026] 127.0.0.1:59305 Closing
+[Mon Aug 10 08:46:48 2026] 127.0.0.1:60970 Accepted
+[Mon Aug 10 08:46:48 2026] 127.0.0.1:60970 [200]: GET /
+[Mon Aug 10 08:46:48 2026] 127.0.0.1:60970 Closing
+[Mon Aug 10 17:26:48 2026] 127.0.0.1:52158 Accepted
+[Mon Aug 10 17:26:48 2026] 127.0.0.1:52158 [200]: GET /login.php
+[Mon Aug 10 17:26:48 2026] 127.0.0.1:52158 Closing
+[Mon Aug 10 17:26:48 2026] 127.0.0.1:49587 Accepted
+[Mon Aug 10 17:26:48 2026] 127.0.0.1:49587 [200]: GET /assets/styles.css
+[Mon Aug 10 17:26:48 2026] 127.0.0.1:49587 Closing
+[Mon Aug 10 17:26:53 2026] 127.0.0.1:52563 Accepted
+[Mon Aug 10 17:26:53 2026] 127.0.0.1:52563 [200]: POST /login.php
+[Mon Aug 10 17:26:53 2026] 127.0.0.1:52563 Closing
+[Mon Aug 10 17:26:53 2026] 127.0.0.1:64531 Accepted
+[Mon Aug 10 17:26:53 2026] 127.0.0.1:64531 [200]: GET /assets/styles.css
+[Mon Aug 10 17:26:53 2026] 127.0.0.1:64531 Closing
+[Mon Aug 10 17:27:00 2026] 127.0.0.1:65369 Accepted
+[Mon Aug 10 17:27:00 2026] 127.0.0.1:65369 [302]: POST /login.php
+[Mon Aug 10 17:27:00 2026] 127.0.0.1:65369 Closing
+[Mon Aug 10 17:27:00 2026] 127.0.0.1:56331 Accepted
+[Mon Aug 10 17:27:01 2026] 127.0.0.1:56331 [200]: GET /dashboard.php
+[Mon Aug 10 17:27:01 2026] 127.0.0.1:56331 Closing
+[Mon Aug 10 17:27:01 2026] 127.0.0.1:53470 Accepted
+[Mon Aug 10 17:27:01 2026] 127.0.0.1:50470 Accepted
+[Mon Aug 10 17:27:01 2026] 127.0.0.1:53470 [200]: GET /assets/styles.css
+[Mon Aug 10 17:27:01 2026] 127.0.0.1:50470 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:27:01 2026] 127.0.0.1:53470 Closing
+[Mon Aug 10 17:27:01 2026] 127.0.0.1:50470 Closing
+[Mon Aug 10 17:27:21 2026] 127.0.0.1:62987 Accepted
+[Mon Aug 10 17:27:21 2026] 127.0.0.1:62987 [200]: GET /records.php?tab=all&status=Completed
+[Mon Aug 10 17:27:21 2026] 127.0.0.1:62987 Closing
+[Mon Aug 10 17:27:21 2026] 127.0.0.1:59888 Accepted
+[Mon Aug 10 17:27:21 2026] 127.0.0.1:57467 Accepted
+[Mon Aug 10 17:27:21 2026] 127.0.0.1:59888 [200]: GET /assets/styles.css
+[Mon Aug 10 17:27:21 2026] 127.0.0.1:57467 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:27:21 2026] 127.0.0.1:59888 Closing
+[Mon Aug 10 17:27:21 2026] 127.0.0.1:57467 Closing
+[Mon Aug 10 17:27:24 2026] 127.0.0.1:58764 Accepted
+[Mon Aug 10 17:27:25 2026] 127.0.0.1:58764 [200]: GET /dashboard.php
+[Mon Aug 10 17:27:25 2026] 127.0.0.1:58764 Closing
+[Mon Aug 10 17:27:25 2026] 127.0.0.1:51929 Accepted
+[Mon Aug 10 17:27:25 2026] 127.0.0.1:60718 Accepted
+[Mon Aug 10 17:27:25 2026] 127.0.0.1:51929 [200]: GET /assets/styles.css
+[Mon Aug 10 17:27:25 2026] 127.0.0.1:60718 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:27:25 2026] 127.0.0.1:51929 Closing
+[Mon Aug 10 17:27:25 2026] 127.0.0.1:60718 Closing
+[Mon Aug 10 17:28:45 2026] 127.0.0.1:60744 Accepted
+[Mon Aug 10 17:28:45 2026] 127.0.0.1:60744 [200]: GET /
+[Mon Aug 10 17:28:45 2026] 127.0.0.1:60744 Closing
+[Mon Aug 10 17:28:47 2026] 127.0.0.1:53516 Accepted
+[Mon Aug 10 17:28:47 2026] 127.0.0.1:53516 [200]: GET /records.php?tab=all&status=Completed
+[Mon Aug 10 17:28:47 2026] 127.0.0.1:53516 Closing
+[Mon Aug 10 17:28:47 2026] 127.0.0.1:51404 Accepted
+[Mon Aug 10 17:28:47 2026] 127.0.0.1:59072 Accepted
+[Mon Aug 10 17:28:47 2026] 127.0.0.1:51404 [200]: GET /assets/styles.css
+[Mon Aug 10 17:28:47 2026] 127.0.0.1:59072 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:28:47 2026] 127.0.0.1:51404 Closing
+[Mon Aug 10 17:28:47 2026] 127.0.0.1:59072 Closing
+[Mon Aug 10 17:28:52 2026] 127.0.0.1:59862 Accepted
+[Mon Aug 10 17:28:53 2026] 127.0.0.1:59862 [200]: GET /records.php?tab=documents
+[Mon Aug 10 17:28:53 2026] 127.0.0.1:59862 Closing
+[Mon Aug 10 17:28:53 2026] 127.0.0.1:61035 Accepted
+[Mon Aug 10 17:28:53 2026] 127.0.0.1:62151 Accepted
+[Mon Aug 10 17:28:53 2026] 127.0.0.1:61035 [200]: GET /assets/styles.css
+[Mon Aug 10 17:28:53 2026] 127.0.0.1:62151 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:28:53 2026] 127.0.0.1:61035 Closing
+[Mon Aug 10 17:28:53 2026] 127.0.0.1:62151 Closing
+[Mon Aug 10 17:28:57 2026] 127.0.0.1:50741 Accepted
+[Mon Aug 10 17:28:57 2026] 127.0.0.1:50741 [200]: GET /record_view.php?id=3
+[Mon Aug 10 17:28:57 2026] 127.0.0.1:50741 Closing
+[Mon Aug 10 17:28:57 2026] 127.0.0.1:59239 Accepted
+[Mon Aug 10 17:28:57 2026] 127.0.0.1:57433 Accepted
+[Mon Aug 10 17:28:57 2026] 127.0.0.1:59239 [200]: GET /assets/styles.css
+[Mon Aug 10 17:28:57 2026] 127.0.0.1:57433 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:28:57 2026] 127.0.0.1:59239 Closing
+[Mon Aug 10 17:28:57 2026] 127.0.0.1:57433 Closing
+[Mon Aug 10 17:29:47 2026] 127.0.0.1:50534 Accepted
+[Mon Aug 10 17:29:47 2026] 127.0.0.1:50534 [200]: GET /records.php
+[Mon Aug 10 17:29:47 2026] 127.0.0.1:50534 Closing
+[Mon Aug 10 17:29:47 2026] 127.0.0.1:49632 Accepted
+[Mon Aug 10 17:29:47 2026] 127.0.0.1:56120 Accepted
+[Mon Aug 10 17:29:47 2026] 127.0.0.1:49632 [200]: GET /assets/styles.css
+[Mon Aug 10 17:29:47 2026] 127.0.0.1:56120 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:29:47 2026] 127.0.0.1:49632 Closing
+[Mon Aug 10 17:29:47 2026] 127.0.0.1:56120 Closing
+[Mon Aug 10 17:30:15 2026] 127.0.0.1:63264 Accepted
+[Mon Aug 10 17:30:15 2026] 127.0.0.1:63264 [200]: GET /dashboard.php
+[Mon Aug 10 17:30:15 2026] 127.0.0.1:63264 Closing
+[Mon Aug 10 17:30:15 2026] 127.0.0.1:51826 Accepted
+[Mon Aug 10 17:30:15 2026] 127.0.0.1:55829 Accepted
+[Mon Aug 10 17:30:15 2026] 127.0.0.1:51826 [200]: GET /assets/styles.css
+[Mon Aug 10 17:30:15 2026] 127.0.0.1:55829 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:30:15 2026] 127.0.0.1:51826 Closing
+[Mon Aug 10 17:30:15 2026] 127.0.0.1:55829 Closing
+[Mon Aug 10 17:32:15 2026] 127.0.0.1:61191 Accepted
+[Mon Aug 10 17:32:15 2026] 127.0.0.1:61191 [302]: GET /dashboard.php
+[Mon Aug 10 17:32:15 2026] 127.0.0.1:61191 Closing
+[Mon Aug 10 17:32:27 2026] 127.0.0.1:55495 Accepted
+[Mon Aug 10 17:32:27 2026] 127.0.0.1:55495 [200]: GET /records.php
+[Mon Aug 10 17:32:27 2026] 127.0.0.1:55495 Closing
+[Mon Aug 10 17:32:27 2026] 127.0.0.1:52035 Accepted
+[Mon Aug 10 17:32:27 2026] 127.0.0.1:64016 Accepted
+[Mon Aug 10 17:32:27 2026] 127.0.0.1:52035 [200]: GET /assets/styles.css
+[Mon Aug 10 17:32:27 2026] 127.0.0.1:64016 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:32:27 2026] 127.0.0.1:52035 Closing
+[Mon Aug 10 17:32:27 2026] 127.0.0.1:64016 Closing
+[Mon Aug 10 17:32:29 2026] 127.0.0.1:51948 Accepted
+[Mon Aug 10 17:32:29 2026] 127.0.0.1:51948 [200]: GET /record_view.php?id=7
+[Mon Aug 10 17:32:29 2026] 127.0.0.1:51948 Closing
+[Mon Aug 10 17:32:29 2026] 127.0.0.1:58822 Accepted
+[Mon Aug 10 17:32:29 2026] 127.0.0.1:59979 Accepted
+[Mon Aug 10 17:32:30 2026] 127.0.0.1:58822 [200]: GET /assets/styles.css
+[Mon Aug 10 17:32:30 2026] 127.0.0.1:59979 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:32:30 2026] 127.0.0.1:58822 Closing
+[Mon Aug 10 17:32:30 2026] 127.0.0.1:59979 Closing
+[Mon Aug 10 17:32:30 2026] 127.0.0.1:59981 Accepted
+[Mon Aug 10 17:32:30 2026] 127.0.0.1:59981 [200]: GET /login.php
+[Mon Aug 10 17:32:30 2026] 127.0.0.1:59981 Closing
+[Mon Aug 10 17:32:32 2026] 127.0.0.1:49515 Accepted
+[Mon Aug 10 17:32:33 2026] 127.0.0.1:49515 [200]: GET /records.php
+[Mon Aug 10 17:32:33 2026] 127.0.0.1:49515 Closing
+[Mon Aug 10 17:32:33 2026] 127.0.0.1:62154 Accepted
+[Mon Aug 10 17:32:33 2026] 127.0.0.1:62976 Accepted
+[Mon Aug 10 17:32:33 2026] 127.0.0.1:62154 [200]: GET /assets/styles.css
+[Mon Aug 10 17:32:33 2026] 127.0.0.1:62976 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:32:33 2026] 127.0.0.1:62154 Closing
+[Mon Aug 10 17:32:33 2026] 127.0.0.1:62976 Closing
+[Mon Aug 10 17:32:54 2026] 127.0.0.1:59555 Accepted
+[Mon Aug 10 17:32:54 2026] 127.0.0.1:59555 [200]: GET /record_view.php?id=7
+[Mon Aug 10 17:32:54 2026] 127.0.0.1:59555 Closing
+[Mon Aug 10 17:32:54 2026] 127.0.0.1:61793 Accepted
+[Mon Aug 10 17:32:54 2026] 127.0.0.1:63237 Accepted
+[Mon Aug 10 17:32:54 2026] 127.0.0.1:61793 [200]: GET /assets/styles.css
+[Mon Aug 10 17:32:54 2026] 127.0.0.1:63237 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:32:54 2026] 127.0.0.1:61793 Closing
+[Mon Aug 10 17:32:54 2026] 127.0.0.1:63237 Closing
+[Mon Aug 10 17:32:57 2026] 127.0.0.1:51441 Accepted
+[Mon Aug 10 17:32:57 2026] 127.0.0.1:51441 [200]: GET /records.php
+[Mon Aug 10 17:32:57 2026] 127.0.0.1:51441 Closing
+[Mon Aug 10 17:32:57 2026] 127.0.0.1:52633 Accepted
+[Mon Aug 10 17:32:57 2026] 127.0.0.1:56419 Accepted
+[Mon Aug 10 17:32:57 2026] 127.0.0.1:52633 [200]: GET /assets/styles.css
+[Mon Aug 10 17:32:57 2026] 127.0.0.1:56419 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:32:57 2026] 127.0.0.1:52633 Closing
+[Mon Aug 10 17:32:57 2026] 127.0.0.1:56419 Closing
+[Mon Aug 10 17:33:07 2026] 127.0.0.1:58946 Accepted
+[Mon Aug 10 17:33:07 2026] 127.0.0.1:58946 [200]: GET /dashboard.php
+[Mon Aug 10 17:33:07 2026] 127.0.0.1:58946 Closing
+[Mon Aug 10 17:33:07 2026] 127.0.0.1:59492 Accepted
+[Mon Aug 10 17:33:07 2026] 127.0.0.1:56111 Accepted
+[Mon Aug 10 17:33:07 2026] 127.0.0.1:59492 [200]: GET /assets/styles.css
+[Mon Aug 10 17:33:07 2026] 127.0.0.1:56111 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:33:07 2026] 127.0.0.1:59492 Closing
+[Mon Aug 10 17:33:07 2026] 127.0.0.1:56111 Closing
+[Mon Aug 10 17:34:38 2026] 127.0.0.1:51053 Accepted
+[Mon Aug 10 17:34:38 2026] 127.0.0.1:51053 [200]: GET /login.php
+[Mon Aug 10 17:34:38 2026] 127.0.0.1:51053 Closing
+[Mon Aug 10 17:35:29 2026] 127.0.0.1:63270 Accepted
+[Mon Aug 10 17:35:30 2026] 127.0.0.1:63270 [200]: GET /records.php
+[Mon Aug 10 17:35:30 2026] 127.0.0.1:63270 Closing
+[Mon Aug 10 17:35:30 2026] 127.0.0.1:58710 Accepted
+[Mon Aug 10 17:35:30 2026] 127.0.0.1:56517 Accepted
+[Mon Aug 10 17:35:30 2026] 127.0.0.1:58710 [200]: GET /assets/styles.css
+[Mon Aug 10 17:35:30 2026] 127.0.0.1:56517 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:35:30 2026] 127.0.0.1:58710 Closing
+[Mon Aug 10 17:35:30 2026] 127.0.0.1:56517 Closing
+[Mon Aug 10 17:35:31 2026] 127.0.0.1:63250 Accepted
+[Mon Aug 10 17:35:32 2026] 127.0.0.1:63250 [200]: GET /record_view.php?id=7&popup=1&return=records&return_url=%2Frecords.php%23record-7
+[Mon Aug 10 17:35:32 2026] 127.0.0.1:63250 Closing
+[Mon Aug 10 17:35:32 2026] 127.0.0.1:56931 Accepted
+[Mon Aug 10 17:35:32 2026] 127.0.0.1:49718 Accepted
+[Mon Aug 10 17:35:32 2026] 127.0.0.1:56931 [200]: GET /assets/styles.css
+[Mon Aug 10 17:35:32 2026] 127.0.0.1:49718 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:35:32 2026] 127.0.0.1:56931 Closing
+[Mon Aug 10 17:35:32 2026] 127.0.0.1:49718 Closing
+[Mon Aug 10 17:35:46 2026] 127.0.0.1:59895 Accepted
+[Mon Aug 10 17:35:46 2026] 127.0.0.1:59895 [200]: GET /records.php
+[Mon Aug 10 17:35:46 2026] 127.0.0.1:59895 Closing
+[Mon Aug 10 17:35:46 2026] 127.0.0.1:57748 Accepted
+[Mon Aug 10 17:35:46 2026] 127.0.0.1:65105 Accepted
+[Mon Aug 10 17:35:46 2026] 127.0.0.1:57748 [200]: GET /assets/styles.css
+[Mon Aug 10 17:35:46 2026] 127.0.0.1:65105 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:35:46 2026] 127.0.0.1:57748 Closing
+[Mon Aug 10 17:35:46 2026] 127.0.0.1:65105 Closing
+[Mon Aug 10 17:35:49 2026] 127.0.0.1:58855 Accepted
+[Mon Aug 10 17:35:49 2026] 127.0.0.1:58855 [200]: GET /record_view.php?id=6&popup=1&return=records&return_url=%2Frecords.php%23record-6
+[Mon Aug 10 17:35:49 2026] 127.0.0.1:58855 Closing
+[Mon Aug 10 17:35:49 2026] 127.0.0.1:50900 Accepted
+[Mon Aug 10 17:35:49 2026] 127.0.0.1:59098 Accepted
+[Mon Aug 10 17:35:49 2026] 127.0.0.1:50900 [200]: GET /assets/styles.css
+[Mon Aug 10 17:35:49 2026] 127.0.0.1:59098 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:35:49 2026] 127.0.0.1:50900 Closing
+[Mon Aug 10 17:35:49 2026] 127.0.0.1:59098 Closing
+[Mon Aug 10 17:35:51 2026] 127.0.0.1:64829 Accepted
+[Mon Aug 10 17:35:51 2026] 127.0.0.1:64829 [200]: GET /records.php
+[Mon Aug 10 17:35:51 2026] 127.0.0.1:64829 Closing
+[Mon Aug 10 17:35:51 2026] 127.0.0.1:54550 Accepted
+[Mon Aug 10 17:35:51 2026] 127.0.0.1:57487 Accepted
+[Mon Aug 10 17:35:51 2026] 127.0.0.1:54550 [200]: GET /assets/styles.css
+[Mon Aug 10 17:35:51 2026] 127.0.0.1:57487 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:35:51 2026] 127.0.0.1:54550 Closing
+[Mon Aug 10 17:35:51 2026] 127.0.0.1:57487 Closing
+[Mon Aug 10 17:35:52 2026] 127.0.0.1:63314 Accepted
+[Mon Aug 10 17:35:52 2026] 127.0.0.1:63314 [200]: GET /record_form.php?id=1
+[Mon Aug 10 17:35:52 2026] 127.0.0.1:63314 Closing
+[Mon Aug 10 17:35:52 2026] 127.0.0.1:64245 Accepted
+[Mon Aug 10 17:35:53 2026] 127.0.0.1:53968 Accepted
+[Mon Aug 10 17:35:53 2026] 127.0.0.1:64245 [200]: GET /assets/styles.css
+[Mon Aug 10 17:35:53 2026] 127.0.0.1:53968 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:35:53 2026] 127.0.0.1:64245 Closing
+[Mon Aug 10 17:35:53 2026] 127.0.0.1:53968 Closing
+[Mon Aug 10 17:35:57 2026] 127.0.0.1:60463 Accepted
+[Mon Aug 10 17:35:57 2026] 127.0.0.1:60463 [200]: GET /records.php
+[Mon Aug 10 17:35:57 2026] 127.0.0.1:60463 Closing
+[Mon Aug 10 17:35:57 2026] 127.0.0.1:53727 Accepted
+[Mon Aug 10 17:35:57 2026] 127.0.0.1:60950 Accepted
+[Mon Aug 10 17:35:57 2026] 127.0.0.1:53727 [200]: GET /assets/styles.css
+[Mon Aug 10 17:35:57 2026] 127.0.0.1:60950 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:35:57 2026] 127.0.0.1:53727 Closing
+[Mon Aug 10 17:35:57 2026] 127.0.0.1:60950 Closing
+[Mon Aug 10 17:35:58 2026] 127.0.0.1:49955 Accepted
+[Mon Aug 10 17:35:59 2026] 127.0.0.1:49955 [200]: GET /record_form.php?id=7
+[Mon Aug 10 17:35:59 2026] 127.0.0.1:49955 Closing
+[Mon Aug 10 17:35:59 2026] 127.0.0.1:51144 Accepted
+[Mon Aug 10 17:35:59 2026] 127.0.0.1:52578 Accepted
+[Mon Aug 10 17:35:59 2026] 127.0.0.1:51144 [200]: GET /assets/styles.css
+[Mon Aug 10 17:35:59 2026] 127.0.0.1:52578 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:35:59 2026] 127.0.0.1:51144 Closing
+[Mon Aug 10 17:35:59 2026] 127.0.0.1:52578 Closing
+[Mon Aug 10 17:36:03 2026] 127.0.0.1:52933 Accepted
+[Mon Aug 10 17:36:03 2026] 127.0.0.1:52933 [200]: GET /records.php
+[Mon Aug 10 17:36:03 2026] 127.0.0.1:52933 Closing
+[Mon Aug 10 17:36:03 2026] 127.0.0.1:50774 Accepted
+[Mon Aug 10 17:36:03 2026] 127.0.0.1:63340 Accepted
+[Mon Aug 10 17:36:03 2026] 127.0.0.1:50774 [200]: GET /assets/styles.css
+[Mon Aug 10 17:36:03 2026] 127.0.0.1:63340 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:36:03 2026] 127.0.0.1:50774 Closing
+[Mon Aug 10 17:36:03 2026] 127.0.0.1:63340 Closing
+[Mon Aug 10 17:36:05 2026] 127.0.0.1:51335 Accepted
+[Mon Aug 10 17:36:05 2026] 127.0.0.1:51335 [200]: GET /record_form.php?id=7
+[Mon Aug 10 17:36:05 2026] 127.0.0.1:51335 Closing
+[Mon Aug 10 17:36:05 2026] 127.0.0.1:52562 Accepted
+[Mon Aug 10 17:36:05 2026] 127.0.0.1:61418 Accepted
+[Mon Aug 10 17:36:05 2026] 127.0.0.1:52562 [200]: GET /assets/styles.css
+[Mon Aug 10 17:36:05 2026] 127.0.0.1:61418 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:36:05 2026] 127.0.0.1:52562 Closing
+[Mon Aug 10 17:36:05 2026] 127.0.0.1:61418 Closing
+[Mon Aug 10 17:36:06 2026] 127.0.0.1:54051 Accepted
+[Mon Aug 10 17:36:07 2026] 127.0.0.1:54051 [200]: GET /records.php
+[Mon Aug 10 17:36:07 2026] 127.0.0.1:54051 Closing
+[Mon Aug 10 17:36:07 2026] 127.0.0.1:64559 Accepted
+[Mon Aug 10 17:36:07 2026] 127.0.0.1:61532 Accepted
+[Mon Aug 10 17:36:07 2026] 127.0.0.1:64559 [200]: GET /assets/styles.css
+[Mon Aug 10 17:36:07 2026] 127.0.0.1:61532 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:36:07 2026] 127.0.0.1:64559 Closing
+[Mon Aug 10 17:36:07 2026] 127.0.0.1:61532 Closing
+[Mon Aug 10 17:38:55 2026] 127.0.0.1:62848 Accepted
+[Mon Aug 10 17:38:55 2026] 127.0.0.1:62848 [200]: GET /dashboard.php
+[Mon Aug 10 17:38:55 2026] 127.0.0.1:62848 Closing
+[Mon Aug 10 17:38:55 2026] 127.0.0.1:57495 Accepted
+[Mon Aug 10 17:38:55 2026] 127.0.0.1:57397 Accepted
+[Mon Aug 10 17:38:55 2026] 127.0.0.1:57495 [200]: GET /assets/styles.css
+[Mon Aug 10 17:38:55 2026] 127.0.0.1:57397 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:38:55 2026] 127.0.0.1:57495 Closing
+[Mon Aug 10 17:38:55 2026] 127.0.0.1:57397 Closing
+[Mon Aug 10 17:39:07 2026] 127.0.0.1:54783 Accepted
+[Mon Aug 10 17:39:07 2026] 127.0.0.1:54783 [200]: GET /log_history.php?view=user&id=35&popup=1&return_url=%2Fdashboard.php%3Fcity_tab%3Dlogs
+[Mon Aug 10 17:39:07 2026] 127.0.0.1:54783 Closing
+[Mon Aug 10 17:39:07 2026] 127.0.0.1:64042 Accepted
+[Mon Aug 10 17:39:07 2026] 127.0.0.1:51684 Accepted
+[Mon Aug 10 17:39:07 2026] 127.0.0.1:64042 [200]: GET /assets/styles.css
+[Mon Aug 10 17:39:07 2026] 127.0.0.1:51684 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:39:07 2026] 127.0.0.1:64042 Closing
+[Mon Aug 10 17:39:07 2026] 127.0.0.1:51684 Closing
+[Mon Aug 10 17:39:14 2026] 127.0.0.1:64632 Accepted
+[Mon Aug 10 17:39:15 2026] 127.0.0.1:64632 [200]: GET /dashboard.php?city_tab=logs
+[Mon Aug 10 17:39:15 2026] 127.0.0.1:64632 Closing
+[Mon Aug 10 17:39:15 2026] 127.0.0.1:60976 Accepted
+[Mon Aug 10 17:39:15 2026] 127.0.0.1:60700 Accepted
+[Mon Aug 10 17:39:15 2026] 127.0.0.1:60976 [200]: GET /assets/styles.css
+[Mon Aug 10 17:39:15 2026] 127.0.0.1:60700 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:39:15 2026] 127.0.0.1:60976 Closing
+[Mon Aug 10 17:39:15 2026] 127.0.0.1:60700 Closing
+[Mon Aug 10 17:39:15 2026] 127.0.0.1:59886 Accepted
+[Mon Aug 10 17:39:16 2026] 127.0.0.1:59886 [200]: GET /log_history.php?view=record&id=8&popup=1&return_url=%2Fdashboard.php%3Fcity_tab%3Dlogs
+[Mon Aug 10 17:39:16 2026] 127.0.0.1:59886 Closing
+[Mon Aug 10 17:39:16 2026] 127.0.0.1:50480 Accepted
+[Mon Aug 10 17:39:16 2026] 127.0.0.1:65007 Accepted
+[Mon Aug 10 17:39:16 2026] 127.0.0.1:50480 [200]: GET /assets/styles.css
+[Mon Aug 10 17:39:16 2026] 127.0.0.1:65007 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:39:16 2026] 127.0.0.1:50480 Closing
+[Mon Aug 10 17:39:16 2026] 127.0.0.1:65007 Closing
+[Mon Aug 10 17:39:22 2026] 127.0.0.1:65012 Accepted
+[Mon Aug 10 17:39:22 2026] 127.0.0.1:65012 [200]: GET /login.php
+[Mon Aug 10 17:39:22 2026] 127.0.0.1:65012 Closing
+[Mon Aug 10 17:39:24 2026] 127.0.0.1:50849 Accepted
+[Mon Aug 10 17:39:25 2026] 127.0.0.1:50849 [200]: GET /dashboard.php?city_tab=logs
+[Mon Aug 10 17:39:25 2026] 127.0.0.1:50849 Closing
+[Mon Aug 10 17:39:25 2026] 127.0.0.1:54455 Accepted
+[Mon Aug 10 17:39:25 2026] 127.0.0.1:51832 Accepted
+[Mon Aug 10 17:39:25 2026] 127.0.0.1:54455 [200]: GET /assets/styles.css
+[Mon Aug 10 17:39:25 2026] 127.0.0.1:51832 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:39:25 2026] 127.0.0.1:54455 Closing
+[Mon Aug 10 17:39:25 2026] 127.0.0.1:51832 Closing
+[Mon Aug 10 17:39:29 2026] 127.0.0.1:64556 Accepted
+[Mon Aug 10 17:39:30 2026] 127.0.0.1:64556 [200]: GET /log_history.php?view=user&id=2&popup=1&return_url=%2Fdashboard.php%3Fcity_tab%3Dlogs
+[Mon Aug 10 17:39:30 2026] 127.0.0.1:64556 Closing
+[Mon Aug 10 17:39:30 2026] 127.0.0.1:62397 Accepted
+[Mon Aug 10 17:39:30 2026] 127.0.0.1:57100 Accepted
+[Mon Aug 10 17:39:30 2026] 127.0.0.1:62397 [200]: GET /assets/styles.css
+[Mon Aug 10 17:39:30 2026] 127.0.0.1:57100 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:39:30 2026] 127.0.0.1:62397 Closing
+[Mon Aug 10 17:39:30 2026] 127.0.0.1:57100 Closing
+[Mon Aug 10 17:39:31 2026] 127.0.0.1:57591 Accepted
+[Mon Aug 10 17:39:31 2026] 127.0.0.1:57591 [200]: GET /dashboard.php?city_tab=logs
+[Mon Aug 10 17:39:31 2026] 127.0.0.1:57591 Closing
+[Mon Aug 10 17:39:31 2026] 127.0.0.1:64405 Accepted
+[Mon Aug 10 17:39:31 2026] 127.0.0.1:54155 Accepted
+[Mon Aug 10 17:39:31 2026] 127.0.0.1:64405 [200]: GET /assets/styles.css
+[Mon Aug 10 17:39:31 2026] 127.0.0.1:54155 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:39:31 2026] 127.0.0.1:64405 Closing
+[Mon Aug 10 17:39:31 2026] 127.0.0.1:54155 Closing
+[Mon Aug 10 17:40:29 2026] 127.0.0.1:58182 Accepted
+[Mon Aug 10 17:40:30 2026] 127.0.0.1:58182 [200]: GET /records.php
+[Mon Aug 10 17:40:30 2026] 127.0.0.1:58182 Closing
+[Mon Aug 10 17:40:30 2026] 127.0.0.1:60669 Accepted
+[Mon Aug 10 17:40:30 2026] 127.0.0.1:65322 Accepted
+[Mon Aug 10 17:40:30 2026] 127.0.0.1:60669 [200]: GET /assets/styles.css
+[Mon Aug 10 17:40:30 2026] 127.0.0.1:65322 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:40:30 2026] 127.0.0.1:60669 Closing
+[Mon Aug 10 17:40:30 2026] 127.0.0.1:65322 Closing
+[Mon Aug 10 17:42:05 2026] 127.0.0.1:65357 Accepted
+[Mon Aug 10 17:42:05 2026] 127.0.0.1:65357 [200]: GET /login.php
+[Mon Aug 10 17:42:05 2026] 127.0.0.1:65357 Closing
+[Mon Aug 10 17:42:25 2026] 127.0.0.1:59074 Accepted
+[Mon Aug 10 17:42:25 2026] 127.0.0.1:59074 [200]: GET /record_form.php?id=7
+[Mon Aug 10 17:42:25 2026] 127.0.0.1:59074 Closing
+[Mon Aug 10 17:42:25 2026] 127.0.0.1:64293 Accepted
+[Mon Aug 10 17:42:25 2026] 127.0.0.1:57196 Accepted
+[Mon Aug 10 17:42:25 2026] 127.0.0.1:64293 [200]: GET /assets/styles.css
+[Mon Aug 10 17:42:25 2026] 127.0.0.1:57196 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:42:25 2026] 127.0.0.1:64293 Closing
+[Mon Aug 10 17:42:25 2026] 127.0.0.1:57196 Closing
+[Mon Aug 10 17:42:28 2026] 127.0.0.1:61570 Accepted
+[Mon Aug 10 17:42:28 2026] 127.0.0.1:61570 [200]: GET /records.php
+[Mon Aug 10 17:42:28 2026] 127.0.0.1:61570 Closing
+[Mon Aug 10 17:42:28 2026] 127.0.0.1:50779 Accepted
+[Mon Aug 10 17:42:28 2026] 127.0.0.1:61280 Accepted
+[Mon Aug 10 17:42:28 2026] 127.0.0.1:50779 [200]: GET /assets/styles.css
+[Mon Aug 10 17:42:28 2026] 127.0.0.1:61280 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:42:28 2026] 127.0.0.1:50779 Closing
+[Mon Aug 10 17:42:28 2026] 127.0.0.1:61280 Closing
+[Mon Aug 10 17:42:40 2026] 127.0.0.1:52557 Accepted
+[Mon Aug 10 17:42:40 2026] 127.0.0.1:52557 [200]: GET /record_attachments_view.php?record_id=7
+[Mon Aug 10 17:42:40 2026] 127.0.0.1:52557 Closing
+[Mon Aug 10 17:42:40 2026] 127.0.0.1:60579 Accepted
+[Mon Aug 10 17:42:40 2026] 127.0.0.1:52644 Accepted
+[Mon Aug 10 17:42:40 2026] 127.0.0.1:60579 [200]: GET /assets/styles.css
+[Mon Aug 10 17:42:40 2026] 127.0.0.1:52644 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:42:40 2026] 127.0.0.1:60579 Closing
+[Mon Aug 10 17:42:40 2026] 127.0.0.1:52644 Closing
+[Mon Aug 10 17:42:40 2026] 127.0.0.1:57254 Accepted
+[Mon Aug 10 17:42:40 2026] 127.0.0.1:57254 [200]: GET /record_attachment.php?id=7
+[Mon Aug 10 17:42:40 2026] 127.0.0.1:57254 Closing
+[Mon Aug 10 17:42:41 2026] 127.0.0.1:55818 Accepted
+[Mon Aug 10 17:42:51 2026] 127.0.0.1:55818 [200]: GET /record_view.php?id=7
+[Mon Aug 10 17:42:51 2026] 127.0.0.1:55818 Closing
+[Mon Aug 10 17:42:51 2026] 127.0.0.1:52759 Accepted
+[Mon Aug 10 17:42:51 2026] 127.0.0.1:57285 Accepted
+[Mon Aug 10 17:42:51 2026] 127.0.0.1:52759 [200]: GET /assets/styles.css
+[Mon Aug 10 17:42:51 2026] 127.0.0.1:57285 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:42:51 2026] 127.0.0.1:52759 Closing
+[Mon Aug 10 17:42:51 2026] 127.0.0.1:57285 Closing
+[Mon Aug 10 17:42:57 2026] 127.0.0.1:49491 Accepted
+[Mon Aug 10 17:42:57 2026] 127.0.0.1:49491 [200]: GET /records.php
+[Mon Aug 10 17:42:57 2026] 127.0.0.1:49491 Closing
+[Mon Aug 10 17:42:57 2026] 127.0.0.1:53163 Accepted
+[Mon Aug 10 17:42:57 2026] 127.0.0.1:56712 Accepted
+[Mon Aug 10 17:42:57 2026] 127.0.0.1:53163 [200]: GET /assets/styles.css
+[Mon Aug 10 17:42:57 2026] 127.0.0.1:56712 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:42:57 2026] 127.0.0.1:53163 Closing
+[Mon Aug 10 17:42:57 2026] 127.0.0.1:56712 Closing
+[Mon Aug 10 17:42:58 2026] 127.0.0.1:62933 Accepted
+[Mon Aug 10 17:42:58 2026] 127.0.0.1:62933 [200]: GET /record_view.php?id=7&popup=1&return=records&return_url=%2Frecords.php%23record-7
+[Mon Aug 10 17:42:58 2026] 127.0.0.1:62933 Closing
+[Mon Aug 10 17:42:58 2026] 127.0.0.1:60010 Accepted
+[Mon Aug 10 17:42:58 2026] 127.0.0.1:62866 Accepted
+[Mon Aug 10 17:42:58 2026] 127.0.0.1:60010 [200]: GET /assets/styles.css
+[Mon Aug 10 17:42:58 2026] 127.0.0.1:62866 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:42:58 2026] 127.0.0.1:60010 Closing
+[Mon Aug 10 17:42:58 2026] 127.0.0.1:62866 Closing
+[Mon Aug 10 17:43:00 2026] 127.0.0.1:61389 Accepted
+[Mon Aug 10 17:43:00 2026] 127.0.0.1:61389 [200]: GET /records.php
+[Mon Aug 10 17:43:00 2026] 127.0.0.1:61389 Closing
+[Mon Aug 10 17:43:00 2026] 127.0.0.1:49891 Accepted
+[Mon Aug 10 17:43:00 2026] 127.0.0.1:61538 Accepted
+[Mon Aug 10 17:43:00 2026] 127.0.0.1:49891 [200]: GET /assets/styles.css
+[Mon Aug 10 17:43:00 2026] 127.0.0.1:61538 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:43:00 2026] 127.0.0.1:49891 Closing
+[Mon Aug 10 17:43:00 2026] 127.0.0.1:61538 Closing
+[Mon Aug 10 17:43:02 2026] 127.0.0.1:64785 Accepted
+[Mon Aug 10 17:43:02 2026] 127.0.0.1:64785 [200]: GET /record_form.php?id=7&popup=1&return=records&return_url=%2Frecords.php%23record-7
+[Mon Aug 10 17:43:02 2026] 127.0.0.1:64785 Closing
+[Mon Aug 10 17:43:02 2026] 127.0.0.1:56513 Accepted
+[Mon Aug 10 17:43:02 2026] 127.0.0.1:57227 Accepted
+[Mon Aug 10 17:43:02 2026] 127.0.0.1:56513 [200]: GET /assets/styles.css
+[Mon Aug 10 17:43:02 2026] 127.0.0.1:57227 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:43:02 2026] 127.0.0.1:56513 Closing
+[Mon Aug 10 17:43:02 2026] 127.0.0.1:57227 Closing
+[Mon Aug 10 17:43:16 2026] 127.0.0.1:51068 Accepted
+[Mon Aug 10 17:43:16 2026] 127.0.0.1:51068 [200]: GET /records.php
+[Mon Aug 10 17:43:16 2026] 127.0.0.1:51068 Closing
+[Mon Aug 10 17:43:16 2026] 127.0.0.1:55901 Accepted
+[Mon Aug 10 17:43:16 2026] 127.0.0.1:51541 Accepted
+[Mon Aug 10 17:43:16 2026] 127.0.0.1:55901 [200]: GET /assets/styles.css
+[Mon Aug 10 17:43:16 2026] 127.0.0.1:51541 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:43:16 2026] 127.0.0.1:55901 Closing
+[Mon Aug 10 17:43:16 2026] 127.0.0.1:51541 Closing
+[Mon Aug 10 17:43:18 2026] 127.0.0.1:63949 Accepted
+[Mon Aug 10 17:43:18 2026] 127.0.0.1:63949 [200]: GET /record_view.php?id=7&popup=1&return=records&return_url=%2Frecords.php%23record-7
+[Mon Aug 10 17:43:18 2026] 127.0.0.1:63949 Closing
+[Mon Aug 10 17:43:18 2026] 127.0.0.1:49822 Accepted
+[Mon Aug 10 17:43:18 2026] 127.0.0.1:56640 Accepted
+[Mon Aug 10 17:43:18 2026] 127.0.0.1:49822 [200]: GET /assets/styles.css
+[Mon Aug 10 17:43:18 2026] 127.0.0.1:56640 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:43:18 2026] 127.0.0.1:49822 Closing
+[Mon Aug 10 17:43:18 2026] 127.0.0.1:56640 Closing
+[Mon Aug 10 17:43:20 2026] 127.0.0.1:54571 Accepted
+[Mon Aug 10 17:43:21 2026] 127.0.0.1:54571 [200]: GET /record_attachments_view.php?record_id=7
+[Mon Aug 10 17:43:21 2026] 127.0.0.1:54571 Closing
+[Mon Aug 10 17:43:21 2026] 127.0.0.1:61759 Accepted
+[Mon Aug 10 17:43:21 2026] 127.0.0.1:60424 Accepted
+[Mon Aug 10 17:43:21 2026] 127.0.0.1:61759 [200]: GET /assets/styles.css
+[Mon Aug 10 17:43:21 2026] 127.0.0.1:60424 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:43:21 2026] 127.0.0.1:61759 Closing
+[Mon Aug 10 17:43:21 2026] 127.0.0.1:60424 Closing
+[Mon Aug 10 17:43:21 2026] 127.0.0.1:50279 Accepted
+[Mon Aug 10 17:43:21 2026] 127.0.0.1:50279 [200]: GET /record_attachment.php?id=7
+[Mon Aug 10 17:43:21 2026] 127.0.0.1:50279 Closing
+[Mon Aug 10 17:43:21 2026] 127.0.0.1:60281 Accepted
+[Mon Aug 10 17:43:24 2026] 127.0.0.1:60281 [200]: GET /record_view.php?id=7
+[Mon Aug 10 17:43:24 2026] 127.0.0.1:60281 Closing
+[Mon Aug 10 17:43:24 2026] 127.0.0.1:63856 Accepted
+[Mon Aug 10 17:43:24 2026] 127.0.0.1:62727 Accepted
+[Mon Aug 10 17:43:24 2026] 127.0.0.1:63856 [200]: GET /assets/styles.css
+[Mon Aug 10 17:43:24 2026] 127.0.0.1:62727 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:43:24 2026] 127.0.0.1:63856 Closing
+[Mon Aug 10 17:43:24 2026] 127.0.0.1:62727 Closing
+[Mon Aug 10 17:43:30 2026] 127.0.0.1:53577 Accepted
+[Mon Aug 10 17:43:30 2026] 127.0.0.1:53577 [200]: GET /records.php
+[Mon Aug 10 17:43:30 2026] 127.0.0.1:53577 Closing
+[Mon Aug 10 17:43:30 2026] 127.0.0.1:59494 Accepted
+[Mon Aug 10 17:43:30 2026] 127.0.0.1:52883 Accepted
+[Mon Aug 10 17:43:30 2026] 127.0.0.1:59494 [200]: GET /assets/styles.css
+[Mon Aug 10 17:43:30 2026] 127.0.0.1:52883 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:43:30 2026] 127.0.0.1:59494 Closing
+[Mon Aug 10 17:43:30 2026] 127.0.0.1:52883 Closing
+[Mon Aug 10 17:43:43 2026] 127.0.0.1:61280 Accepted
+[Mon Aug 10 17:43:44 2026] 127.0.0.1:61280 [200]: GET /record_view.php?id=7&popup=1&return=records&return_url=%2Frecords.php%23record-7
+[Mon Aug 10 17:43:44 2026] 127.0.0.1:61280 Closing
+[Mon Aug 10 17:43:44 2026] 127.0.0.1:63250 Accepted
+[Mon Aug 10 17:43:44 2026] 127.0.0.1:64471 Accepted
+[Mon Aug 10 17:43:44 2026] 127.0.0.1:63250 [200]: GET /assets/styles.css
+[Mon Aug 10 17:43:44 2026] 127.0.0.1:64471 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:43:44 2026] 127.0.0.1:63250 Closing
+[Mon Aug 10 17:43:44 2026] 127.0.0.1:64471 Closing
+[Mon Aug 10 17:44:05 2026] 127.0.0.1:64481 Accepted
+[Mon Aug 10 17:44:05 2026] 127.0.0.1:64481 [200]: GET /login.php
+[Mon Aug 10 17:44:05 2026] 127.0.0.1:64481 Closing
+[Mon Aug 10 17:44:28 2026] 127.0.0.1:50017 Accepted
+[Mon Aug 10 17:44:28 2026] 127.0.0.1:50017 [200]: GET /records.php
+[Mon Aug 10 17:44:28 2026] 127.0.0.1:50017 Closing
+[Mon Aug 10 17:44:28 2026] 127.0.0.1:55198 Accepted
+[Mon Aug 10 17:44:28 2026] 127.0.0.1:61573 Accepted
+[Mon Aug 10 17:44:28 2026] 127.0.0.1:55198 [200]: GET /assets/styles.css
+[Mon Aug 10 17:44:28 2026] 127.0.0.1:61573 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:44:28 2026] 127.0.0.1:55198 Closing
+[Mon Aug 10 17:44:28 2026] 127.0.0.1:61573 Closing
+[Mon Aug 10 17:44:35 2026] 127.0.0.1:64745 Accepted
+[Mon Aug 10 17:44:35 2026] 127.0.0.1:64745 [200]: GET /records.php
+[Mon Aug 10 17:44:35 2026] 127.0.0.1:64745 Closing
+[Mon Aug 10 17:44:35 2026] 127.0.0.1:64730 Accepted
+[Mon Aug 10 17:44:35 2026] 127.0.0.1:57603 Accepted
+[Mon Aug 10 17:44:35 2026] 127.0.0.1:64730 [200]: GET /assets/styles.css
+[Mon Aug 10 17:44:35 2026] 127.0.0.1:57603 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:44:35 2026] 127.0.0.1:64730 Closing
+[Mon Aug 10 17:44:35 2026] 127.0.0.1:57603 Closing
+[Mon Aug 10 17:44:38 2026] 127.0.0.1:63955 Accepted
+[Mon Aug 10 17:44:38 2026] 127.0.0.1:63955 [200]: GET /record_view.php?id=7&popup=1&return=records&return_url=%2Frecords.php%23record-7
+[Mon Aug 10 17:44:38 2026] 127.0.0.1:63955 Closing
+[Mon Aug 10 17:44:38 2026] 127.0.0.1:49203 Accepted
+[Mon Aug 10 17:44:38 2026] 127.0.0.1:63746 Accepted
+[Mon Aug 10 17:44:38 2026] 127.0.0.1:49203 [200]: GET /assets/styles.css
+[Mon Aug 10 17:44:38 2026] 127.0.0.1:63746 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:44:38 2026] 127.0.0.1:49203 Closing
+[Mon Aug 10 17:44:38 2026] 127.0.0.1:63746 Closing
+[Mon Aug 10 17:44:40 2026] 127.0.0.1:57695 Accepted
+[Mon Aug 10 17:44:40 2026] 127.0.0.1:57695 [200]: GET /records.php
+[Mon Aug 10 17:44:40 2026] 127.0.0.1:57695 Closing
+[Mon Aug 10 17:44:40 2026] 127.0.0.1:64058 Accepted
+[Mon Aug 10 17:44:40 2026] 127.0.0.1:57677 Accepted
+[Mon Aug 10 17:44:40 2026] 127.0.0.1:64058 [200]: GET /assets/styles.css
+[Mon Aug 10 17:44:40 2026] 127.0.0.1:57677 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:44:40 2026] 127.0.0.1:64058 Closing
+[Mon Aug 10 17:44:40 2026] 127.0.0.1:57677 Closing
+[Mon Aug 10 17:44:41 2026] 127.0.0.1:50651 Accepted
+[Mon Aug 10 17:44:42 2026] 127.0.0.1:50651 [200]: GET /record_view.php?id=7&popup=1&return=records&return_url=%2Frecords.php%23record-7
+[Mon Aug 10 17:44:42 2026] 127.0.0.1:50651 Closing
+[Mon Aug 10 17:44:42 2026] 127.0.0.1:52397 Accepted
+[Mon Aug 10 17:44:42 2026] 127.0.0.1:58103 Accepted
+[Mon Aug 10 17:44:42 2026] 127.0.0.1:52397 [200]: GET /assets/styles.css
+[Mon Aug 10 17:44:42 2026] 127.0.0.1:58103 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:44:42 2026] 127.0.0.1:52397 Closing
+[Mon Aug 10 17:44:42 2026] 127.0.0.1:58103 Closing
+[Mon Aug 10 17:44:43 2026] 127.0.0.1:56013 Accepted
+[Mon Aug 10 17:44:43 2026] 127.0.0.1:56013 [200]: GET /records.php
+[Mon Aug 10 17:44:43 2026] 127.0.0.1:56013 Closing
+[Mon Aug 10 17:44:43 2026] 127.0.0.1:64709 Accepted
+[Mon Aug 10 17:44:43 2026] 127.0.0.1:64527 Accepted
+[Mon Aug 10 17:44:43 2026] 127.0.0.1:64709 [200]: GET /assets/styles.css
+[Mon Aug 10 17:44:43 2026] 127.0.0.1:64527 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:44:43 2026] 127.0.0.1:64709 Closing
+[Mon Aug 10 17:44:43 2026] 127.0.0.1:64527 Closing
+[Mon Aug 10 17:46:13 2026] 127.0.0.1:56051 Accepted
+[Mon Aug 10 17:46:14 2026] 127.0.0.1:56051 [200]: GET /record_view.php?id=7&popup=1&return=records&return_url=%2Frecords.php%23record-7
+[Mon Aug 10 17:46:14 2026] 127.0.0.1:56051 Closing
+[Mon Aug 10 17:46:14 2026] 127.0.0.1:58164 Accepted
+[Mon Aug 10 17:46:14 2026] 127.0.0.1:60772 Accepted
+[Mon Aug 10 17:46:14 2026] 127.0.0.1:58164 [200]: GET /assets/styles.css
+[Mon Aug 10 17:46:14 2026] 127.0.0.1:60772 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:46:14 2026] 127.0.0.1:58164 Closing
+[Mon Aug 10 17:46:14 2026] 127.0.0.1:60772 Closing
+[Mon Aug 10 17:46:16 2026] 127.0.0.1:50933 Accepted
+[Mon Aug 10 17:46:16 2026] 127.0.0.1:50933 [200]: GET /record_attachments_view.php?record_id=7&popup=1&return=records&return_url=%2Frecords.php%23record-7
+[Mon Aug 10 17:46:16 2026] 127.0.0.1:50933 Closing
+[Mon Aug 10 17:46:16 2026] 127.0.0.1:60562 Accepted
+[Mon Aug 10 17:46:16 2026] 127.0.0.1:64631 Accepted
+[Mon Aug 10 17:46:16 2026] 127.0.0.1:60562 [200]: GET /assets/styles.css
+[Mon Aug 10 17:46:16 2026] 127.0.0.1:64631 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:46:16 2026] 127.0.0.1:60562 Closing
+[Mon Aug 10 17:46:16 2026] 127.0.0.1:64631 Closing
+[Mon Aug 10 17:46:16 2026] 127.0.0.1:53136 Accepted
+[Mon Aug 10 17:46:16 2026] 127.0.0.1:53136 [200]: GET /record_attachment.php?id=7
+[Mon Aug 10 17:46:16 2026] 127.0.0.1:53136 Closing
+[Mon Aug 10 17:46:16 2026] 127.0.0.1:52120 Accepted
+[Mon Aug 10 17:46:24 2026] 127.0.0.1:52120 [200]: GET /records.php
+[Mon Aug 10 17:46:24 2026] 127.0.0.1:52120 Closing
+[Mon Aug 10 17:46:24 2026] 127.0.0.1:62423 Accepted
+[Mon Aug 10 17:46:24 2026] 127.0.0.1:60420 Accepted
+[Mon Aug 10 17:46:24 2026] 127.0.0.1:62423 [200]: GET /assets/styles.css
+[Mon Aug 10 17:46:24 2026] 127.0.0.1:60420 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:46:24 2026] 127.0.0.1:62423 Closing
+[Mon Aug 10 17:46:24 2026] 127.0.0.1:60420 Closing
+[Mon Aug 10 17:47:09 2026] 127.0.0.1:50611 Accepted
+[Mon Aug 10 17:47:09 2026] 127.0.0.1:50611 [200]: GET /login.php
+[Mon Aug 10 17:47:09 2026] 127.0.0.1:50611 Closing
+[Mon Aug 10 17:47:51 2026] 127.0.0.1:50619 Accepted
+[Mon Aug 10 17:47:52 2026] 127.0.0.1:50619 [200]: GET /record_view.php?id=7&popup=1&return=records&return_url=%2Frecords.php%23record-7
+[Mon Aug 10 17:47:52 2026] 127.0.0.1:50619 Closing
+[Mon Aug 10 17:47:52 2026] 127.0.0.1:58941 Accepted
+[Mon Aug 10 17:47:52 2026] 127.0.0.1:49547 Accepted
+[Mon Aug 10 17:47:52 2026] 127.0.0.1:58941 [200]: GET /assets/styles.css
+[Mon Aug 10 17:47:52 2026] 127.0.0.1:49547 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:47:52 2026] 127.0.0.1:58941 Closing
+[Mon Aug 10 17:47:52 2026] 127.0.0.1:49547 Closing
+[Mon Aug 10 17:51:46 2026] 127.0.0.1:50060 Accepted
+[Mon Aug 10 17:51:46 2026] 127.0.0.1:50060 [200]: GET /assets/styles.css
+[Mon Aug 10 17:51:46 2026] 127.0.0.1:50060 Closing
+[Mon Aug 10 17:51:46 2026] 127.0.0.1:50061 Accepted
+[Mon Aug 10 17:51:46 2026] 127.0.0.1:50061 [302]: GET /dashboard.php
+[Mon Aug 10 17:51:46 2026] 127.0.0.1:50061 Closing
+[Mon Aug 10 17:52:16 2026] 127.0.0.1:56035 Accepted
+[Mon Aug 10 17:52:16 2026] 127.0.0.1:56035 [200]: GET /record_view.php?id=7&popup=1&return=records&return_url=%2Frecords.php%23record-7
+[Mon Aug 10 17:52:16 2026] 127.0.0.1:56035 Closing
+[Mon Aug 10 17:52:16 2026] 127.0.0.1:65199 Accepted
+[Mon Aug 10 17:52:16 2026] 127.0.0.1:56203 Accepted
+[Mon Aug 10 17:52:16 2026] 127.0.0.1:65199 [200]: GET /assets/styles.css
+[Mon Aug 10 17:52:16 2026] 127.0.0.1:56203 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:52:16 2026] 127.0.0.1:65199 Closing
+[Mon Aug 10 17:52:16 2026] 127.0.0.1:56203 Closing
+[Mon Aug 10 17:52:20 2026] 127.0.0.1:54994 Accepted
+[Mon Aug 10 17:52:20 2026] 127.0.0.1:54994 [200]: GET /records.php
+[Mon Aug 10 17:52:20 2026] 127.0.0.1:54994 Closing
+[Mon Aug 10 17:52:20 2026] 127.0.0.1:64786 Accepted
+[Mon Aug 10 17:52:20 2026] 127.0.0.1:62419 Accepted
+[Mon Aug 10 17:52:20 2026] 127.0.0.1:64786 [200]: GET /assets/styles.css
+[Mon Aug 10 17:52:20 2026] 127.0.0.1:62419 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:52:20 2026] 127.0.0.1:64786 Closing
+[Mon Aug 10 17:52:20 2026] 127.0.0.1:62419 Closing
+[Mon Aug 10 17:52:34 2026] 127.0.0.1:62971 Accepted
+[Mon Aug 10 17:52:35 2026] 127.0.0.1:62971 [200]: GET /records.php?tab=all
+[Mon Aug 10 17:52:35 2026] 127.0.0.1:62971 Closing
+[Mon Aug 10 17:52:35 2026] 127.0.0.1:65088 Accepted
+[Mon Aug 10 17:52:35 2026] 127.0.0.1:61044 Accepted
+[Mon Aug 10 17:52:35 2026] 127.0.0.1:65088 [200]: GET /assets/styles.css
+[Mon Aug 10 17:52:35 2026] 127.0.0.1:61044 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:52:35 2026] 127.0.0.1:65088 Closing
+[Mon Aug 10 17:52:35 2026] 127.0.0.1:61044 Closing
+[Mon Aug 10 17:52:37 2026] 127.0.0.1:61602 Accepted
+[Mon Aug 10 17:52:37 2026] 127.0.0.1:61602 [200]: GET /records.php?tab=certified
+[Mon Aug 10 17:52:37 2026] 127.0.0.1:61602 Closing
+[Mon Aug 10 17:52:37 2026] 127.0.0.1:59087 Accepted
+[Mon Aug 10 17:52:37 2026] 127.0.0.1:60304 Accepted
+[Mon Aug 10 17:52:37 2026] 127.0.0.1:59087 [200]: GET /assets/styles.css
+[Mon Aug 10 17:52:37 2026] 127.0.0.1:60304 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:52:37 2026] 127.0.0.1:59087 Closing
+[Mon Aug 10 17:52:37 2026] 127.0.0.1:60304 Closing
+[Mon Aug 10 17:52:38 2026] 127.0.0.1:57350 Accepted
+[Mon Aug 10 17:52:38 2026] 127.0.0.1:57350 [200]: GET /records.php?tab=documents
+[Mon Aug 10 17:52:38 2026] 127.0.0.1:57350 Closing
+[Mon Aug 10 17:52:38 2026] 127.0.0.1:56363 Accepted
+[Mon Aug 10 17:52:38 2026] 127.0.0.1:57106 Accepted
+[Mon Aug 10 17:52:38 2026] 127.0.0.1:56363 [200]: GET /assets/styles.css
+[Mon Aug 10 17:52:38 2026] 127.0.0.1:57106 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:52:38 2026] 127.0.0.1:56363 Closing
+[Mon Aug 10 17:52:38 2026] 127.0.0.1:57106 Closing
+[Mon Aug 10 17:52:40 2026] 127.0.0.1:61787 Accepted
+[Mon Aug 10 17:52:40 2026] 127.0.0.1:61787 [200]: GET /dashboard.php
+[Mon Aug 10 17:52:40 2026] 127.0.0.1:61787 Closing
+[Mon Aug 10 17:52:40 2026] 127.0.0.1:64940 Accepted
+[Mon Aug 10 17:52:40 2026] 127.0.0.1:58942 Accepted
+[Mon Aug 10 17:52:40 2026] 127.0.0.1:64940 [200]: GET /assets/styles.css
+[Mon Aug 10 17:52:40 2026] 127.0.0.1:58942 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:52:40 2026] 127.0.0.1:64940 Closing
+[Mon Aug 10 17:52:40 2026] 127.0.0.1:58942 Closing
+[Mon Aug 10 17:53:11 2026] 127.0.0.1:52816 Accepted
+[Mon Aug 10 17:53:11 2026] 127.0.0.1:52816 [200]: GET /assets/styles.css
+[Mon Aug 10 17:53:11 2026] 127.0.0.1:52816 Closing
+[Mon Aug 10 17:53:56 2026] 127.0.0.1:64927 Accepted
+[Mon Aug 10 17:53:57 2026] 127.0.0.1:64927 [200]: GET /record_view.php?id=7
+[Mon Aug 10 17:53:57 2026] 127.0.0.1:64927 Closing
+[Mon Aug 10 17:53:57 2026] 127.0.0.1:52537 Accepted
+[Mon Aug 10 17:53:57 2026] 127.0.0.1:56515 Accepted
+[Mon Aug 10 17:53:57 2026] 127.0.0.1:52537 [200]: GET /assets/styles.css
+[Mon Aug 10 17:53:57 2026] 127.0.0.1:56515 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:53:57 2026] 127.0.0.1:52537 Closing
+[Mon Aug 10 17:53:57 2026] 127.0.0.1:56515 Closing
+[Mon Aug 10 17:53:59 2026] 127.0.0.1:51809 Accepted
+[Mon Aug 10 17:53:59 2026] 127.0.0.1:51809 [200]: GET /record_form.php?id=7
+[Mon Aug 10 17:53:59 2026] 127.0.0.1:51809 Closing
+[Mon Aug 10 17:53:59 2026] 127.0.0.1:56781 Accepted
+[Mon Aug 10 17:53:59 2026] 127.0.0.1:49188 Accepted
+[Mon Aug 10 17:53:59 2026] 127.0.0.1:56781 [200]: GET /assets/styles.css
+[Mon Aug 10 17:53:59 2026] 127.0.0.1:49188 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:53:59 2026] 127.0.0.1:56781 Closing
+[Mon Aug 10 17:53:59 2026] 127.0.0.1:49188 Closing
+[Mon Aug 10 17:54:01 2026] 127.0.0.1:54336 Accepted
+[Mon Aug 10 17:54:02 2026] 127.0.0.1:54336 [200]: GET /records.php
+[Mon Aug 10 17:54:02 2026] 127.0.0.1:54336 Closing
+[Mon Aug 10 17:54:02 2026] 127.0.0.1:53311 Accepted
+[Mon Aug 10 17:54:02 2026] 127.0.0.1:62759 Accepted
+[Mon Aug 10 17:54:02 2026] 127.0.0.1:53311 [200]: GET /assets/styles.css
+[Mon Aug 10 17:54:02 2026] 127.0.0.1:62759 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:54:02 2026] 127.0.0.1:53311 Closing
+[Mon Aug 10 17:54:02 2026] 127.0.0.1:62759 Closing
+[Mon Aug 10 17:54:04 2026] 127.0.0.1:64918 Accepted
+[Mon Aug 10 17:54:04 2026] 127.0.0.1:64918 [200]: GET /record_view.php?id=7&popup=1&return=records&return_url=%2Frecords.php%23record-7
+[Mon Aug 10 17:54:04 2026] 127.0.0.1:64918 Closing
+[Mon Aug 10 17:54:04 2026] 127.0.0.1:52626 Accepted
+[Mon Aug 10 17:54:04 2026] 127.0.0.1:59590 Accepted
+[Mon Aug 10 17:54:04 2026] 127.0.0.1:52626 [200]: GET /assets/styles.css
+[Mon Aug 10 17:54:04 2026] 127.0.0.1:59590 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:54:04 2026] 127.0.0.1:52626 Closing
+[Mon Aug 10 17:54:04 2026] 127.0.0.1:59590 Closing
+[Mon Aug 10 17:54:12 2026] 127.0.0.1:59056 Accepted
+[Mon Aug 10 17:54:13 2026] 127.0.0.1:59056 [200]: GET /records.php
+[Mon Aug 10 17:54:13 2026] 127.0.0.1:59056 Closing
+[Mon Aug 10 17:54:13 2026] 127.0.0.1:50472 Accepted
+[Mon Aug 10 17:54:13 2026] 127.0.0.1:58719 Accepted
+[Mon Aug 10 17:54:13 2026] 127.0.0.1:50472 [200]: GET /assets/styles.css
+[Mon Aug 10 17:54:13 2026] 127.0.0.1:58719 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:54:13 2026] 127.0.0.1:50472 Closing
+[Mon Aug 10 17:54:13 2026] 127.0.0.1:58719 Closing
+[Mon Aug 10 17:54:20 2026] 127.0.0.1:58722 Accepted
+[Mon Aug 10 17:54:20 2026] 127.0.0.1:58722 [200]: GET /assets/styles.css
+[Mon Aug 10 17:54:20 2026] 127.0.0.1:58722 Closing
+[Mon Aug 10 17:54:33 2026] 127.0.0.1:58303 Accepted
+[Mon Aug 10 17:54:33 2026] 127.0.0.1:58303 [200]: GET /records.php
+[Mon Aug 10 17:54:33 2026] 127.0.0.1:58303 Closing
+[Mon Aug 10 17:54:33 2026] 127.0.0.1:54724 Accepted
+[Mon Aug 10 17:54:33 2026] 127.0.0.1:49490 Accepted
+[Mon Aug 10 17:54:33 2026] 127.0.0.1:54724 [200]: GET /assets/styles.css
+[Mon Aug 10 17:54:33 2026] 127.0.0.1:49490 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:54:33 2026] 127.0.0.1:54724 Closing
+[Mon Aug 10 17:54:33 2026] 127.0.0.1:49490 Closing
+[Mon Aug 10 17:54:36 2026] 127.0.0.1:57206 Accepted
+[Mon Aug 10 17:54:36 2026] 127.0.0.1:57206 [200]: GET /records.php
+[Mon Aug 10 17:54:36 2026] 127.0.0.1:57206 Closing
+[Mon Aug 10 17:54:36 2026] 127.0.0.1:53012 Accepted
+[Mon Aug 10 17:54:36 2026] 127.0.0.1:54657 Accepted
+[Mon Aug 10 17:54:36 2026] 127.0.0.1:53012 [200]: GET /assets/styles.css
+[Mon Aug 10 17:54:36 2026] 127.0.0.1:54657 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:54:36 2026] 127.0.0.1:53012 Closing
+[Mon Aug 10 17:54:36 2026] 127.0.0.1:54657 Closing
+[Mon Aug 10 17:54:38 2026] 127.0.0.1:54502 Accepted
+[Mon Aug 10 17:54:38 2026] 127.0.0.1:54502 [200]: GET /dashboard.php
+[Mon Aug 10 17:54:38 2026] 127.0.0.1:54502 Closing
+[Mon Aug 10 17:54:38 2026] 127.0.0.1:57269 Accepted
+[Mon Aug 10 17:54:38 2026] 127.0.0.1:50947 Accepted
+[Mon Aug 10 17:54:38 2026] 127.0.0.1:57269 [200]: GET /assets/styles.css
+[Mon Aug 10 17:54:38 2026] 127.0.0.1:50947 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:54:38 2026] 127.0.0.1:57269 Closing
+[Mon Aug 10 17:54:38 2026] 127.0.0.1:50947 Closing
+[Mon Aug 10 17:54:44 2026] 127.0.0.1:60047 Accepted
+[Mon Aug 10 17:54:44 2026] 127.0.0.1:60047 [200]: GET /dashboard.php?city_tab=for-plenary
+[Mon Aug 10 17:54:44 2026] 127.0.0.1:60047 Closing
+[Mon Aug 10 17:54:44 2026] 127.0.0.1:53829 Accepted
+[Mon Aug 10 17:54:44 2026] 127.0.0.1:60109 Accepted
+[Mon Aug 10 17:54:44 2026] 127.0.0.1:53829 [200]: GET /assets/styles.css
+[Mon Aug 10 17:54:44 2026] 127.0.0.1:60109 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:54:44 2026] 127.0.0.1:53829 Closing
+[Mon Aug 10 17:54:44 2026] 127.0.0.1:60109 Closing
+[Mon Aug 10 17:54:45 2026] 127.0.0.1:54476 Accepted
+[Mon Aug 10 17:54:45 2026] 127.0.0.1:54476 [200]: GET /dashboard.php?city_tab=for-plenary&plenary_session_date=
+[Mon Aug 10 17:54:45 2026] 127.0.0.1:54476 Closing
+[Mon Aug 10 17:54:45 2026] 127.0.0.1:57969 Accepted
+[Mon Aug 10 17:54:45 2026] 127.0.0.1:54462 Accepted
+[Mon Aug 10 17:54:45 2026] 127.0.0.1:57969 [200]: GET /assets/styles.css
+[Mon Aug 10 17:54:45 2026] 127.0.0.1:54462 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:54:45 2026] 127.0.0.1:57969 Closing
+[Mon Aug 10 17:54:45 2026] 127.0.0.1:54462 Closing
+[Mon Aug 10 17:54:46 2026] 127.0.0.1:62086 Accepted
+[Mon Aug 10 17:54:46 2026] 127.0.0.1:62086 [200]: GET /dashboard.php?city_tab=for-plenary
+[Mon Aug 10 17:54:46 2026] 127.0.0.1:62086 Closing
+[Mon Aug 10 17:54:46 2026] 127.0.0.1:56732 Accepted
+[Mon Aug 10 17:54:46 2026] 127.0.0.1:57533 Accepted
+[Mon Aug 10 17:54:46 2026] 127.0.0.1:56732 [200]: GET /assets/styles.css
+[Mon Aug 10 17:54:46 2026] 127.0.0.1:57533 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:54:46 2026] 127.0.0.1:56732 Closing
+[Mon Aug 10 17:54:46 2026] 127.0.0.1:57533 Closing
+[Mon Aug 10 17:54:47 2026] 127.0.0.1:56586 Accepted
+[Mon Aug 10 17:54:47 2026] 127.0.0.1:56586 [200]: GET /for_plenary_print.php
+[Mon Aug 10 17:54:47 2026] 127.0.0.1:56586 Closing
+[Mon Aug 10 17:54:47 2026] 127.0.0.1:63845 Accepted
+[Mon Aug 10 17:54:47 2026] 127.0.0.1:63845 [200]: GET /assets/styles.css
+[Mon Aug 10 17:54:47 2026] 127.0.0.1:63845 Closing
+[Mon Aug 10 17:54:55 2026] 127.0.0.1:52542 Accepted
+[Mon Aug 10 17:54:55 2026] 127.0.0.1:52542 [200]: GET /dashboard.php?city_tab=for-plenary
+[Mon Aug 10 17:54:55 2026] 127.0.0.1:52542 Closing
+[Mon Aug 10 17:54:55 2026] 127.0.0.1:63968 Accepted
+[Mon Aug 10 17:54:55 2026] 127.0.0.1:55928 Accepted
+[Mon Aug 10 17:54:55 2026] 127.0.0.1:63968 [200]: GET /assets/styles.css
+[Mon Aug 10 17:54:55 2026] 127.0.0.1:55928 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:54:55 2026] 127.0.0.1:63968 Closing
+[Mon Aug 10 17:54:55 2026] 127.0.0.1:55928 Closing
+[Mon Aug 10 17:55:07 2026] 127.0.0.1:51430 Accepted
+[Mon Aug 10 17:55:07 2026] 127.0.0.1:51430 [200]: GET /dashboard.php
+[Mon Aug 10 17:55:07 2026] 127.0.0.1:51430 Closing
+[Mon Aug 10 17:55:07 2026] 127.0.0.1:64095 Accepted
+[Mon Aug 10 17:55:07 2026] 127.0.0.1:62605 Accepted
+[Mon Aug 10 17:55:07 2026] 127.0.0.1:64095 [200]: GET /assets/styles.css
+[Mon Aug 10 17:55:07 2026] 127.0.0.1:62605 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:55:07 2026] 127.0.0.1:64095 Closing
+[Mon Aug 10 17:55:07 2026] 127.0.0.1:62605 Closing
+[Mon Aug 10 17:55:10 2026] 127.0.0.1:58687 Accepted
+[Mon Aug 10 17:55:10 2026] 127.0.0.1:58687 [200]: GET /records.php
+[Mon Aug 10 17:55:10 2026] 127.0.0.1:58687 Closing
+[Mon Aug 10 17:55:10 2026] 127.0.0.1:52608 Accepted
+[Mon Aug 10 17:55:10 2026] 127.0.0.1:54765 Accepted
+[Mon Aug 10 17:55:10 2026] 127.0.0.1:52608 [200]: GET /assets/styles.css
+[Mon Aug 10 17:55:10 2026] 127.0.0.1:54765 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:55:10 2026] 127.0.0.1:52608 Closing
+[Mon Aug 10 17:55:10 2026] 127.0.0.1:54765 Closing
+[Mon Aug 10 17:55:13 2026] 127.0.0.1:65513 Accepted
+[Mon Aug 10 17:55:14 2026] 127.0.0.1:65513 [200]: GET /records.php?tab=all
+[Mon Aug 10 17:55:14 2026] 127.0.0.1:65513 Closing
+[Mon Aug 10 17:55:14 2026] 127.0.0.1:61919 Accepted
+[Mon Aug 10 17:55:14 2026] 127.0.0.1:55195 Accepted
+[Mon Aug 10 17:55:14 2026] 127.0.0.1:61919 [200]: GET /assets/styles.css
+[Mon Aug 10 17:55:14 2026] 127.0.0.1:55195 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:55:14 2026] 127.0.0.1:61919 Closing
+[Mon Aug 10 17:55:14 2026] 127.0.0.1:55195 Closing
+[Mon Aug 10 17:55:19 2026] 127.0.0.1:60533 Accepted
+[Mon Aug 10 17:55:19 2026] 127.0.0.1:60533 [200]: GET /dashboard.php
+[Mon Aug 10 17:55:19 2026] 127.0.0.1:60533 Closing
+[Mon Aug 10 17:55:19 2026] 127.0.0.1:61158 Accepted
+[Mon Aug 10 17:55:19 2026] 127.0.0.1:61741 Accepted
+[Mon Aug 10 17:55:19 2026] 127.0.0.1:61158 [200]: GET /assets/styles.css
+[Mon Aug 10 17:55:19 2026] 127.0.0.1:61741 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:55:19 2026] 127.0.0.1:61158 Closing
+[Mon Aug 10 17:55:19 2026] 127.0.0.1:61741 Closing
+[Mon Aug 10 17:58:32 2026] 127.0.0.1:58251 Accepted
+[Mon Aug 10 17:58:32 2026] 127.0.0.1:58251 [200]: GET /assets/styles.css
+[Mon Aug 10 17:58:32 2026] 127.0.0.1:58251 Closing
+[Mon Aug 10 17:59:06 2026] 127.0.0.1:55906 Accepted
+[Mon Aug 10 17:59:06 2026] 127.0.0.1:55906 [200]: GET /dashboard.php
+[Mon Aug 10 17:59:06 2026] 127.0.0.1:55906 Closing
+[Mon Aug 10 17:59:06 2026] 127.0.0.1:58663 Accepted
+[Mon Aug 10 17:59:06 2026] 127.0.0.1:57373 Accepted
+[Mon Aug 10 17:59:06 2026] 127.0.0.1:58663 [200]: GET /assets/styles.css
+[Mon Aug 10 17:59:06 2026] 127.0.0.1:57373 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 17:59:06 2026] 127.0.0.1:58663 Closing
+[Mon Aug 10 17:59:06 2026] 127.0.0.1:57373 Closing
+[Mon Aug 10 18:00:08 2026] 127.0.0.1:49368 Accepted
+[Mon Aug 10 18:00:08 2026] 127.0.0.1:49368 [200]: GET /assets/styles.css
+[Mon Aug 10 18:00:08 2026] 127.0.0.1:49368 Closing
+[Mon Aug 10 18:00:49 2026] 127.0.0.1:63055 Accepted
+[Mon Aug 10 18:00:49 2026] 127.0.0.1:63055 [200]: GET /dashboard.php
+[Mon Aug 10 18:00:49 2026] 127.0.0.1:63055 Closing
+[Mon Aug 10 18:00:49 2026] 127.0.0.1:59019 Accepted
+[Mon Aug 10 18:00:49 2026] 127.0.0.1:57132 Accepted
+[Mon Aug 10 18:00:49 2026] 127.0.0.1:59019 [200]: GET /assets/styles.css
+[Mon Aug 10 18:00:49 2026] 127.0.0.1:57132 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:00:49 2026] 127.0.0.1:59019 Closing
+[Mon Aug 10 18:00:49 2026] 127.0.0.1:57132 Closing
+[Mon Aug 10 18:01:55 2026] 127.0.0.1:52540 Accepted
+[Mon Aug 10 18:01:55 2026] 127.0.0.1:52540 [200]: GET /record_form.php
+[Mon Aug 10 18:01:55 2026] 127.0.0.1:52540 Closing
+[Mon Aug 10 18:01:55 2026] 127.0.0.1:64003 Accepted
+[Mon Aug 10 18:01:55 2026] 127.0.0.1:60060 Accepted
+[Mon Aug 10 18:01:55 2026] 127.0.0.1:64003 [200]: GET /assets/styles.css
+[Mon Aug 10 18:01:55 2026] 127.0.0.1:60060 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:01:55 2026] 127.0.0.1:64003 Closing
+[Mon Aug 10 18:01:55 2026] 127.0.0.1:60060 Closing
+[Mon Aug 10 18:02:01 2026] 127.0.0.1:62710 Accepted
+[Mon Aug 10 18:02:01 2026] 127.0.0.1:62710 [200]: GET /dashboard.php
+[Mon Aug 10 18:02:01 2026] 127.0.0.1:62710 Closing
+[Mon Aug 10 18:02:01 2026] 127.0.0.1:50255 Accepted
+[Mon Aug 10 18:02:01 2026] 127.0.0.1:55150 Accepted
+[Mon Aug 10 18:02:01 2026] 127.0.0.1:50255 [200]: GET /assets/styles.css
+[Mon Aug 10 18:02:01 2026] 127.0.0.1:55150 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:02:01 2026] 127.0.0.1:50255 Closing
+[Mon Aug 10 18:02:01 2026] 127.0.0.1:55150 Closing
+[Mon Aug 10 18:02:03 2026] 127.0.0.1:61566 Accepted
+[Mon Aug 10 18:02:03 2026] 127.0.0.1:61566 [200]: GET /records.php
+[Mon Aug 10 18:02:03 2026] 127.0.0.1:61566 Closing
+[Mon Aug 10 18:02:03 2026] 127.0.0.1:59654 Accepted
+[Mon Aug 10 18:02:03 2026] 127.0.0.1:58109 Accepted
+[Mon Aug 10 18:02:03 2026] 127.0.0.1:59654 [200]: GET /assets/styles.css
+[Mon Aug 10 18:02:03 2026] 127.0.0.1:58109 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:02:03 2026] 127.0.0.1:59654 Closing
+[Mon Aug 10 18:02:03 2026] 127.0.0.1:58109 Closing
+[Mon Aug 10 18:02:08 2026] 127.0.0.1:63960 Accepted
+[Mon Aug 10 18:02:08 2026] 127.0.0.1:63960 [200]: GET /record_view.php?id=7&popup=1&return=records&return_url=%2Frecords.php%23record-7
+[Mon Aug 10 18:02:08 2026] 127.0.0.1:63960 Closing
+[Mon Aug 10 18:02:08 2026] 127.0.0.1:57991 Accepted
+[Mon Aug 10 18:02:08 2026] 127.0.0.1:58625 Accepted
+[Mon Aug 10 18:02:08 2026] 127.0.0.1:57991 [200]: GET /assets/styles.css
+[Mon Aug 10 18:02:08 2026] 127.0.0.1:58625 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:02:08 2026] 127.0.0.1:57991 Closing
+[Mon Aug 10 18:02:08 2026] 127.0.0.1:58625 Closing
+[Mon Aug 10 18:02:19 2026] 127.0.0.1:58630 Accepted
+[Mon Aug 10 18:02:19 2026] 127.0.0.1:58630 [200]: GET /assets/styles.css
+[Mon Aug 10 18:02:19 2026] 127.0.0.1:58630 Closing
+[Mon Aug 10 18:04:11 2026] 127.0.0.1:53597 Accepted
+[Mon Aug 10 18:04:11 2026] 127.0.0.1:53597 [200]: GET /record_view.php?id=7&popup=1&return=records&return_url=%2Frecords.php%23record-7
+[Mon Aug 10 18:04:11 2026] 127.0.0.1:53597 Closing
+[Mon Aug 10 18:04:11 2026] 127.0.0.1:54904 Accepted
+[Mon Aug 10 18:04:11 2026] 127.0.0.1:61773 Accepted
+[Mon Aug 10 18:04:11 2026] 127.0.0.1:54904 [200]: GET /assets/styles.css
+[Mon Aug 10 18:04:11 2026] 127.0.0.1:61773 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:04:11 2026] 127.0.0.1:54904 Closing
+[Mon Aug 10 18:04:11 2026] 127.0.0.1:61773 Closing
+[Mon Aug 10 18:04:27 2026] 127.0.0.1:50164 Accepted
+[Mon Aug 10 18:04:28 2026] 127.0.0.1:50164 [200]: GET /records.php
+[Mon Aug 10 18:04:28 2026] 127.0.0.1:50164 Closing
+[Mon Aug 10 18:04:28 2026] 127.0.0.1:56746 Accepted
+[Mon Aug 10 18:04:28 2026] 127.0.0.1:51691 Accepted
+[Mon Aug 10 18:04:28 2026] 127.0.0.1:56746 [200]: GET /assets/styles.css
+[Mon Aug 10 18:04:28 2026] 127.0.0.1:51691 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:04:28 2026] 127.0.0.1:56746 Closing
+[Mon Aug 10 18:04:28 2026] 127.0.0.1:51691 Closing
+[Mon Aug 10 18:04:31 2026] 127.0.0.1:49163 Accepted
+[Mon Aug 10 18:04:31 2026] 127.0.0.1:49163 [200]: GET /records.php?tab=certified
+[Mon Aug 10 18:04:31 2026] 127.0.0.1:49163 Closing
+[Mon Aug 10 18:04:31 2026] 127.0.0.1:52957 Accepted
+[Mon Aug 10 18:04:31 2026] 127.0.0.1:53289 Accepted
+[Mon Aug 10 18:04:31 2026] 127.0.0.1:52957 [200]: GET /assets/styles.css
+[Mon Aug 10 18:04:31 2026] 127.0.0.1:53289 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:04:31 2026] 127.0.0.1:52957 Closing
+[Mon Aug 10 18:04:31 2026] 127.0.0.1:53289 Closing
+[Mon Aug 10 18:04:31 2026] 127.0.0.1:52499 Accepted
+[Mon Aug 10 18:04:32 2026] 127.0.0.1:52499 [200]: GET /records.php?tab=documents
+[Mon Aug 10 18:04:32 2026] 127.0.0.1:52499 Closing
+[Mon Aug 10 18:04:32 2026] 127.0.0.1:53808 Accepted
+[Mon Aug 10 18:04:32 2026] 127.0.0.1:55166 Accepted
+[Mon Aug 10 18:04:32 2026] 127.0.0.1:53808 [200]: GET /assets/styles.css
+[Mon Aug 10 18:04:32 2026] 127.0.0.1:55166 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:04:32 2026] 127.0.0.1:53808 Closing
+[Mon Aug 10 18:04:32 2026] 127.0.0.1:55166 Closing
+[Mon Aug 10 18:04:32 2026] 127.0.0.1:58575 Accepted
+[Mon Aug 10 18:04:33 2026] 127.0.0.1:58575 [200]: GET /records.php?tab=all
+[Mon Aug 10 18:04:33 2026] 127.0.0.1:58575 Closing
+[Mon Aug 10 18:04:33 2026] 127.0.0.1:63302 Accepted
+[Mon Aug 10 18:04:33 2026] 127.0.0.1:52025 Accepted
+[Mon Aug 10 18:04:33 2026] 127.0.0.1:63302 [200]: GET /assets/styles.css
+[Mon Aug 10 18:04:33 2026] 127.0.0.1:52025 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:04:33 2026] 127.0.0.1:63302 Closing
+[Mon Aug 10 18:04:33 2026] 127.0.0.1:52025 Closing
+[Mon Aug 10 18:04:35 2026] 127.0.0.1:51967 Accepted
+[Mon Aug 10 18:04:35 2026] 127.0.0.1:51967 [200]: GET /records.php?tab=committee
+[Mon Aug 10 18:04:35 2026] 127.0.0.1:51967 Closing
+[Mon Aug 10 18:04:35 2026] 127.0.0.1:53836 Accepted
+[Mon Aug 10 18:04:35 2026] 127.0.0.1:62713 Accepted
+[Mon Aug 10 18:04:35 2026] 127.0.0.1:53836 [200]: GET /assets/styles.css
+[Mon Aug 10 18:04:35 2026] 127.0.0.1:62713 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:04:35 2026] 127.0.0.1:53836 Closing
+[Mon Aug 10 18:04:35 2026] 127.0.0.1:62713 Closing
+[Mon Aug 10 18:04:35 2026] 127.0.0.1:58616 Accepted
+[Mon Aug 10 18:04:36 2026] 127.0.0.1:58616 [200]: GET /records.php?tab=certified
+[Mon Aug 10 18:04:36 2026] 127.0.0.1:58616 Closing
+[Mon Aug 10 18:04:36 2026] 127.0.0.1:51764 Accepted
+[Mon Aug 10 18:04:36 2026] 127.0.0.1:61567 Accepted
+[Mon Aug 10 18:04:36 2026] 127.0.0.1:51764 [200]: GET /assets/styles.css
+[Mon Aug 10 18:04:36 2026] 127.0.0.1:61567 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:04:36 2026] 127.0.0.1:51764 Closing
+[Mon Aug 10 18:04:36 2026] 127.0.0.1:61567 Closing
+[Mon Aug 10 18:04:36 2026] 127.0.0.1:59453 Accepted
+[Mon Aug 10 18:04:36 2026] 127.0.0.1:59453 [200]: GET /records.php?tab=documents
+[Mon Aug 10 18:04:36 2026] 127.0.0.1:59453 Closing
+[Mon Aug 10 18:04:36 2026] 127.0.0.1:54875 Accepted
+[Mon Aug 10 18:04:36 2026] 127.0.0.1:54875 [200]: GET /assets/styles.css
+[Mon Aug 10 18:04:36 2026] 127.0.0.1:58909 Accepted
+[Mon Aug 10 18:04:36 2026] 127.0.0.1:58909 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:04:36 2026] 127.0.0.1:54875 Closing
+[Mon Aug 10 18:04:36 2026] 127.0.0.1:58909 Closing
+[Mon Aug 10 18:04:37 2026] 127.0.0.1:52529 Accepted
+[Mon Aug 10 18:04:38 2026] 127.0.0.1:52529 [200]: GET /dashboard.php
+[Mon Aug 10 18:04:38 2026] 127.0.0.1:52529 Closing
+[Mon Aug 10 18:04:38 2026] 127.0.0.1:54628 Accepted
+[Mon Aug 10 18:04:38 2026] 127.0.0.1:59594 Accepted
+[Mon Aug 10 18:04:38 2026] 127.0.0.1:54628 [200]: GET /assets/styles.css
+[Mon Aug 10 18:04:38 2026] 127.0.0.1:59594 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:04:38 2026] 127.0.0.1:54628 Closing
+[Mon Aug 10 18:04:38 2026] 127.0.0.1:59594 Closing
+[Mon Aug 10 18:04:52 2026] 127.0.0.1:52569 Accepted
+[Mon Aug 10 18:04:52 2026] 127.0.0.1:52569 [200]: GET /records.php
+[Mon Aug 10 18:04:52 2026] 127.0.0.1:52569 Closing
+[Mon Aug 10 18:04:52 2026] 127.0.0.1:64747 Accepted
+[Mon Aug 10 18:04:52 2026] 127.0.0.1:51349 Accepted
+[Mon Aug 10 18:04:52 2026] 127.0.0.1:64747 [200]: GET /assets/styles.css
+[Mon Aug 10 18:04:52 2026] 127.0.0.1:51349 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:04:52 2026] 127.0.0.1:64747 Closing
+[Mon Aug 10 18:04:52 2026] 127.0.0.1:51349 Closing
+[Mon Aug 10 18:06:10 2026] 127.0.0.1:65445 Accepted
+[Mon Aug 10 18:06:10 2026] 127.0.0.1:65445 [200]: GET /records.php
+[Mon Aug 10 18:06:10 2026] 127.0.0.1:65445 Closing
+[Mon Aug 10 18:06:10 2026] 127.0.0.1:54329 Accepted
+[Mon Aug 10 18:06:10 2026] 127.0.0.1:60072 Accepted
+[Mon Aug 10 18:06:10 2026] 127.0.0.1:54329 [200]: GET /assets/styles.css
+[Mon Aug 10 18:06:10 2026] 127.0.0.1:60072 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:06:10 2026] 127.0.0.1:54329 Closing
+[Mon Aug 10 18:06:10 2026] 127.0.0.1:60072 Closing
+[Mon Aug 10 18:06:14 2026] 127.0.0.1:52367 Accepted
+[Mon Aug 10 18:06:15 2026] 127.0.0.1:52367 [200]: GET /records.php?tab=documents
+[Mon Aug 10 18:06:15 2026] 127.0.0.1:52367 Closing
+[Mon Aug 10 18:06:15 2026] 127.0.0.1:57917 Accepted
+[Mon Aug 10 18:06:15 2026] 127.0.0.1:59932 Accepted
+[Mon Aug 10 18:06:15 2026] 127.0.0.1:57917 [200]: GET /assets/styles.css
+[Mon Aug 10 18:06:15 2026] 127.0.0.1:59932 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:06:15 2026] 127.0.0.1:57917 Closing
+[Mon Aug 10 18:06:15 2026] 127.0.0.1:59932 Closing
+[Mon Aug 10 18:06:20 2026] 127.0.0.1:57557 Accepted
+[Mon Aug 10 18:06:21 2026] 127.0.0.1:57557 [200]: GET /records.php?tab=all
+[Mon Aug 10 18:06:21 2026] 127.0.0.1:57557 Closing
+[Mon Aug 10 18:06:21 2026] 127.0.0.1:58198 Accepted
+[Mon Aug 10 18:06:21 2026] 127.0.0.1:58239 Accepted
+[Mon Aug 10 18:06:21 2026] 127.0.0.1:58198 [200]: GET /assets/styles.css
+[Mon Aug 10 18:06:21 2026] 127.0.0.1:58239 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:06:21 2026] 127.0.0.1:58198 Closing
+[Mon Aug 10 18:06:21 2026] 127.0.0.1:58239 Closing
+[Mon Aug 10 18:06:21 2026] 127.0.0.1:59355 Accepted
+[Mon Aug 10 18:06:22 2026] 127.0.0.1:59355 [200]: GET /dashboard.php
+[Mon Aug 10 18:06:22 2026] 127.0.0.1:59355 Closing
+[Mon Aug 10 18:06:22 2026] 127.0.0.1:54462 Accepted
+[Mon Aug 10 18:06:22 2026] 127.0.0.1:59513 Accepted
+[Mon Aug 10 18:06:22 2026] 127.0.0.1:54462 [200]: GET /assets/styles.css
+[Mon Aug 10 18:06:22 2026] 127.0.0.1:59513 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:06:22 2026] 127.0.0.1:54462 Closing
+[Mon Aug 10 18:06:22 2026] 127.0.0.1:59513 Closing
+[Mon Aug 10 18:06:22 2026] 127.0.0.1:55252 Accepted
+[Mon Aug 10 18:06:23 2026] 127.0.0.1:55252 [200]: GET /records.php
+[Mon Aug 10 18:06:23 2026] 127.0.0.1:55252 Closing
+[Mon Aug 10 18:06:23 2026] 127.0.0.1:61457 Accepted
+[Mon Aug 10 18:06:23 2026] 127.0.0.1:53490 Accepted
+[Mon Aug 10 18:06:23 2026] 127.0.0.1:61457 [200]: GET /assets/styles.css
+[Mon Aug 10 18:06:23 2026] 127.0.0.1:53490 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:06:23 2026] 127.0.0.1:61457 Closing
+[Mon Aug 10 18:06:23 2026] 127.0.0.1:53490 Closing
+[Mon Aug 10 18:06:25 2026] 127.0.0.1:60562 Accepted
+[Mon Aug 10 18:06:25 2026] 127.0.0.1:60562 [200]: GET /records.php?tab=all
+[Mon Aug 10 18:06:25 2026] 127.0.0.1:60562 Closing
+[Mon Aug 10 18:06:25 2026] 127.0.0.1:52455 Accepted
+[Mon Aug 10 18:06:25 2026] 127.0.0.1:59828 Accepted
+[Mon Aug 10 18:06:25 2026] 127.0.0.1:52455 [200]: GET /assets/styles.css
+[Mon Aug 10 18:06:25 2026] 127.0.0.1:59828 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:06:25 2026] 127.0.0.1:52455 Closing
+[Mon Aug 10 18:06:25 2026] 127.0.0.1:59828 Closing
+[Mon Aug 10 18:06:28 2026] 127.0.0.1:49430 Accepted
+[Mon Aug 10 18:06:28 2026] 127.0.0.1:49430 [200]: GET /records.php?tab=documents
+[Mon Aug 10 18:06:28 2026] 127.0.0.1:49430 Closing
+[Mon Aug 10 18:06:28 2026] 127.0.0.1:51906 Accepted
+[Mon Aug 10 18:06:28 2026] 127.0.0.1:60115 Accepted
+[Mon Aug 10 18:06:28 2026] 127.0.0.1:51906 [200]: GET /assets/styles.css
+[Mon Aug 10 18:06:28 2026] 127.0.0.1:60115 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:06:28 2026] 127.0.0.1:51906 Closing
+[Mon Aug 10 18:06:28 2026] 127.0.0.1:60115 Closing
+[Mon Aug 10 18:06:34 2026] 127.0.0.1:59568 Accepted
+[Mon Aug 10 18:06:34 2026] 127.0.0.1:59568 [200]: GET /dashboard.php
+[Mon Aug 10 18:06:34 2026] 127.0.0.1:59568 Closing
+[Mon Aug 10 18:06:34 2026] 127.0.0.1:52578 Accepted
+[Mon Aug 10 18:06:34 2026] 127.0.0.1:63186 Accepted
+[Mon Aug 10 18:06:34 2026] 127.0.0.1:52578 [200]: GET /assets/styles.css
+[Mon Aug 10 18:06:34 2026] 127.0.0.1:63186 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:06:34 2026] 127.0.0.1:52578 Closing
+[Mon Aug 10 18:06:34 2026] 127.0.0.1:63186 Closing
+[Mon Aug 10 18:06:50 2026] 127.0.0.1:63194 Accepted
+[Mon Aug 10 18:06:50 2026] 127.0.0.1:63194 [200]: GET /assets/styles.css
+[Mon Aug 10 18:06:50 2026] 127.0.0.1:63194 Closing
+[Mon Aug 10 18:06:50 2026] 127.0.0.1:63195 Accepted
+[Mon Aug 10 18:06:50 2026] 127.0.0.1:63195 [302]: GET /record_view.php?id=7&popup=1&return=records
+[Mon Aug 10 18:06:50 2026] 127.0.0.1:63195 Closing
+[Mon Aug 10 18:06:57 2026] 127.0.0.1:52082 Accepted
+[Mon Aug 10 18:06:57 2026] 127.0.0.1:52082 [200]: GET /records.php
+[Mon Aug 10 18:06:57 2026] 127.0.0.1:52082 Closing
+[Mon Aug 10 18:06:57 2026] 127.0.0.1:56247 Accepted
+[Mon Aug 10 18:06:57 2026] 127.0.0.1:50693 Accepted
+[Mon Aug 10 18:06:57 2026] 127.0.0.1:56247 [200]: GET /assets/styles.css
+[Mon Aug 10 18:06:57 2026] 127.0.0.1:50693 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:06:57 2026] 127.0.0.1:56247 Closing
+[Mon Aug 10 18:06:57 2026] 127.0.0.1:50693 Closing
+[Mon Aug 10 18:07:06 2026] 127.0.0.1:62321 Accepted
+[Mon Aug 10 18:07:07 2026] 127.0.0.1:62321 [200]: GET /record_view.php?id=7&popup=1&return=records&return_url=%2Frecords.php%23record-7
+[Mon Aug 10 18:07:07 2026] 127.0.0.1:62321 Closing
+[Mon Aug 10 18:07:07 2026] 127.0.0.1:60190 Accepted
+[Mon Aug 10 18:07:07 2026] 127.0.0.1:57931 Accepted
+[Mon Aug 10 18:07:07 2026] 127.0.0.1:60190 [200]: GET /assets/styles.css
+[Mon Aug 10 18:07:07 2026] 127.0.0.1:57931 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:07:07 2026] 127.0.0.1:60190 Closing
+[Mon Aug 10 18:07:07 2026] 127.0.0.1:57931 Closing
+[Mon Aug 10 18:07:57 2026] 127.0.0.1:63621 Accepted
+[Mon Aug 10 18:07:57 2026] 127.0.0.1:63621 [200]: GET /records.php
+[Mon Aug 10 18:07:57 2026] 127.0.0.1:63621 Closing
+[Mon Aug 10 18:07:57 2026] 127.0.0.1:60449 Accepted
+[Mon Aug 10 18:07:57 2026] 127.0.0.1:49157 Accepted
+[Mon Aug 10 18:07:57 2026] 127.0.0.1:60449 [200]: GET /assets/styles.css
+[Mon Aug 10 18:07:57 2026] 127.0.0.1:49157 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:07:57 2026] 127.0.0.1:60449 Closing
+[Mon Aug 10 18:07:57 2026] 127.0.0.1:49157 Closing
+[Mon Aug 10 18:08:06 2026] 127.0.0.1:49163 Accepted
+[Mon Aug 10 18:08:06 2026] 127.0.0.1:49163 [200]: GET /assets/styles.css
+[Mon Aug 10 18:08:06 2026] 127.0.0.1:49163 Closing
+[Mon Aug 10 18:08:18 2026] 127.0.0.1:64668 Accepted
+[Mon Aug 10 18:08:18 2026] 127.0.0.1:64668 [200]: GET /records.php?tab=all
+[Mon Aug 10 18:08:18 2026] 127.0.0.1:64668 Closing
+[Mon Aug 10 18:08:18 2026] 127.0.0.1:50163 Accepted
+[Mon Aug 10 18:08:18 2026] 127.0.0.1:58781 Accepted
+[Mon Aug 10 18:08:18 2026] 127.0.0.1:50163 [200]: GET /assets/styles.css
+[Mon Aug 10 18:08:18 2026] 127.0.0.1:58781 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:08:18 2026] 127.0.0.1:50163 Closing
+[Mon Aug 10 18:08:18 2026] 127.0.0.1:58781 Closing
+[Mon Aug 10 18:08:19 2026] 127.0.0.1:53788 Accepted
+[Mon Aug 10 18:08:19 2026] 127.0.0.1:53788 [200]: GET /records.php?tab=committee
+[Mon Aug 10 18:08:19 2026] 127.0.0.1:53788 Closing
+[Mon Aug 10 18:08:19 2026] 127.0.0.1:60999 Accepted
+[Mon Aug 10 18:08:19 2026] 127.0.0.1:54630 Accepted
+[Mon Aug 10 18:08:19 2026] 127.0.0.1:60999 [200]: GET /assets/styles.css
+[Mon Aug 10 18:08:19 2026] 127.0.0.1:54630 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:08:19 2026] 127.0.0.1:60999 Closing
+[Mon Aug 10 18:08:19 2026] 127.0.0.1:54630 Closing
+[Mon Aug 10 18:08:19 2026] 127.0.0.1:65439 Accepted
+[Mon Aug 10 18:08:20 2026] 127.0.0.1:65439 [200]: GET /records.php?tab=certified
+[Mon Aug 10 18:08:20 2026] 127.0.0.1:65439 Closing
+[Mon Aug 10 18:08:20 2026] 127.0.0.1:65200 Accepted
+[Mon Aug 10 18:08:20 2026] 127.0.0.1:59268 Accepted
+[Mon Aug 10 18:08:20 2026] 127.0.0.1:65200 [200]: GET /assets/styles.css
+[Mon Aug 10 18:08:20 2026] 127.0.0.1:59268 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:08:20 2026] 127.0.0.1:65200 Closing
+[Mon Aug 10 18:08:20 2026] 127.0.0.1:59268 Closing
+[Mon Aug 10 18:08:20 2026] 127.0.0.1:54141 Accepted
+[Mon Aug 10 18:08:21 2026] 127.0.0.1:54141 [200]: GET /records.php?tab=documents
+[Mon Aug 10 18:08:21 2026] 127.0.0.1:54141 Closing
+[Mon Aug 10 18:08:21 2026] 127.0.0.1:60920 Accepted
+[Mon Aug 10 18:08:21 2026] 127.0.0.1:53037 Accepted
+[Mon Aug 10 18:08:21 2026] 127.0.0.1:60920 [200]: GET /assets/styles.css
+[Mon Aug 10 18:08:21 2026] 127.0.0.1:53037 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:08:21 2026] 127.0.0.1:60920 Closing
+[Mon Aug 10 18:08:21 2026] 127.0.0.1:53037 Closing
+[Mon Aug 10 18:08:22 2026] 127.0.0.1:65082 Accepted
+[Mon Aug 10 18:08:23 2026] 127.0.0.1:65082 [200]: GET /records.php?tab=certified
+[Mon Aug 10 18:08:23 2026] 127.0.0.1:65082 Closing
+[Mon Aug 10 18:08:23 2026] 127.0.0.1:55242 Accepted
+[Mon Aug 10 18:08:23 2026] 127.0.0.1:57772 Accepted
+[Mon Aug 10 18:08:23 2026] 127.0.0.1:55242 [200]: GET /assets/styles.css
+[Mon Aug 10 18:08:23 2026] 127.0.0.1:57772 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:08:23 2026] 127.0.0.1:55242 Closing
+[Mon Aug 10 18:08:23 2026] 127.0.0.1:57772 Closing
+[Mon Aug 10 18:08:23 2026] 127.0.0.1:65363 Accepted
+[Mon Aug 10 18:08:23 2026] 127.0.0.1:65363 [200]: GET /records.php?tab=committee
+[Mon Aug 10 18:08:23 2026] 127.0.0.1:65363 Closing
+[Mon Aug 10 18:08:23 2026] 127.0.0.1:53651 Accepted
+[Mon Aug 10 18:08:23 2026] 127.0.0.1:65471 Accepted
+[Mon Aug 10 18:08:23 2026] 127.0.0.1:53651 [200]: GET /assets/styles.css
+[Mon Aug 10 18:08:23 2026] 127.0.0.1:65471 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:08:23 2026] 127.0.0.1:53651 Closing
+[Mon Aug 10 18:08:23 2026] 127.0.0.1:65471 Closing
+[Mon Aug 10 18:08:24 2026] 127.0.0.1:56751 Accepted
+[Mon Aug 10 18:08:24 2026] 127.0.0.1:56751 [200]: GET /records.php?tab=all
+[Mon Aug 10 18:08:24 2026] 127.0.0.1:56751 Closing
+[Mon Aug 10 18:08:24 2026] 127.0.0.1:64602 Accepted
+[Mon Aug 10 18:08:24 2026] 127.0.0.1:51931 Accepted
+[Mon Aug 10 18:08:24 2026] 127.0.0.1:64602 [200]: GET /assets/styles.css
+[Mon Aug 10 18:08:24 2026] 127.0.0.1:51931 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:08:24 2026] 127.0.0.1:64602 Closing
+[Mon Aug 10 18:08:24 2026] 127.0.0.1:51931 Closing
+[Mon Aug 10 18:08:25 2026] 127.0.0.1:52565 Accepted
+[Mon Aug 10 18:08:25 2026] 127.0.0.1:52565 [200]: GET /records.php?tab=documents
+[Mon Aug 10 18:08:25 2026] 127.0.0.1:52565 Closing
+[Mon Aug 10 18:08:25 2026] 127.0.0.1:52834 Accepted
+[Mon Aug 10 18:08:25 2026] 127.0.0.1:63416 Accepted
+[Mon Aug 10 18:08:25 2026] 127.0.0.1:52834 [200]: GET /assets/styles.css
+[Mon Aug 10 18:08:25 2026] 127.0.0.1:63416 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:08:25 2026] 127.0.0.1:52834 Closing
+[Mon Aug 10 18:08:25 2026] 127.0.0.1:63416 Closing
+[Mon Aug 10 18:08:26 2026] 127.0.0.1:53757 Accepted
+[Mon Aug 10 18:08:26 2026] 127.0.0.1:53757 [200]: GET /dashboard.php
+[Mon Aug 10 18:08:26 2026] 127.0.0.1:53757 Closing
+[Mon Aug 10 18:08:26 2026] 127.0.0.1:63637 Accepted
+[Mon Aug 10 18:08:26 2026] 127.0.0.1:64351 Accepted
+[Mon Aug 10 18:08:26 2026] 127.0.0.1:63637 [200]: GET /assets/styles.css
+[Mon Aug 10 18:08:26 2026] 127.0.0.1:64351 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:08:26 2026] 127.0.0.1:63637 Closing
+[Mon Aug 10 18:08:26 2026] 127.0.0.1:64351 Closing
+[Mon Aug 10 18:09:51 2026] 127.0.0.1:53695 Accepted
+[Mon Aug 10 18:09:51 2026] 127.0.0.1:53695 [200]: GET /assets/styles.css
+[Mon Aug 10 18:09:51 2026] 127.0.0.1:53695 Closing
+[Mon Aug 10 18:10:48 2026] 127.0.0.1:58365 Accepted
+[Mon Aug 10 18:10:48 2026] 127.0.0.1:58365 [200]: GET /dashboard.php
+[Mon Aug 10 18:10:48 2026] 127.0.0.1:58365 Closing
+[Mon Aug 10 18:10:48 2026] 127.0.0.1:52163 Accepted
+[Mon Aug 10 18:10:48 2026] 127.0.0.1:61530 Accepted
+[Mon Aug 10 18:10:48 2026] 127.0.0.1:52163 [200]: GET /assets/styles.css
+[Mon Aug 10 18:10:48 2026] 127.0.0.1:61530 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:10:48 2026] 127.0.0.1:52163 Closing
+[Mon Aug 10 18:10:48 2026] 127.0.0.1:61530 Closing
+[Mon Aug 10 18:10:50 2026] 127.0.0.1:61536 Accepted
+[Mon Aug 10 18:10:50 2026] 127.0.0.1:61536 [200]: GET /assets/styles.css
+[Mon Aug 10 18:10:50 2026] 127.0.0.1:61536 Closing
+[Mon Aug 10 18:11:16 2026] 127.0.0.1:63903 Accepted
+[Mon Aug 10 18:11:17 2026] 127.0.0.1:63903 [200]: GET /records.php
+[Mon Aug 10 18:11:17 2026] 127.0.0.1:63903 Closing
+[Mon Aug 10 18:11:17 2026] 127.0.0.1:59499 Accepted
+[Mon Aug 10 18:11:17 2026] 127.0.0.1:57321 Accepted
+[Mon Aug 10 18:11:17 2026] 127.0.0.1:59499 [200]: GET /assets/styles.css
+[Mon Aug 10 18:11:17 2026] 127.0.0.1:57321 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:11:17 2026] 127.0.0.1:59499 Closing
+[Mon Aug 10 18:11:17 2026] 127.0.0.1:57321 Closing
+[Mon Aug 10 18:11:31 2026] 127.0.0.1:49609 Accepted
+[Mon Aug 10 18:11:32 2026] 127.0.0.1:49609 [200]: GET /dashboard.php
+[Mon Aug 10 18:11:32 2026] 127.0.0.1:49609 Closing
+[Mon Aug 10 18:11:32 2026] 127.0.0.1:51300 Accepted
+[Mon Aug 10 18:11:32 2026] 127.0.0.1:64227 Accepted
+[Mon Aug 10 18:11:32 2026] 127.0.0.1:51300 [200]: GET /assets/styles.css
+[Mon Aug 10 18:11:32 2026] 127.0.0.1:64227 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:11:32 2026] 127.0.0.1:51300 Closing
+[Mon Aug 10 18:11:32 2026] 127.0.0.1:64227 Closing
+[Mon Aug 10 18:11:56 2026] 127.0.0.1:57516 Accepted
+[Mon Aug 10 18:11:56 2026] 127.0.0.1:57516 [200]: GET /assets/styles.css
+[Mon Aug 10 18:11:56 2026] 127.0.0.1:57516 Closing
+[Mon Aug 10 18:12:50 2026] 127.0.0.1:57531 Accepted
+[Mon Aug 10 18:12:50 2026] 127.0.0.1:57531 [200]: GET /assets/styles.css
+[Mon Aug 10 18:12:50 2026] 127.0.0.1:57531 Closing
+[Mon Aug 10 18:12:50 2026] 127.0.0.1:63821 Accepted
+[Mon Aug 10 18:12:50 2026] 127.0.0.1:63821 [200]: GET /dashboard.php
+[Mon Aug 10 18:12:50 2026] 127.0.0.1:63821 Closing
+[Mon Aug 10 18:12:50 2026] 127.0.0.1:65055 Accepted
+[Mon Aug 10 18:12:50 2026] 127.0.0.1:51481 Accepted
+[Mon Aug 10 18:12:50 2026] 127.0.0.1:65055 [200]: GET /assets/styles.css
+[Mon Aug 10 18:12:50 2026] 127.0.0.1:51481 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:12:50 2026] 127.0.0.1:65055 Closing
+[Mon Aug 10 18:12:50 2026] 127.0.0.1:51481 Closing
+[Mon Aug 10 18:12:55 2026] 127.0.0.1:61426 Accepted
+[Mon Aug 10 18:12:55 2026] 127.0.0.1:61426 [200]: GET /records.php
+[Mon Aug 10 18:12:55 2026] 127.0.0.1:61426 Closing
+[Mon Aug 10 18:12:55 2026] 127.0.0.1:55586 Accepted
+[Mon Aug 10 18:12:55 2026] 127.0.0.1:58541 Accepted
+[Mon Aug 10 18:12:55 2026] 127.0.0.1:55586 [200]: GET /assets/styles.css
+[Mon Aug 10 18:12:55 2026] 127.0.0.1:58541 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:12:55 2026] 127.0.0.1:55586 Closing
+[Mon Aug 10 18:12:55 2026] 127.0.0.1:58541 Closing
+[Mon Aug 10 18:13:06 2026] 127.0.0.1:61366 Accepted
+[Mon Aug 10 18:13:06 2026] 127.0.0.1:61366 [200]: GET /record_view.php?id=7&popup=1&return=records&return_url=%2Frecords.php%23record-7
+[Mon Aug 10 18:13:06 2026] 127.0.0.1:61366 Closing
+[Mon Aug 10 18:13:06 2026] 127.0.0.1:62140 Accepted
+[Mon Aug 10 18:13:06 2026] 127.0.0.1:57481 Accepted
+[Mon Aug 10 18:13:06 2026] 127.0.0.1:62140 [200]: GET /assets/styles.css
+[Mon Aug 10 18:13:06 2026] 127.0.0.1:57481 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:13:06 2026] 127.0.0.1:62140 Closing
+[Mon Aug 10 18:13:06 2026] 127.0.0.1:57481 Closing
+[Mon Aug 10 18:13:15 2026] 127.0.0.1:54738 Accepted
+[Mon Aug 10 18:13:15 2026] 127.0.0.1:54738 [200]: GET /records.php
+[Mon Aug 10 18:13:15 2026] 127.0.0.1:54738 Closing
+[Mon Aug 10 18:13:15 2026] 127.0.0.1:52476 Accepted
+[Mon Aug 10 18:13:15 2026] 127.0.0.1:55212 Accepted
+[Mon Aug 10 18:13:15 2026] 127.0.0.1:52476 [200]: GET /assets/styles.css
+[Mon Aug 10 18:13:15 2026] 127.0.0.1:55212 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:13:15 2026] 127.0.0.1:52476 Closing
+[Mon Aug 10 18:13:15 2026] 127.0.0.1:55212 Closing
+[Mon Aug 10 18:13:18 2026] 127.0.0.1:64381 Accepted
+[Mon Aug 10 18:13:19 2026] 127.0.0.1:64381 [200]: GET /records.php?tab=certified
+[Mon Aug 10 18:13:19 2026] 127.0.0.1:64381 Closing
+[Mon Aug 10 18:13:19 2026] 127.0.0.1:50455 Accepted
+[Mon Aug 10 18:13:19 2026] 127.0.0.1:64658 Accepted
+[Mon Aug 10 18:13:19 2026] 127.0.0.1:50455 [200]: GET /assets/styles.css
+[Mon Aug 10 18:13:19 2026] 127.0.0.1:64658 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:13:19 2026] 127.0.0.1:50455 Closing
+[Mon Aug 10 18:13:19 2026] 127.0.0.1:64658 Closing
+[Mon Aug 10 18:13:20 2026] 127.0.0.1:53835 Accepted
+[Mon Aug 10 18:13:20 2026] 127.0.0.1:53835 [200]: GET /records.php?tab=all
+[Mon Aug 10 18:13:20 2026] 127.0.0.1:53835 Closing
+[Mon Aug 10 18:13:20 2026] 127.0.0.1:59159 Accepted
+[Mon Aug 10 18:13:20 2026] 127.0.0.1:59369 Accepted
+[Mon Aug 10 18:13:20 2026] 127.0.0.1:59159 [200]: GET /assets/styles.css
+[Mon Aug 10 18:13:20 2026] 127.0.0.1:59369 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:13:20 2026] 127.0.0.1:59159 Closing
+[Mon Aug 10 18:13:20 2026] 127.0.0.1:59369 Closing
+[Mon Aug 10 18:14:28 2026] 127.0.0.1:52936 Accepted
+[Mon Aug 10 18:14:28 2026] 127.0.0.1:52936 [200]: GET /assets/styles.css
+[Mon Aug 10 18:14:28 2026] 127.0.0.1:52936 Closing
+[Mon Aug 10 18:15:05 2026] 127.0.0.1:52136 Accepted
+[Mon Aug 10 18:15:05 2026] 127.0.0.1:52136 [200]: GET /records.php?tab=all
+[Mon Aug 10 18:15:05 2026] 127.0.0.1:52136 Closing
+[Mon Aug 10 18:15:05 2026] 127.0.0.1:55675 Accepted
+[Mon Aug 10 18:15:05 2026] 127.0.0.1:53476 Accepted
+[Mon Aug 10 18:15:05 2026] 127.0.0.1:55675 [200]: GET /assets/styles.css
+[Mon Aug 10 18:15:05 2026] 127.0.0.1:53476 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:15:05 2026] 127.0.0.1:55675 Closing
+[Mon Aug 10 18:15:05 2026] 127.0.0.1:53476 Closing
+[Mon Aug 10 18:15:36 2026] 127.0.0.1:55969 Accepted
+[Mon Aug 10 18:15:36 2026] 127.0.0.1:55969 [200]: GET /dashboard.php
+[Mon Aug 10 18:15:36 2026] 127.0.0.1:55969 Closing
+[Mon Aug 10 18:15:36 2026] 127.0.0.1:57768 Accepted
+[Mon Aug 10 18:15:36 2026] 127.0.0.1:50733 Accepted
+[Mon Aug 10 18:15:36 2026] 127.0.0.1:57768 [200]: GET /assets/styles.css
+[Mon Aug 10 18:15:36 2026] 127.0.0.1:50733 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:15:36 2026] 127.0.0.1:57768 Closing
+[Mon Aug 10 18:15:36 2026] 127.0.0.1:50733 Closing
+[Mon Aug 10 18:15:41 2026] 127.0.0.1:54957 Accepted
+[Mon Aug 10 18:15:42 2026] 127.0.0.1:54957 [200]: GET /record_view.php?id=7
+[Mon Aug 10 18:15:42 2026] 127.0.0.1:54957 Closing
+[Mon Aug 10 18:15:42 2026] 127.0.0.1:63992 Accepted
+[Mon Aug 10 18:15:42 2026] 127.0.0.1:56259 Accepted
+[Mon Aug 10 18:15:42 2026] 127.0.0.1:63992 [200]: GET /assets/styles.css
+[Mon Aug 10 18:15:42 2026] 127.0.0.1:56259 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:15:42 2026] 127.0.0.1:63992 Closing
+[Mon Aug 10 18:15:42 2026] 127.0.0.1:56259 Closing
+[Mon Aug 10 18:15:50 2026] 127.0.0.1:53319 Accepted
+[Mon Aug 10 18:15:50 2026] 127.0.0.1:53319 [200]: GET /dashboard.php
+[Mon Aug 10 18:15:50 2026] 127.0.0.1:53319 Closing
+[Mon Aug 10 18:15:50 2026] 127.0.0.1:54247 Accepted
+[Mon Aug 10 18:15:50 2026] 127.0.0.1:51383 Accepted
+[Mon Aug 10 18:15:50 2026] 127.0.0.1:54247 [200]: GET /assets/styles.css
+[Mon Aug 10 18:15:50 2026] 127.0.0.1:51383 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:15:50 2026] 127.0.0.1:54247 Closing
+[Mon Aug 10 18:15:50 2026] 127.0.0.1:51383 Closing
+[Mon Aug 10 18:15:51 2026] 127.0.0.1:55009 Accepted
+[Mon Aug 10 18:15:51 2026] 127.0.0.1:55009 [200]: GET /records.php
+[Mon Aug 10 18:15:51 2026] 127.0.0.1:55009 Closing
+[Mon Aug 10 18:15:51 2026] 127.0.0.1:64334 Accepted
+[Mon Aug 10 18:15:51 2026] 127.0.0.1:63327 Accepted
+[Mon Aug 10 18:15:51 2026] 127.0.0.1:64334 [200]: GET /assets/styles.css
+[Mon Aug 10 18:15:51 2026] 127.0.0.1:63327 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:15:51 2026] 127.0.0.1:64334 Closing
+[Mon Aug 10 18:15:51 2026] 127.0.0.1:63327 Closing
+[Mon Aug 10 18:15:52 2026] 127.0.0.1:61290 Accepted
+[Mon Aug 10 18:15:52 2026] 127.0.0.1:61290 [200]: GET /record_view.php?id=7&popup=1&return=records&return_url=%2Frecords.php%23record-7
+[Mon Aug 10 18:15:52 2026] 127.0.0.1:61290 Closing
+[Mon Aug 10 18:15:52 2026] 127.0.0.1:51439 Accepted
+[Mon Aug 10 18:15:52 2026] 127.0.0.1:61428 Accepted
+[Mon Aug 10 18:15:52 2026] 127.0.0.1:51439 [200]: GET /assets/styles.css
+[Mon Aug 10 18:15:52 2026] 127.0.0.1:61428 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:15:52 2026] 127.0.0.1:51439 Closing
+[Mon Aug 10 18:15:52 2026] 127.0.0.1:61428 Closing
+[Mon Aug 10 18:15:53 2026] 127.0.0.1:60575 Accepted
+[Mon Aug 10 18:15:54 2026] 127.0.0.1:60575 [200]: GET /records.php
+[Mon Aug 10 18:15:54 2026] 127.0.0.1:60575 Closing
+[Mon Aug 10 18:15:54 2026] 127.0.0.1:55402 Accepted
+[Mon Aug 10 18:15:54 2026] 127.0.0.1:65420 Accepted
+[Mon Aug 10 18:15:54 2026] 127.0.0.1:55402 [200]: GET /assets/styles.css
+[Mon Aug 10 18:15:54 2026] 127.0.0.1:65420 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:15:54 2026] 127.0.0.1:55402 Closing
+[Mon Aug 10 18:15:54 2026] 127.0.0.1:65420 Closing
+[Mon Aug 10 18:15:55 2026] 127.0.0.1:59103 Accepted
+[Mon Aug 10 18:15:55 2026] 127.0.0.1:59103 [200]: GET /record_form.php?id=7&popup=1&return=records&return_url=%2Frecords.php%23record-7
+[Mon Aug 10 18:15:55 2026] 127.0.0.1:59103 Closing
+[Mon Aug 10 18:15:55 2026] 127.0.0.1:55492 Accepted
+[Mon Aug 10 18:15:55 2026] 127.0.0.1:62130 Accepted
+[Mon Aug 10 18:15:55 2026] 127.0.0.1:55492 [200]: GET /assets/styles.css
+[Mon Aug 10 18:15:55 2026] 127.0.0.1:62130 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:15:55 2026] 127.0.0.1:55492 Closing
+[Mon Aug 10 18:15:55 2026] 127.0.0.1:62130 Closing
+[Mon Aug 10 18:16:01 2026] 127.0.0.1:52163 Accepted
+[Mon Aug 10 18:16:01 2026] 127.0.0.1:52163 [200]: GET /records.php
+[Mon Aug 10 18:16:01 2026] 127.0.0.1:52163 Closing
+[Mon Aug 10 18:16:01 2026] 127.0.0.1:53768 Accepted
+[Mon Aug 10 18:16:01 2026] 127.0.0.1:55792 Accepted
+[Mon Aug 10 18:16:01 2026] 127.0.0.1:53768 [200]: GET /assets/styles.css
+[Mon Aug 10 18:16:01 2026] 127.0.0.1:55792 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:16:01 2026] 127.0.0.1:53768 Closing
+[Mon Aug 10 18:16:01 2026] 127.0.0.1:55792 Closing
+[Mon Aug 10 18:16:06 2026] 127.0.0.1:54775 Accepted
+[Mon Aug 10 18:16:06 2026] 127.0.0.1:54775 [200]: GET /record_form.php
+[Mon Aug 10 18:16:06 2026] 127.0.0.1:54775 Closing
+[Mon Aug 10 18:16:06 2026] 127.0.0.1:55517 Accepted
+[Mon Aug 10 18:16:06 2026] 127.0.0.1:52073 Accepted
+[Mon Aug 10 18:16:06 2026] 127.0.0.1:55517 [200]: GET /assets/styles.css
+[Mon Aug 10 18:16:06 2026] 127.0.0.1:52073 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:16:06 2026] 127.0.0.1:55517 Closing
+[Mon Aug 10 18:16:06 2026] 127.0.0.1:52073 Closing
+[Mon Aug 10 18:16:15 2026] 127.0.0.1:52992 Accepted
+[Mon Aug 10 18:16:15 2026] 127.0.0.1:52992 [200]: GET /dashboard.php
+[Mon Aug 10 18:16:15 2026] 127.0.0.1:52992 Closing
+[Mon Aug 10 18:16:15 2026] 127.0.0.1:51491 Accepted
+[Mon Aug 10 18:16:15 2026] 127.0.0.1:62140 Accepted
+[Mon Aug 10 18:16:15 2026] 127.0.0.1:51491 [200]: GET /assets/styles.css
+[Mon Aug 10 18:16:15 2026] 127.0.0.1:62140 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:16:15 2026] 127.0.0.1:51491 Closing
+[Mon Aug 10 18:16:15 2026] 127.0.0.1:62140 Closing
+[Mon Aug 10 18:16:21 2026] 127.0.0.1:62143 Accepted
+[Mon Aug 10 18:16:21 2026] 127.0.0.1:62143 [200]: GET /assets/styles.css
+[Mon Aug 10 18:16:21 2026] 127.0.0.1:62143 Closing
+[Mon Aug 10 18:16:23 2026] 127.0.0.1:62963 Accepted
+[Mon Aug 10 18:16:23 2026] 127.0.0.1:62963 [200]: GET /dashboard.php
+[Mon Aug 10 18:16:23 2026] 127.0.0.1:62963 Closing
+[Mon Aug 10 18:16:23 2026] 127.0.0.1:61484 Accepted
+[Mon Aug 10 18:16:23 2026] 127.0.0.1:55917 Accepted
+[Mon Aug 10 18:16:23 2026] 127.0.0.1:61484 [200]: GET /assets/styles.css
+[Mon Aug 10 18:16:23 2026] 127.0.0.1:55917 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:16:23 2026] 127.0.0.1:61484 Closing
+[Mon Aug 10 18:16:23 2026] 127.0.0.1:55917 Closing
+[Mon Aug 10 18:16:32 2026] 127.0.0.1:54302 Accepted
+[Mon Aug 10 18:16:33 2026] 127.0.0.1:54302 [200]: GET /dashboard.php
+[Mon Aug 10 18:16:33 2026] 127.0.0.1:54302 Closing
+[Mon Aug 10 18:16:33 2026] 127.0.0.1:50557 Accepted
+[Mon Aug 10 18:16:33 2026] 127.0.0.1:60067 Accepted
+[Mon Aug 10 18:16:33 2026] 127.0.0.1:50557 [200]: GET /assets/styles.css
+[Mon Aug 10 18:16:33 2026] 127.0.0.1:60067 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:16:33 2026] 127.0.0.1:50557 Closing
+[Mon Aug 10 18:16:33 2026] 127.0.0.1:60067 Closing
+[Mon Aug 10 18:16:34 2026] 127.0.0.1:55519 Accepted
+[Mon Aug 10 18:16:34 2026] 127.0.0.1:55519 [200]: GET /records.php
+[Mon Aug 10 18:16:34 2026] 127.0.0.1:55519 Closing
+[Mon Aug 10 18:16:34 2026] 127.0.0.1:50232 Accepted
+[Mon Aug 10 18:16:34 2026] 127.0.0.1:53442 Accepted
+[Mon Aug 10 18:16:34 2026] 127.0.0.1:50232 [200]: GET /assets/styles.css
+[Mon Aug 10 18:16:34 2026] 127.0.0.1:53442 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:16:34 2026] 127.0.0.1:50232 Closing
+[Mon Aug 10 18:16:34 2026] 127.0.0.1:53442 Closing
+[Mon Aug 10 18:17:34 2026] 127.0.0.1:63757 Accepted
+[Mon Aug 10 18:17:35 2026] 127.0.0.1:63757 [200]: GET /records.php
+[Mon Aug 10 18:17:35 2026] 127.0.0.1:63757 Closing
+[Mon Aug 10 18:17:35 2026] 127.0.0.1:52477 Accepted
+[Mon Aug 10 18:17:35 2026] 127.0.0.1:49414 Accepted
+[Mon Aug 10 18:17:35 2026] 127.0.0.1:52477 [200]: GET /assets/styles.css
+[Mon Aug 10 18:17:35 2026] 127.0.0.1:49414 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:17:35 2026] 127.0.0.1:52477 Closing
+[Mon Aug 10 18:17:35 2026] 127.0.0.1:49414 Closing
+[Mon Aug 10 18:17:36 2026] 127.0.0.1:54106 Accepted
+[Mon Aug 10 18:17:36 2026] 127.0.0.1:54106 [200]: GET /dashboard.php
+[Mon Aug 10 18:17:36 2026] 127.0.0.1:54106 Closing
+[Mon Aug 10 18:17:36 2026] 127.0.0.1:58612 Accepted
+[Mon Aug 10 18:17:36 2026] 127.0.0.1:60044 Accepted
+[Mon Aug 10 18:17:36 2026] 127.0.0.1:58612 [200]: GET /assets/styles.css
+[Mon Aug 10 18:17:36 2026] 127.0.0.1:60044 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:17:36 2026] 127.0.0.1:58612 Closing
+[Mon Aug 10 18:17:36 2026] 127.0.0.1:60044 Closing
+[Mon Aug 10 18:17:54 2026] 127.0.0.1:51818 Accepted
+[Mon Aug 10 18:17:54 2026] 127.0.0.1:51818 [200]: GET /assets/styles.css
+[Mon Aug 10 18:17:54 2026] 127.0.0.1:51818 Closing
+[Mon Aug 10 18:19:27 2026] 127.0.0.1:58871 Accepted
+[Mon Aug 10 18:19:27 2026] 127.0.0.1:58871 [200]: GET /dashboard.php
+[Mon Aug 10 18:19:27 2026] 127.0.0.1:58871 Closing
+[Mon Aug 10 18:19:27 2026] 127.0.0.1:58700 Accepted
+[Mon Aug 10 18:19:27 2026] 127.0.0.1:52416 Accepted
+[Mon Aug 10 18:19:27 2026] 127.0.0.1:58700 [200]: GET /assets/styles.css
+[Mon Aug 10 18:19:27 2026] 127.0.0.1:52416 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:19:27 2026] 127.0.0.1:58700 Closing
+[Mon Aug 10 18:19:27 2026] 127.0.0.1:52416 Closing
+[Mon Aug 10 18:21:30 2026] 127.0.0.1:52308 Accepted
+[Mon Aug 10 18:21:30 2026] 127.0.0.1:52308 [200]: GET /records.php
+[Mon Aug 10 18:21:30 2026] 127.0.0.1:52308 Closing
+[Mon Aug 10 18:21:30 2026] 127.0.0.1:56946 Accepted
+[Mon Aug 10 18:21:30 2026] 127.0.0.1:55249 Accepted
+[Mon Aug 10 18:21:30 2026] 127.0.0.1:56946 [200]: GET /assets/styles.css
+[Mon Aug 10 18:21:30 2026] 127.0.0.1:55249 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:21:30 2026] 127.0.0.1:56946 Closing
+[Mon Aug 10 18:21:30 2026] 127.0.0.1:55249 Closing
+[Mon Aug 10 18:21:32 2026] 127.0.0.1:60263 Accepted
+[Mon Aug 10 18:21:32 2026] 127.0.0.1:60263 [200]: GET /record_form.php
+[Mon Aug 10 18:21:32 2026] 127.0.0.1:60263 Closing
+[Mon Aug 10 18:21:32 2026] 127.0.0.1:53424 Accepted
+[Mon Aug 10 18:21:32 2026] 127.0.0.1:49890 Accepted
+[Mon Aug 10 18:21:32 2026] 127.0.0.1:53424 [200]: GET /assets/styles.css
+[Mon Aug 10 18:21:32 2026] 127.0.0.1:49890 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:21:32 2026] 127.0.0.1:53424 Closing
+[Mon Aug 10 18:21:32 2026] 127.0.0.1:49890 Closing
+[Mon Aug 10 18:21:33 2026] 127.0.0.1:59655 Accepted
+[Mon Aug 10 18:21:34 2026] 127.0.0.1:59655 [200]: GET /dashboard.php
+[Mon Aug 10 18:21:34 2026] 127.0.0.1:59655 Closing
+[Mon Aug 10 18:21:34 2026] 127.0.0.1:53313 Accepted
+[Mon Aug 10 18:21:34 2026] 127.0.0.1:50311 Accepted
+[Mon Aug 10 18:21:34 2026] 127.0.0.1:53313 [200]: GET /assets/styles.css
+[Mon Aug 10 18:21:34 2026] 127.0.0.1:50311 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:21:34 2026] 127.0.0.1:53313 Closing
+[Mon Aug 10 18:21:34 2026] 127.0.0.1:50311 Closing
+[Mon Aug 10 18:21:36 2026] 127.0.0.1:63926 Accepted
+[Mon Aug 10 18:21:37 2026] 127.0.0.1:63926 [200]: GET /records.php
+[Mon Aug 10 18:21:37 2026] 127.0.0.1:63926 Closing
+[Mon Aug 10 18:21:37 2026] 127.0.0.1:51223 Accepted
+[Mon Aug 10 18:21:37 2026] 127.0.0.1:55975 Accepted
+[Mon Aug 10 18:21:37 2026] 127.0.0.1:51223 [200]: GET /assets/styles.css
+[Mon Aug 10 18:21:37 2026] 127.0.0.1:55975 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:21:37 2026] 127.0.0.1:51223 Closing
+[Mon Aug 10 18:21:37 2026] 127.0.0.1:55975 Closing
+[Mon Aug 10 18:21:42 2026] 127.0.0.1:49947 Accepted
+[Mon Aug 10 18:21:43 2026] 127.0.0.1:49947 [200]: GET /record_form.php
+[Mon Aug 10 18:21:43 2026] 127.0.0.1:49947 Closing
+[Mon Aug 10 18:21:43 2026] 127.0.0.1:54405 Accepted
+[Mon Aug 10 18:21:43 2026] 127.0.0.1:50487 Accepted
+[Mon Aug 10 18:21:43 2026] 127.0.0.1:54405 [200]: GET /assets/styles.css
+[Mon Aug 10 18:21:43 2026] 127.0.0.1:50487 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:21:43 2026] 127.0.0.1:54405 Closing
+[Mon Aug 10 18:21:43 2026] 127.0.0.1:50487 Closing
+[Mon Aug 10 18:21:44 2026] 127.0.0.1:51157 Accepted
+[Mon Aug 10 18:21:44 2026] 127.0.0.1:51157 [200]: GET /records.php
+[Mon Aug 10 18:21:44 2026] 127.0.0.1:51157 Closing
+[Mon Aug 10 18:21:44 2026] 127.0.0.1:52678 Accepted
+[Mon Aug 10 18:21:44 2026] 127.0.0.1:64284 Accepted
+[Mon Aug 10 18:21:44 2026] 127.0.0.1:52678 [200]: GET /assets/styles.css
+[Mon Aug 10 18:21:44 2026] 127.0.0.1:64284 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:21:44 2026] 127.0.0.1:52678 Closing
+[Mon Aug 10 18:21:44 2026] 127.0.0.1:64284 Closing
+[Mon Aug 10 18:21:45 2026] 127.0.0.1:57571 Accepted
+[Mon Aug 10 18:21:45 2026] 127.0.0.1:57571 [200]: GET /dashboard.php
+[Mon Aug 10 18:21:45 2026] 127.0.0.1:57571 Closing
+[Mon Aug 10 18:21:45 2026] 127.0.0.1:50363 Accepted
+[Mon Aug 10 18:21:45 2026] 127.0.0.1:58664 Accepted
+[Mon Aug 10 18:21:45 2026] 127.0.0.1:50363 [200]: GET /assets/styles.css
+[Mon Aug 10 18:21:45 2026] 127.0.0.1:58664 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:21:45 2026] 127.0.0.1:50363 Closing
+[Mon Aug 10 18:21:45 2026] 127.0.0.1:58664 Closing
+[Mon Aug 10 18:21:46 2026] 127.0.0.1:64371 Accepted
+[Mon Aug 10 18:21:47 2026] 127.0.0.1:64371 [200]: GET /records.php
+[Mon Aug 10 18:21:47 2026] 127.0.0.1:64371 Closing
+[Mon Aug 10 18:21:47 2026] 127.0.0.1:51454 Accepted
+[Mon Aug 10 18:21:47 2026] 127.0.0.1:56670 Accepted
+[Mon Aug 10 18:21:47 2026] 127.0.0.1:51454 [200]: GET /assets/styles.css
+[Mon Aug 10 18:21:47 2026] 127.0.0.1:56670 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:21:47 2026] 127.0.0.1:51454 Closing
+[Mon Aug 10 18:21:47 2026] 127.0.0.1:56670 Closing
+[Mon Aug 10 18:21:48 2026] 127.0.0.1:53140 Accepted
+[Mon Aug 10 18:21:48 2026] 127.0.0.1:53140 [200]: GET /record_view.php?id=7&popup=1&return=records&return_url=%2Frecords.php%23record-7
+[Mon Aug 10 18:21:48 2026] 127.0.0.1:53140 Closing
+[Mon Aug 10 18:21:48 2026] 127.0.0.1:55094 Accepted
+[Mon Aug 10 18:21:48 2026] 127.0.0.1:51540 Accepted
+[Mon Aug 10 18:21:48 2026] 127.0.0.1:55094 [200]: GET /assets/styles.css
+[Mon Aug 10 18:21:48 2026] 127.0.0.1:51540 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:21:48 2026] 127.0.0.1:55094 Closing
+[Mon Aug 10 18:21:48 2026] 127.0.0.1:51540 Closing
+[Mon Aug 10 18:21:50 2026] 127.0.0.1:60206 Accepted
+[Mon Aug 10 18:21:50 2026] 127.0.0.1:60206 [200]: GET /records.php
+[Mon Aug 10 18:21:50 2026] 127.0.0.1:60206 Closing
+[Mon Aug 10 18:21:50 2026] 127.0.0.1:60521 Accepted
+[Mon Aug 10 18:21:50 2026] 127.0.0.1:59633 Accepted
+[Mon Aug 10 18:21:50 2026] 127.0.0.1:60521 [200]: GET /assets/styles.css
+[Mon Aug 10 18:21:50 2026] 127.0.0.1:59633 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:21:50 2026] 127.0.0.1:60521 Closing
+[Mon Aug 10 18:21:50 2026] 127.0.0.1:59633 Closing
+[Mon Aug 10 18:21:53 2026] 127.0.0.1:51784 Accepted
+[Mon Aug 10 18:21:53 2026] 127.0.0.1:51784 [200]: GET /records.php?tab=documents
+[Mon Aug 10 18:21:53 2026] 127.0.0.1:51784 Closing
+[Mon Aug 10 18:21:53 2026] 127.0.0.1:59682 Accepted
+[Mon Aug 10 18:21:53 2026] 127.0.0.1:58409 Accepted
+[Mon Aug 10 18:21:53 2026] 127.0.0.1:59682 [200]: GET /assets/styles.css
+[Mon Aug 10 18:21:53 2026] 127.0.0.1:58409 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:21:53 2026] 127.0.0.1:59682 Closing
+[Mon Aug 10 18:21:53 2026] 127.0.0.1:58409 Closing
+[Mon Aug 10 18:21:54 2026] 127.0.0.1:61356 Accepted
+[Mon Aug 10 18:21:54 2026] 127.0.0.1:61356 [200]: GET /record_form.php?id=8&popup=1&return=records&return_url=%2Frecords.php%3Ftab%3Ddocuments%23record-8
+[Mon Aug 10 18:21:54 2026] 127.0.0.1:61356 Closing
+[Mon Aug 10 18:21:54 2026] 127.0.0.1:51821 Accepted
+[Mon Aug 10 18:21:54 2026] 127.0.0.1:52147 Accepted
+[Mon Aug 10 18:21:54 2026] 127.0.0.1:51821 [200]: GET /assets/styles.css
+[Mon Aug 10 18:21:54 2026] 127.0.0.1:52147 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:21:54 2026] 127.0.0.1:51821 Closing
+[Mon Aug 10 18:21:54 2026] 127.0.0.1:52147 Closing
+[Mon Aug 10 18:22:01 2026] 127.0.0.1:57961 Accepted
+[Mon Aug 10 18:22:01 2026] 127.0.0.1:57961 [200]: GET /records.php?tab=documents
+[Mon Aug 10 18:22:01 2026] 127.0.0.1:57961 Closing
+[Mon Aug 10 18:22:01 2026] 127.0.0.1:55788 Accepted
+[Mon Aug 10 18:22:01 2026] 127.0.0.1:62381 Accepted
+[Mon Aug 10 18:22:01 2026] 127.0.0.1:55788 [200]: GET /assets/styles.css
+[Mon Aug 10 18:22:01 2026] 127.0.0.1:62381 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:22:01 2026] 127.0.0.1:55788 Closing
+[Mon Aug 10 18:22:01 2026] 127.0.0.1:62381 Closing
+[Mon Aug 10 18:22:51 2026] 127.0.0.1:50501 Accepted
+[Mon Aug 10 18:22:51 2026] 127.0.0.1:50501 [200]: GET /assets/styles.css
+[Mon Aug 10 18:22:51 2026] 127.0.0.1:50501 Closing
+[Mon Aug 10 18:23:16 2026] 127.0.0.1:59897 Accepted
+[Mon Aug 10 18:23:16 2026] 127.0.0.1:59897 [200]: GET /records.php?tab=documents
+[Mon Aug 10 18:23:16 2026] 127.0.0.1:59897 Closing
+[Mon Aug 10 18:23:16 2026] 127.0.0.1:51937 Accepted
+[Mon Aug 10 18:23:16 2026] 127.0.0.1:57508 Accepted
+[Mon Aug 10 18:23:16 2026] 127.0.0.1:51937 [200]: GET /assets/styles.css
+[Mon Aug 10 18:23:16 2026] 127.0.0.1:57508 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:23:16 2026] 127.0.0.1:51937 Closing
+[Mon Aug 10 18:23:16 2026] 127.0.0.1:57508 Closing
+[Mon Aug 10 18:23:21 2026] 127.0.0.1:61426 Accepted
+[Mon Aug 10 18:23:21 2026] 127.0.0.1:61426 [200]: GET /records.php?tab=documents
+[Mon Aug 10 18:23:21 2026] 127.0.0.1:61426 Closing
+[Mon Aug 10 18:23:21 2026] 127.0.0.1:60154 Accepted
+[Mon Aug 10 18:23:21 2026] 127.0.0.1:60669 Accepted
+[Mon Aug 10 18:23:21 2026] 127.0.0.1:60154 [200]: GET /assets/styles.css
+[Mon Aug 10 18:23:21 2026] 127.0.0.1:60669 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:23:21 2026] 127.0.0.1:60154 Closing
+[Mon Aug 10 18:23:21 2026] 127.0.0.1:60669 Closing
+[Mon Aug 10 18:23:23 2026] 127.0.0.1:51128 Accepted
+[Mon Aug 10 18:23:23 2026] 127.0.0.1:51128 [200]: GET /records.php?tab=all
+[Mon Aug 10 18:23:23 2026] 127.0.0.1:51128 Closing
+[Mon Aug 10 18:23:23 2026] 127.0.0.1:49195 Accepted
+[Mon Aug 10 18:23:23 2026] 127.0.0.1:60284 Accepted
+[Mon Aug 10 18:23:23 2026] 127.0.0.1:49195 [200]: GET /assets/styles.css
+[Mon Aug 10 18:23:23 2026] 127.0.0.1:60284 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:23:23 2026] 127.0.0.1:49195 Closing
+[Mon Aug 10 18:23:23 2026] 127.0.0.1:60284 Closing
+[Mon Aug 10 18:23:23 2026] 127.0.0.1:63358 Accepted
+[Mon Aug 10 18:23:24 2026] 127.0.0.1:63358 [200]: GET /dashboard.php
+[Mon Aug 10 18:23:24 2026] 127.0.0.1:63358 Closing
+[Mon Aug 10 18:23:24 2026] 127.0.0.1:54765 Accepted
+[Mon Aug 10 18:23:24 2026] 127.0.0.1:64060 Accepted
+[Mon Aug 10 18:23:24 2026] 127.0.0.1:54765 [200]: GET /assets/styles.css
+[Mon Aug 10 18:23:24 2026] 127.0.0.1:64060 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:23:24 2026] 127.0.0.1:54765 Closing
+[Mon Aug 10 18:23:24 2026] 127.0.0.1:64060 Closing
+[Mon Aug 10 18:25:18 2026] 127.0.0.1:54596 Accepted
+[Mon Aug 10 18:25:18 2026] 127.0.0.1:54596 [200]: GET /records.php
+[Mon Aug 10 18:25:18 2026] 127.0.0.1:54596 Closing
+[Mon Aug 10 18:25:18 2026] 127.0.0.1:62448 Accepted
+[Mon Aug 10 18:25:18 2026] 127.0.0.1:62452 Accepted
+[Mon Aug 10 18:25:18 2026] 127.0.0.1:62448 [200]: GET /assets/styles.css
+[Mon Aug 10 18:25:18 2026] 127.0.0.1:62452 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:25:18 2026] 127.0.0.1:62448 Closing
+[Mon Aug 10 18:25:18 2026] 127.0.0.1:62452 Closing
+[Mon Aug 10 18:25:24 2026] 127.0.0.1:51176 Accepted
+[Mon Aug 10 18:25:25 2026] 127.0.0.1:51176 [200]: GET /dashboard.php
+[Mon Aug 10 18:25:25 2026] 127.0.0.1:51176 Closing
+[Mon Aug 10 18:25:25 2026] 127.0.0.1:63602 Accepted
+[Mon Aug 10 18:25:25 2026] 127.0.0.1:58951 Accepted
+[Mon Aug 10 18:25:25 2026] 127.0.0.1:63602 [200]: GET /assets/styles.css
+[Mon Aug 10 18:25:25 2026] 127.0.0.1:58951 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:25:25 2026] 127.0.0.1:63602 Closing
+[Mon Aug 10 18:25:25 2026] 127.0.0.1:58951 Closing
+[Mon Aug 10 18:26:46 2026] 127.0.0.1:49246 Accepted
+[Mon Aug 10 18:26:46 2026] 127.0.0.1:49246 [200]: GET /records.php
+[Mon Aug 10 18:26:46 2026] 127.0.0.1:49246 Closing
+[Mon Aug 10 18:26:46 2026] 127.0.0.1:61823 Accepted
+[Mon Aug 10 18:26:46 2026] 127.0.0.1:62249 Accepted
+[Mon Aug 10 18:26:46 2026] 127.0.0.1:61823 [200]: GET /assets/styles.css
+[Mon Aug 10 18:26:46 2026] 127.0.0.1:62249 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:26:46 2026] 127.0.0.1:61823 Closing
+[Mon Aug 10 18:26:46 2026] 127.0.0.1:62249 Closing
+[Mon Aug 10 18:26:47 2026] 127.0.0.1:56843 Accepted
+[Mon Aug 10 18:26:47 2026] 127.0.0.1:56843 [200]: GET /record_form.php
+[Mon Aug 10 18:26:47 2026] 127.0.0.1:56843 Closing
+[Mon Aug 10 18:26:47 2026] 127.0.0.1:60518 Accepted
+[Mon Aug 10 18:26:47 2026] 127.0.0.1:60440 Accepted
+[Mon Aug 10 18:26:47 2026] 127.0.0.1:60518 [200]: GET /assets/styles.css
+[Mon Aug 10 18:26:47 2026] 127.0.0.1:60440 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:26:47 2026] 127.0.0.1:60518 Closing
+[Mon Aug 10 18:26:47 2026] 127.0.0.1:60440 Closing
+[Mon Aug 10 18:26:48 2026] 127.0.0.1:54618 Accepted
+[Mon Aug 10 18:26:48 2026] 127.0.0.1:54618 [200]: GET /dashboard.php
+[Mon Aug 10 18:26:48 2026] 127.0.0.1:54618 Closing
+[Mon Aug 10 18:26:48 2026] 127.0.0.1:54142 Accepted
+[Mon Aug 10 18:26:48 2026] 127.0.0.1:56904 Accepted
+[Mon Aug 10 18:26:48 2026] 127.0.0.1:54142 [200]: GET /assets/styles.css
+[Mon Aug 10 18:26:48 2026] 127.0.0.1:56904 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:26:48 2026] 127.0.0.1:54142 Closing
+[Mon Aug 10 18:26:48 2026] 127.0.0.1:56904 Closing
+[Mon Aug 10 18:26:50 2026] 127.0.0.1:62898 Accepted
+[Mon Aug 10 18:26:50 2026] 127.0.0.1:62898 [200]: GET /records.php
+[Mon Aug 10 18:26:50 2026] 127.0.0.1:62898 Closing
+[Mon Aug 10 18:26:50 2026] 127.0.0.1:52250 Accepted
+[Mon Aug 10 18:26:50 2026] 127.0.0.1:59093 Accepted
+[Mon Aug 10 18:26:50 2026] 127.0.0.1:52250 [200]: GET /assets/styles.css
+[Mon Aug 10 18:26:50 2026] 127.0.0.1:59093 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:26:50 2026] 127.0.0.1:52250 Closing
+[Mon Aug 10 18:26:50 2026] 127.0.0.1:59093 Closing
+[Mon Aug 10 18:26:52 2026] 127.0.0.1:64264 Accepted
+[Mon Aug 10 18:26:53 2026] 127.0.0.1:64264 [200]: GET /record_view.php?id=7&popup=1&return=records&return_url=%2Frecords.php%23record-7
+[Mon Aug 10 18:26:53 2026] 127.0.0.1:64264 Closing
+[Mon Aug 10 18:26:53 2026] 127.0.0.1:64882 Accepted
+[Mon Aug 10 18:26:53 2026] 127.0.0.1:60253 Accepted
+[Mon Aug 10 18:26:53 2026] 127.0.0.1:64882 [200]: GET /assets/styles.css
+[Mon Aug 10 18:26:53 2026] 127.0.0.1:60253 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:26:53 2026] 127.0.0.1:64882 Closing
+[Mon Aug 10 18:26:53 2026] 127.0.0.1:60253 Closing
+[Mon Aug 10 18:26:57 2026] 127.0.0.1:60257 Accepted
+[Mon Aug 10 18:26:57 2026] 127.0.0.1:60257 [200]: GET /assets/styles.css
+[Mon Aug 10 18:26:57 2026] 127.0.0.1:60257 Closing
+[Mon Aug 10 18:26:57 2026] 127.0.0.1:59394 Accepted
+[Mon Aug 10 18:26:57 2026] 127.0.0.1:59394 [200]: GET /records.php
+[Mon Aug 10 18:26:57 2026] 127.0.0.1:59394 Closing
+[Mon Aug 10 18:26:57 2026] 127.0.0.1:53700 Accepted
+[Mon Aug 10 18:26:57 2026] 127.0.0.1:54651 Accepted
+[Mon Aug 10 18:26:57 2026] 127.0.0.1:53700 [200]: GET /assets/styles.css
+[Mon Aug 10 18:26:57 2026] 127.0.0.1:54651 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:26:57 2026] 127.0.0.1:53700 Closing
+[Mon Aug 10 18:26:57 2026] 127.0.0.1:54651 Closing
+[Mon Aug 10 18:26:58 2026] 127.0.0.1:51758 Accepted
+[Mon Aug 10 18:26:59 2026] 127.0.0.1:51758 [200]: GET /record_view.php?id=7&popup=1&return=records&return_url=%2Frecords.php%23record-7
+[Mon Aug 10 18:26:59 2026] 127.0.0.1:51758 Closing
+[Mon Aug 10 18:26:59 2026] 127.0.0.1:51356 Accepted
+[Mon Aug 10 18:26:59 2026] 127.0.0.1:51238 Accepted
+[Mon Aug 10 18:26:59 2026] 127.0.0.1:51356 [200]: GET /assets/styles.css
+[Mon Aug 10 18:26:59 2026] 127.0.0.1:51238 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:26:59 2026] 127.0.0.1:51356 Closing
+[Mon Aug 10 18:26:59 2026] 127.0.0.1:51238 Closing
+[Mon Aug 10 18:27:00 2026] 127.0.0.1:56371 Accepted
+[Mon Aug 10 18:27:00 2026] 127.0.0.1:56371 [200]: GET /records.php
+[Mon Aug 10 18:27:00 2026] 127.0.0.1:56371 Closing
+[Mon Aug 10 18:27:00 2026] 127.0.0.1:53458 Accepted
+[Mon Aug 10 18:27:00 2026] 127.0.0.1:57224 Accepted
+[Mon Aug 10 18:27:00 2026] 127.0.0.1:53458 [200]: GET /assets/styles.css
+[Mon Aug 10 18:27:00 2026] 127.0.0.1:57224 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:27:00 2026] 127.0.0.1:53458 Closing
+[Mon Aug 10 18:27:00 2026] 127.0.0.1:57224 Closing
+[Mon Aug 10 18:27:01 2026] 127.0.0.1:53655 Accepted
+[Mon Aug 10 18:27:01 2026] 127.0.0.1:53655 [200]: GET /record_form.php?id=7&popup=1&return=records&return_url=%2Frecords.php%23record-7
+[Mon Aug 10 18:27:01 2026] 127.0.0.1:53655 Closing
+[Mon Aug 10 18:27:01 2026] 127.0.0.1:63636 Accepted
+[Mon Aug 10 18:27:01 2026] 127.0.0.1:62203 Accepted
+[Mon Aug 10 18:27:01 2026] 127.0.0.1:63636 [200]: GET /assets/styles.css
+[Mon Aug 10 18:27:01 2026] 127.0.0.1:62203 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:27:01 2026] 127.0.0.1:63636 Closing
+[Mon Aug 10 18:27:01 2026] 127.0.0.1:62203 Closing
+[Mon Aug 10 18:27:06 2026] 127.0.0.1:55641 Accepted
+[Mon Aug 10 18:27:07 2026] 127.0.0.1:55641 [200]: GET /records.php
+[Mon Aug 10 18:27:07 2026] 127.0.0.1:55641 Closing
+[Mon Aug 10 18:27:07 2026] 127.0.0.1:50319 Accepted
+[Mon Aug 10 18:27:07 2026] 127.0.0.1:56845 Accepted
+[Mon Aug 10 18:27:07 2026] 127.0.0.1:50319 [200]: GET /assets/styles.css
+[Mon Aug 10 18:27:07 2026] 127.0.0.1:56845 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:27:07 2026] 127.0.0.1:50319 Closing
+[Mon Aug 10 18:27:07 2026] 127.0.0.1:56845 Closing
+[Mon Aug 10 18:28:03 2026] 127.0.0.1:51275 Accepted
+[Mon Aug 10 18:28:03 2026] 127.0.0.1:51275 [200]: GET /records.php?tab=certified
+[Mon Aug 10 18:28:03 2026] 127.0.0.1:51275 Closing
+[Mon Aug 10 18:28:03 2026] 127.0.0.1:64489 Accepted
+[Mon Aug 10 18:28:03 2026] 127.0.0.1:65104 Accepted
+[Mon Aug 10 18:28:03 2026] 127.0.0.1:64489 [200]: GET /assets/styles.css
+[Mon Aug 10 18:28:03 2026] 127.0.0.1:65104 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:28:03 2026] 127.0.0.1:64489 Closing
+[Mon Aug 10 18:28:03 2026] 127.0.0.1:65104 Closing
+[Mon Aug 10 18:28:04 2026] 127.0.0.1:60169 Accepted
+[Mon Aug 10 18:28:04 2026] 127.0.0.1:60169 [200]: GET /records.php?tab=documents
+[Mon Aug 10 18:28:04 2026] 127.0.0.1:60169 Closing
+[Mon Aug 10 18:28:04 2026] 127.0.0.1:53963 Accepted
+[Mon Aug 10 18:28:04 2026] 127.0.0.1:58420 Accepted
+[Mon Aug 10 18:28:04 2026] 127.0.0.1:53963 [200]: GET /assets/styles.css
+[Mon Aug 10 18:28:04 2026] 127.0.0.1:58420 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:28:04 2026] 127.0.0.1:53963 Closing
+[Mon Aug 10 18:28:04 2026] 127.0.0.1:58420 Closing
+[Mon Aug 10 18:28:07 2026] 127.0.0.1:65467 Accepted
+[Mon Aug 10 18:28:07 2026] 127.0.0.1:65467 [200]: GET /dashboard.php
+[Mon Aug 10 18:28:07 2026] 127.0.0.1:65467 Closing
+[Mon Aug 10 18:28:07 2026] 127.0.0.1:60970 Accepted
+[Mon Aug 10 18:28:07 2026] 127.0.0.1:65062 Accepted
+[Mon Aug 10 18:28:07 2026] 127.0.0.1:60970 [200]: GET /assets/styles.css
+[Mon Aug 10 18:28:07 2026] 127.0.0.1:65062 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:28:07 2026] 127.0.0.1:60970 Closing
+[Mon Aug 10 18:28:07 2026] 127.0.0.1:65062 Closing
+[Mon Aug 10 18:28:09 2026] 127.0.0.1:57861 Accepted
+[Mon Aug 10 18:28:09 2026] 127.0.0.1:57861 [200]: GET /committees.php
+[Mon Aug 10 18:28:09 2026] 127.0.0.1:57861 Closing
+[Mon Aug 10 18:28:09 2026] 127.0.0.1:52385 Accepted
+[Mon Aug 10 18:28:09 2026] 127.0.0.1:61844 Accepted
+[Mon Aug 10 18:28:09 2026] 127.0.0.1:52385 [200]: GET /assets/styles.css
+[Mon Aug 10 18:28:09 2026] 127.0.0.1:61844 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:28:09 2026] 127.0.0.1:52385 Closing
+[Mon Aug 10 18:28:09 2026] 127.0.0.1:61844 Closing
+[Mon Aug 10 18:28:17 2026] 127.0.0.1:64809 Accepted
+[Mon Aug 10 18:28:17 2026] 127.0.0.1:64809 [200]: GET /records.php
+[Mon Aug 10 18:28:17 2026] 127.0.0.1:64809 Closing
+[Mon Aug 10 18:28:17 2026] 127.0.0.1:57521 Accepted
+[Mon Aug 10 18:28:17 2026] 127.0.0.1:60663 Accepted
+[Mon Aug 10 18:28:17 2026] 127.0.0.1:57521 [200]: GET /assets/styles.css
+[Mon Aug 10 18:28:17 2026] 127.0.0.1:60663 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:28:17 2026] 127.0.0.1:57521 Closing
+[Mon Aug 10 18:28:17 2026] 127.0.0.1:60663 Closing
+[Mon Aug 10 18:28:18 2026] 127.0.0.1:62034 Accepted
+[Mon Aug 10 18:28:19 2026] 127.0.0.1:62034 [200]: GET /records.php?tab=documents
+[Mon Aug 10 18:28:19 2026] 127.0.0.1:62034 Closing
+[Mon Aug 10 18:28:19 2026] 127.0.0.1:58458 Accepted
+[Mon Aug 10 18:28:19 2026] 127.0.0.1:52738 Accepted
+[Mon Aug 10 18:28:19 2026] 127.0.0.1:58458 [200]: GET /assets/styles.css
+[Mon Aug 10 18:28:19 2026] 127.0.0.1:52738 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:28:19 2026] 127.0.0.1:58458 Closing
+[Mon Aug 10 18:28:19 2026] 127.0.0.1:52738 Closing
+[Mon Aug 10 18:28:55 2026] 127.0.0.1:65282 Accepted
+[Mon Aug 10 18:28:56 2026] 127.0.0.1:65282 [200]: GET /records.php?tab=documents
+[Mon Aug 10 18:28:56 2026] 127.0.0.1:65282 Closing
+[Mon Aug 10 18:28:56 2026] 127.0.0.1:64182 Accepted
+[Mon Aug 10 18:28:56 2026] 127.0.0.1:58534 Accepted
+[Mon Aug 10 18:28:56 2026] 127.0.0.1:64182 [200]: GET /assets/styles.css
+[Mon Aug 10 18:28:56 2026] 127.0.0.1:58534 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:28:56 2026] 127.0.0.1:64182 Closing
+[Mon Aug 10 18:28:56 2026] 127.0.0.1:58534 Closing
+[Mon Aug 10 18:29:00 2026] 127.0.0.1:53295 Accepted
+[Mon Aug 10 18:29:00 2026] 127.0.0.1:53295 [200]: GET /dashboard.php
+[Mon Aug 10 18:29:00 2026] 127.0.0.1:53295 Closing
+[Mon Aug 10 18:29:00 2026] 127.0.0.1:52267 Accepted
+[Mon Aug 10 18:29:00 2026] 127.0.0.1:52234 Accepted
+[Mon Aug 10 18:29:00 2026] 127.0.0.1:52267 [200]: GET /assets/styles.css
+[Mon Aug 10 18:29:00 2026] 127.0.0.1:52234 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:29:00 2026] 127.0.0.1:52267 Closing
+[Mon Aug 10 18:29:00 2026] 127.0.0.1:52234 Closing
+[Mon Aug 10 18:29:28 2026] 127.0.0.1:65201 Accepted
+[Mon Aug 10 18:29:28 2026] 127.0.0.1:65201 [200]: GET /assets/styles.css
+[Mon Aug 10 18:29:28 2026] 127.0.0.1:65201 Closing
+[Mon Aug 10 18:30:45 2026] 127.0.0.1:51949 Accepted
+[Mon Aug 10 18:30:45 2026] 127.0.0.1:51949 [200]: GET /assets/styles.css
+[Mon Aug 10 18:30:45 2026] 127.0.0.1:51949 Closing
+[Mon Aug 10 18:31:25 2026] 127.0.0.1:62233 Accepted
+[Mon Aug 10 18:31:25 2026] 127.0.0.1:62233 [200]: GET /dashboard.php
+[Mon Aug 10 18:31:25 2026] 127.0.0.1:62233 Closing
+[Mon Aug 10 18:31:25 2026] 127.0.0.1:51976 Accepted
+[Mon Aug 10 18:31:25 2026] 127.0.0.1:59630 Accepted
+[Mon Aug 10 18:31:25 2026] 127.0.0.1:51976 [200]: GET /assets/styles.css
+[Mon Aug 10 18:31:25 2026] 127.0.0.1:59630 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:31:25 2026] 127.0.0.1:51976 Closing
+[Mon Aug 10 18:31:25 2026] 127.0.0.1:59630 Closing
+[Mon Aug 10 18:31:36 2026] 127.0.0.1:55811 Accepted
+[Mon Aug 10 18:31:37 2026] 127.0.0.1:55811 [200]: GET /records.php?tab=all&status=Received
+[Mon Aug 10 18:31:37 2026] 127.0.0.1:55811 Closing
+[Mon Aug 10 18:31:37 2026] 127.0.0.1:61308 Accepted
+[Mon Aug 10 18:31:37 2026] 127.0.0.1:63719 Accepted
+[Mon Aug 10 18:31:37 2026] 127.0.0.1:61308 [200]: GET /assets/styles.css
+[Mon Aug 10 18:31:37 2026] 127.0.0.1:63719 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:31:37 2026] 127.0.0.1:61308 Closing
+[Mon Aug 10 18:31:37 2026] 127.0.0.1:63719 Closing
+[Mon Aug 10 18:31:38 2026] 127.0.0.1:57947 Accepted
+[Mon Aug 10 18:31:39 2026] 127.0.0.1:57947 [200]: GET /records.php?tab=committee
+[Mon Aug 10 18:31:39 2026] 127.0.0.1:57947 Closing
+[Mon Aug 10 18:31:39 2026] 127.0.0.1:52019 Accepted
+[Mon Aug 10 18:31:39 2026] 127.0.0.1:64379 Accepted
+[Mon Aug 10 18:31:39 2026] 127.0.0.1:52019 [200]: GET /assets/styles.css
+[Mon Aug 10 18:31:39 2026] 127.0.0.1:64379 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:31:39 2026] 127.0.0.1:52019 Closing
+[Mon Aug 10 18:31:39 2026] 127.0.0.1:64379 Closing
+[Mon Aug 10 18:31:39 2026] 127.0.0.1:61007 Accepted
+[Mon Aug 10 18:31:39 2026] 127.0.0.1:61007 [200]: GET /records.php?tab=certified
+[Mon Aug 10 18:31:39 2026] 127.0.0.1:61007 Closing
+[Mon Aug 10 18:31:39 2026] 127.0.0.1:61602 Accepted
+[Mon Aug 10 18:31:39 2026] 127.0.0.1:64637 Accepted
+[Mon Aug 10 18:31:39 2026] 127.0.0.1:61602 [200]: GET /assets/styles.css
+[Mon Aug 10 18:31:39 2026] 127.0.0.1:64637 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:31:39 2026] 127.0.0.1:61602 Closing
+[Mon Aug 10 18:31:39 2026] 127.0.0.1:64637 Closing
+[Mon Aug 10 18:31:40 2026] 127.0.0.1:49286 Accepted
+[Mon Aug 10 18:31:40 2026] 127.0.0.1:49286 [200]: GET /records.php?tab=documents
+[Mon Aug 10 18:31:40 2026] 127.0.0.1:49286 Closing
+[Mon Aug 10 18:31:40 2026] 127.0.0.1:56170 Accepted
+[Mon Aug 10 18:31:40 2026] 127.0.0.1:54886 Accepted
+[Mon Aug 10 18:31:40 2026] 127.0.0.1:56170 [200]: GET /assets/styles.css
+[Mon Aug 10 18:31:40 2026] 127.0.0.1:54886 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:31:40 2026] 127.0.0.1:56170 Closing
+[Mon Aug 10 18:31:40 2026] 127.0.0.1:54886 Closing
+[Mon Aug 10 18:31:41 2026] 127.0.0.1:51731 Accepted
+[Mon Aug 10 18:31:41 2026] 127.0.0.1:51731 [200]: GET /dashboard.php
+[Mon Aug 10 18:31:41 2026] 127.0.0.1:51731 Closing
+[Mon Aug 10 18:31:41 2026] 127.0.0.1:61110 Accepted
+[Mon Aug 10 18:31:41 2026] 127.0.0.1:56109 Accepted
+[Mon Aug 10 18:31:41 2026] 127.0.0.1:61110 [200]: GET /assets/styles.css
+[Mon Aug 10 18:31:41 2026] 127.0.0.1:56109 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:31:41 2026] 127.0.0.1:61110 Closing
+[Mon Aug 10 18:31:41 2026] 127.0.0.1:56109 Closing
+[Mon Aug 10 18:31:45 2026] 127.0.0.1:52145 Accepted
+[Mon Aug 10 18:31:46 2026] 127.0.0.1:52145 [200]: GET /records.php
+[Mon Aug 10 18:31:46 2026] 127.0.0.1:52145 Closing
+[Mon Aug 10 18:31:46 2026] 127.0.0.1:59292 Accepted
+[Mon Aug 10 18:31:46 2026] 127.0.0.1:50519 Accepted
+[Mon Aug 10 18:31:46 2026] 127.0.0.1:59292 [200]: GET /assets/styles.css
+[Mon Aug 10 18:31:46 2026] 127.0.0.1:50519 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:31:46 2026] 127.0.0.1:59292 Closing
+[Mon Aug 10 18:31:46 2026] 127.0.0.1:50519 Closing
+[Mon Aug 10 18:31:48 2026] 127.0.0.1:50525 Accepted
+[Mon Aug 10 18:31:48 2026] 127.0.0.1:50525 [200]: GET /assets/styles.css
+[Mon Aug 10 18:31:48 2026] 127.0.0.1:50525 Closing
+[Mon Aug 10 18:32:04 2026] 127.0.0.1:54145 Accepted
+[Mon Aug 10 18:32:04 2026] 127.0.0.1:54145 [200]: GET /records.php
+[Mon Aug 10 18:32:04 2026] 127.0.0.1:54145 Closing
+[Mon Aug 10 18:32:04 2026] 127.0.0.1:53768 Accepted
+[Mon Aug 10 18:32:04 2026] 127.0.0.1:53230 Accepted
+[Mon Aug 10 18:32:04 2026] 127.0.0.1:53768 [200]: GET /assets/styles.css
+[Mon Aug 10 18:32:04 2026] 127.0.0.1:53230 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:32:04 2026] 127.0.0.1:53768 Closing
+[Mon Aug 10 18:32:04 2026] 127.0.0.1:53230 Closing
+[Mon Aug 10 18:32:05 2026] 127.0.0.1:58510 Accepted
+[Mon Aug 10 18:32:06 2026] 127.0.0.1:58510 [200]: GET /records.php?tab=certified
+[Mon Aug 10 18:32:06 2026] 127.0.0.1:58510 Closing
+[Mon Aug 10 18:32:06 2026] 127.0.0.1:60162 Accepted
+[Mon Aug 10 18:32:06 2026] 127.0.0.1:57170 Accepted
+[Mon Aug 10 18:32:06 2026] 127.0.0.1:60162 [200]: GET /assets/styles.css
+[Mon Aug 10 18:32:06 2026] 127.0.0.1:57170 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:32:06 2026] 127.0.0.1:60162 Closing
+[Mon Aug 10 18:32:06 2026] 127.0.0.1:57170 Closing
+[Mon Aug 10 18:32:07 2026] 127.0.0.1:61927 Accepted
+[Mon Aug 10 18:32:07 2026] 127.0.0.1:61927 [200]: GET /records.php?tab=all
+[Mon Aug 10 18:32:07 2026] 127.0.0.1:61927 Closing
+[Mon Aug 10 18:32:07 2026] 127.0.0.1:65478 Accepted
+[Mon Aug 10 18:32:07 2026] 127.0.0.1:64328 Accepted
+[Mon Aug 10 18:32:07 2026] 127.0.0.1:65478 [200]: GET /assets/styles.css
+[Mon Aug 10 18:32:07 2026] 127.0.0.1:64328 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:32:07 2026] 127.0.0.1:65478 Closing
+[Mon Aug 10 18:32:07 2026] 127.0.0.1:64328 Closing
+[Mon Aug 10 18:32:09 2026] 127.0.0.1:49959 Accepted
+[Mon Aug 10 18:32:09 2026] 127.0.0.1:49959 [200]: GET /dashboard.php
+[Mon Aug 10 18:32:09 2026] 127.0.0.1:49959 Closing
+[Mon Aug 10 18:32:09 2026] 127.0.0.1:58033 Accepted
+[Mon Aug 10 18:32:09 2026] 127.0.0.1:51506 Accepted
+[Mon Aug 10 18:32:09 2026] 127.0.0.1:58033 [200]: GET /assets/styles.css
+[Mon Aug 10 18:32:09 2026] 127.0.0.1:51506 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:32:09 2026] 127.0.0.1:58033 Closing
+[Mon Aug 10 18:32:09 2026] 127.0.0.1:51506 Closing
+[Mon Aug 10 18:32:17 2026] 127.0.0.1:57820 Accepted
+[Mon Aug 10 18:32:17 2026] 127.0.0.1:57820 [200]: GET /dashboard.php
+[Mon Aug 10 18:32:17 2026] 127.0.0.1:57820 Closing
+[Mon Aug 10 18:32:17 2026] 127.0.0.1:57010 Accepted
+[Mon Aug 10 18:32:17 2026] 127.0.0.1:60861 Accepted
+[Mon Aug 10 18:32:17 2026] 127.0.0.1:57010 [200]: GET /assets/styles.css
+[Mon Aug 10 18:32:17 2026] 127.0.0.1:60861 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:32:17 2026] 127.0.0.1:57010 Closing
+[Mon Aug 10 18:32:17 2026] 127.0.0.1:60861 Closing
+[Mon Aug 10 18:32:19 2026] 127.0.0.1:60612 Accepted
+[Mon Aug 10 18:32:19 2026] 127.0.0.1:60612 [200]: GET /records.php
+[Mon Aug 10 18:32:19 2026] 127.0.0.1:60612 Closing
+[Mon Aug 10 18:32:19 2026] 127.0.0.1:51737 Accepted
+[Mon Aug 10 18:32:19 2026] 127.0.0.1:50705 Accepted
+[Mon Aug 10 18:32:19 2026] 127.0.0.1:51737 [200]: GET /assets/styles.css
+[Mon Aug 10 18:32:19 2026] 127.0.0.1:50705 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:32:19 2026] 127.0.0.1:51737 Closing
+[Mon Aug 10 18:32:19 2026] 127.0.0.1:50705 Closing
+[Mon Aug 10 18:32:20 2026] 127.0.0.1:52348 Accepted
+[Mon Aug 10 18:32:21 2026] 127.0.0.1:52348 [200]: GET /record_view.php?id=7&popup=1&return=records&return_url=%2Frecords.php%23record-7
+[Mon Aug 10 18:32:21 2026] 127.0.0.1:52348 Closing
+[Mon Aug 10 18:32:21 2026] 127.0.0.1:52862 Accepted
+[Mon Aug 10 18:32:21 2026] 127.0.0.1:61635 Accepted
+[Mon Aug 10 18:32:21 2026] 127.0.0.1:52862 [200]: GET /assets/styles.css
+[Mon Aug 10 18:32:21 2026] 127.0.0.1:61635 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:32:21 2026] 127.0.0.1:52862 Closing
+[Mon Aug 10 18:32:21 2026] 127.0.0.1:61635 Closing
+[Mon Aug 10 18:33:05 2026] 127.0.0.1:58174 Accepted
+[Mon Aug 10 18:33:05 2026] 127.0.0.1:58174 [200]: GET /assets/styles.css
+[Mon Aug 10 18:33:05 2026] 127.0.0.1:58174 Closing
+[Mon Aug 10 18:33:54 2026] 127.0.0.1:52980 Accepted
+[Mon Aug 10 18:33:54 2026] 127.0.0.1:52980 [200]: GET /records.php
+[Mon Aug 10 18:33:54 2026] 127.0.0.1:52980 Closing
+[Mon Aug 10 18:33:54 2026] 127.0.0.1:63931 Accepted
+[Mon Aug 10 18:33:54 2026] 127.0.0.1:65109 Accepted
+[Mon Aug 10 18:33:54 2026] 127.0.0.1:63931 [200]: GET /assets/styles.css
+[Mon Aug 10 18:33:54 2026] 127.0.0.1:65109 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:33:54 2026] 127.0.0.1:63931 Closing
+[Mon Aug 10 18:33:54 2026] 127.0.0.1:65109 Closing
+[Mon Aug 10 18:33:57 2026] 127.0.0.1:58631 Accepted
+[Mon Aug 10 18:33:57 2026] 127.0.0.1:58631 [200]: GET /records.php
+[Mon Aug 10 18:33:57 2026] 127.0.0.1:58631 Closing
+[Mon Aug 10 18:33:57 2026] 127.0.0.1:52488 Accepted
+[Mon Aug 10 18:33:57 2026] 127.0.0.1:53211 Accepted
+[Mon Aug 10 18:33:57 2026] 127.0.0.1:52488 [200]: GET /assets/styles.css
+[Mon Aug 10 18:33:57 2026] 127.0.0.1:53211 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:33:57 2026] 127.0.0.1:52488 Closing
+[Mon Aug 10 18:33:57 2026] 127.0.0.1:53211 Closing
+[Mon Aug 10 18:33:59 2026] 127.0.0.1:49994 Accepted
+[Mon Aug 10 18:33:59 2026] 127.0.0.1:49994 [200]: GET /record_view.php?id=7&popup=1&return=records&return_url=%2Frecords.php%23record-7
+[Mon Aug 10 18:33:59 2026] 127.0.0.1:49994 Closing
+[Mon Aug 10 18:33:59 2026] 127.0.0.1:61196 Accepted
+[Mon Aug 10 18:33:59 2026] 127.0.0.1:59239 Accepted
+[Mon Aug 10 18:33:59 2026] 127.0.0.1:61196 [200]: GET /assets/styles.css
+[Mon Aug 10 18:33:59 2026] 127.0.0.1:59239 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:33:59 2026] 127.0.0.1:61196 Closing
+[Mon Aug 10 18:33:59 2026] 127.0.0.1:59239 Closing
+[Mon Aug 10 18:34:07 2026] 127.0.0.1:49259 Accepted
+[Mon Aug 10 18:34:07 2026] 127.0.0.1:49259 [200]: GET /records.php
+[Mon Aug 10 18:34:07 2026] 127.0.0.1:49259 Closing
+[Mon Aug 10 18:34:07 2026] 127.0.0.1:50423 Accepted
+[Mon Aug 10 18:34:07 2026] 127.0.0.1:51024 Accepted
+[Mon Aug 10 18:34:07 2026] 127.0.0.1:50423 [200]: GET /assets/styles.css
+[Mon Aug 10 18:34:07 2026] 127.0.0.1:51024 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:34:07 2026] 127.0.0.1:50423 Closing
+[Mon Aug 10 18:34:07 2026] 127.0.0.1:51024 Closing
+[Mon Aug 10 18:34:10 2026] 127.0.0.1:54556 Accepted
+[Mon Aug 10 18:34:10 2026] 127.0.0.1:54556 [200]: GET /record_view.php?id=6&popup=1&return=records&return_url=%2Frecords.php%23record-6
+[Mon Aug 10 18:34:10 2026] 127.0.0.1:54556 Closing
+[Mon Aug 10 18:34:10 2026] 127.0.0.1:61080 Accepted
+[Mon Aug 10 18:34:10 2026] 127.0.0.1:63816 Accepted
+[Mon Aug 10 18:34:10 2026] 127.0.0.1:61080 [200]: GET /assets/styles.css
+[Mon Aug 10 18:34:10 2026] 127.0.0.1:63816 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:34:10 2026] 127.0.0.1:61080 Closing
+[Mon Aug 10 18:34:10 2026] 127.0.0.1:63816 Closing
+[Mon Aug 10 18:34:14 2026] 127.0.0.1:63820 Accepted
+[Mon Aug 10 18:34:14 2026] 127.0.0.1:63820 [200]: GET /assets/styles.css
+[Mon Aug 10 18:34:14 2026] 127.0.0.1:63820 Closing
+[Mon Aug 10 18:34:19 2026] 127.0.0.1:60010 Accepted
+[Mon Aug 10 18:34:19 2026] 127.0.0.1:60010 [200]: GET /record_view.php?id=6&popup=1&return=records&return_url=%2Frecords.php%23record-6
+[Mon Aug 10 18:34:19 2026] 127.0.0.1:60010 Closing
+[Mon Aug 10 18:34:19 2026] 127.0.0.1:58068 Accepted
+[Mon Aug 10 18:34:19 2026] 127.0.0.1:58352 Accepted
+[Mon Aug 10 18:34:19 2026] 127.0.0.1:58068 [200]: GET /assets/styles.css
+[Mon Aug 10 18:34:19 2026] 127.0.0.1:58352 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:34:19 2026] 127.0.0.1:58068 Closing
+[Mon Aug 10 18:34:19 2026] 127.0.0.1:58352 Closing
+[Mon Aug 10 18:35:24 2026] 127.0.0.1:53836 Accepted
+[Mon Aug 10 18:35:24 2026] 127.0.0.1:53836 [200]: GET /assets/styles.css
+[Mon Aug 10 18:35:24 2026] 127.0.0.1:53836 Closing
+[Mon Aug 10 18:37:16 2026] 127.0.0.1:61056 Accepted
+[Mon Aug 10 18:37:17 2026] 127.0.0.1:61056 [200]: GET /records.php
+[Mon Aug 10 18:37:17 2026] 127.0.0.1:61056 Closing
+[Mon Aug 10 18:37:17 2026] 127.0.0.1:52434 Accepted
+[Mon Aug 10 18:37:17 2026] 127.0.0.1:61198 Accepted
+[Mon Aug 10 18:37:17 2026] 127.0.0.1:52434 [200]: GET /assets/styles.css
+[Mon Aug 10 18:37:17 2026] 127.0.0.1:61198 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:37:17 2026] 127.0.0.1:52434 Closing
+[Mon Aug 10 18:37:17 2026] 127.0.0.1:61198 Closing
+[Mon Aug 10 18:37:19 2026] 127.0.0.1:53348 Accepted
+[Mon Aug 10 18:37:19 2026] 127.0.0.1:53348 [200]: GET /records.php?tab=all
+[Mon Aug 10 18:37:19 2026] 127.0.0.1:53348 Closing
+[Mon Aug 10 18:37:19 2026] 127.0.0.1:49310 Accepted
+[Mon Aug 10 18:37:19 2026] 127.0.0.1:54695 Accepted
+[Mon Aug 10 18:37:19 2026] 127.0.0.1:49310 [200]: GET /assets/styles.css
+[Mon Aug 10 18:37:19 2026] 127.0.0.1:54695 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:37:19 2026] 127.0.0.1:49310 Closing
+[Mon Aug 10 18:37:19 2026] 127.0.0.1:54695 Closing
+[Mon Aug 10 18:37:22 2026] 127.0.0.1:57043 Accepted
+[Mon Aug 10 18:37:22 2026] 127.0.0.1:57043 [200]: GET /record_attachments_view.php?record_id=7&popup=1&return=records&return_url=%2Frecords.php%3Ftab%3Dall%23record-7
+[Mon Aug 10 18:37:22 2026] 127.0.0.1:57043 Closing
+[Mon Aug 10 18:37:22 2026] 127.0.0.1:59340 Accepted
+[Mon Aug 10 18:37:22 2026] 127.0.0.1:56987 Accepted
+[Mon Aug 10 18:37:22 2026] 127.0.0.1:59340 [200]: GET /assets/styles.css
+[Mon Aug 10 18:37:22 2026] 127.0.0.1:56987 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:37:22 2026] 127.0.0.1:59340 Closing
+[Mon Aug 10 18:37:22 2026] 127.0.0.1:56987 Closing
+[Mon Aug 10 18:37:22 2026] 127.0.0.1:63464 Accepted
+[Mon Aug 10 18:37:22 2026] 127.0.0.1:63464 [200]: GET /record_attachment.php?id=7
+[Mon Aug 10 18:37:22 2026] 127.0.0.1:63464 Closing
+[Mon Aug 10 18:37:22 2026] 127.0.0.1:52702 Accepted
+[Mon Aug 10 18:38:36 2026] 127.0.0.1:59537 Accepted
+[Mon Aug 10 18:38:36 2026] 127.0.0.1:59537 [200]: GET /assets/styles.css
+[Mon Aug 10 18:38:36 2026] 127.0.0.1:59537 Closing
+[Mon Aug 10 18:39:10 2026] 127.0.0.1:52702 Closed without sending a request; it was probably just an unused speculative preconnection
+[Mon Aug 10 18:39:10 2026] 127.0.0.1:52702 Closing
+[Mon Aug 10 18:39:10 2026] 127.0.0.1:58393 Accepted
+[Mon Aug 10 18:39:11 2026] 127.0.0.1:58393 [200]: GET /records.php?tab=all
+[Mon Aug 10 18:39:11 2026] 127.0.0.1:58393 Closing
+[Mon Aug 10 18:39:11 2026] 127.0.0.1:59123 Accepted
+[Mon Aug 10 18:39:11 2026] 127.0.0.1:50415 Accepted
+[Mon Aug 10 18:39:11 2026] 127.0.0.1:59123 [200]: GET /assets/styles.css
+[Mon Aug 10 18:39:11 2026] 127.0.0.1:50415 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:39:11 2026] 127.0.0.1:59123 Closing
+[Mon Aug 10 18:39:11 2026] 127.0.0.1:50415 Closing
+[Mon Aug 10 18:39:15 2026] 127.0.0.1:53092 Accepted
+[Mon Aug 10 18:39:15 2026] 127.0.0.1:53092 [200]: GET /records.php?tab=all
+[Mon Aug 10 18:39:15 2026] 127.0.0.1:53092 Closing
+[Mon Aug 10 18:39:15 2026] 127.0.0.1:56839 Accepted
+[Mon Aug 10 18:39:15 2026] 127.0.0.1:52056 Accepted
+[Mon Aug 10 18:39:15 2026] 127.0.0.1:56839 [200]: GET /assets/styles.css
+[Mon Aug 10 18:39:15 2026] 127.0.0.1:52056 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:39:15 2026] 127.0.0.1:56839 Closing
+[Mon Aug 10 18:39:15 2026] 127.0.0.1:52056 Closing
+[Mon Aug 10 18:39:19 2026] 127.0.0.1:51200 Accepted
+[Mon Aug 10 18:39:20 2026] 127.0.0.1:51200 [200]: GET /record_view.php?id=7&popup=1&return=records&return_url=%2Frecords.php%3Ftab%3Dall%23record-7
+[Mon Aug 10 18:39:20 2026] 127.0.0.1:51200 Closing
+[Mon Aug 10 18:39:20 2026] 127.0.0.1:62388 Accepted
+[Mon Aug 10 18:39:20 2026] 127.0.0.1:62383 Accepted
+[Mon Aug 10 18:39:20 2026] 127.0.0.1:62388 [200]: GET /assets/styles.css
+[Mon Aug 10 18:39:20 2026] 127.0.0.1:62383 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:39:20 2026] 127.0.0.1:62388 Closing
+[Mon Aug 10 18:39:20 2026] 127.0.0.1:62383 Closing
+[Mon Aug 10 18:39:21 2026] 127.0.0.1:55699 Accepted
+[Mon Aug 10 18:39:22 2026] 127.0.0.1:55699 [200]: GET /record_attachments_view.php?record_id=7&popup=1&return=records&return_url=%2Frecords.php%3Ftab%3Dall%23record-7
+[Mon Aug 10 18:39:22 2026] 127.0.0.1:55699 Closing
+[Mon Aug 10 18:39:22 2026] 127.0.0.1:51904 Accepted
+[Mon Aug 10 18:39:22 2026] 127.0.0.1:52853 Accepted
+[Mon Aug 10 18:39:22 2026] 127.0.0.1:51904 [200]: GET /assets/styles.css
+[Mon Aug 10 18:39:22 2026] 127.0.0.1:52853 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:39:22 2026] 127.0.0.1:51904 Closing
+[Mon Aug 10 18:39:22 2026] 127.0.0.1:52853 Closing
+[Mon Aug 10 18:39:22 2026] 127.0.0.1:53045 Accepted
+[Mon Aug 10 18:39:22 2026] 127.0.0.1:53045 [200]: GET /record_attachment.php?id=7
+[Mon Aug 10 18:39:22 2026] 127.0.0.1:53045 Closing
+[Mon Aug 10 18:39:22 2026] 127.0.0.1:52345 Accepted
+[Mon Aug 10 18:39:24 2026] 127.0.0.1:52345 [200]: GET /records.php?tab=all
+[Mon Aug 10 18:39:24 2026] 127.0.0.1:52345 Closing
+[Mon Aug 10 18:39:24 2026] 127.0.0.1:54842 Accepted
+[Mon Aug 10 18:39:24 2026] 127.0.0.1:54960 Accepted
+[Mon Aug 10 18:39:24 2026] 127.0.0.1:54842 [200]: GET /assets/styles.css
+[Mon Aug 10 18:39:24 2026] 127.0.0.1:54960 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:39:24 2026] 127.0.0.1:54842 Closing
+[Mon Aug 10 18:39:24 2026] 127.0.0.1:54960 Closing
+[Mon Aug 10 18:39:26 2026] 127.0.0.1:53723 Accepted
+[Mon Aug 10 18:39:26 2026] 127.0.0.1:53723 [200]: GET /dashboard.php
+[Mon Aug 10 18:39:26 2026] 127.0.0.1:53723 Closing
+[Mon Aug 10 18:39:26 2026] 127.0.0.1:49295 Accepted
+[Mon Aug 10 18:39:26 2026] 127.0.0.1:59405 Accepted
+[Mon Aug 10 18:39:26 2026] 127.0.0.1:49295 [200]: GET /assets/styles.css
+[Mon Aug 10 18:39:26 2026] 127.0.0.1:59405 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:39:26 2026] 127.0.0.1:49295 Closing
+[Mon Aug 10 18:39:26 2026] 127.0.0.1:59405 Closing
+[Mon Aug 10 18:39:29 2026] 127.0.0.1:53466 Accepted
+[Mon Aug 10 18:39:29 2026] 127.0.0.1:53466 [200]: GET /records.php
+[Mon Aug 10 18:39:29 2026] 127.0.0.1:53466 Closing
+[Mon Aug 10 18:39:29 2026] 127.0.0.1:52540 Accepted
+[Mon Aug 10 18:39:29 2026] 127.0.0.1:56455 Accepted
+[Mon Aug 10 18:39:29 2026] 127.0.0.1:52540 [200]: GET /assets/styles.css
+[Mon Aug 10 18:39:29 2026] 127.0.0.1:56455 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:39:29 2026] 127.0.0.1:52540 Closing
+[Mon Aug 10 18:39:29 2026] 127.0.0.1:56455 Closing
+[Mon Aug 10 18:39:38 2026] 127.0.0.1:62599 Accepted
+[Mon Aug 10 18:39:38 2026] 127.0.0.1:62599 [200]: GET /record_view.php?id=7&popup=1&return=records&return_url=%2Frecords.php%23record-7
+[Mon Aug 10 18:39:38 2026] 127.0.0.1:62599 Closing
+[Mon Aug 10 18:39:38 2026] 127.0.0.1:58268 Accepted
+[Mon Aug 10 18:39:38 2026] 127.0.0.1:61305 Accepted
+[Mon Aug 10 18:39:38 2026] 127.0.0.1:58268 [200]: GET /assets/styles.css
+[Mon Aug 10 18:39:38 2026] 127.0.0.1:61305 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:39:38 2026] 127.0.0.1:58268 Closing
+[Mon Aug 10 18:39:38 2026] 127.0.0.1:61305 Closing
+[Mon Aug 10 18:40:35 2026] 127.0.0.1:49326 Accepted
+[Mon Aug 10 18:40:35 2026] 127.0.0.1:49326 [200]: GET /records.php
+[Mon Aug 10 18:40:35 2026] 127.0.0.1:49326 Closing
+[Mon Aug 10 18:40:35 2026] 127.0.0.1:57513 Accepted
+[Mon Aug 10 18:40:35 2026] 127.0.0.1:62405 Accepted
+[Mon Aug 10 18:40:35 2026] 127.0.0.1:57513 [200]: GET /assets/styles.css
+[Mon Aug 10 18:40:35 2026] 127.0.0.1:62405 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:40:35 2026] 127.0.0.1:57513 Closing
+[Mon Aug 10 18:40:35 2026] 127.0.0.1:62405 Closing
+[Mon Aug 10 18:40:46 2026] 127.0.0.1:52415 Accepted
+[Mon Aug 10 18:40:46 2026] 127.0.0.1:52415 [200]: GET /records.php?tab=certified
+[Mon Aug 10 18:40:46 2026] 127.0.0.1:52415 Closing
+[Mon Aug 10 18:40:46 2026] 127.0.0.1:51077 Accepted
+[Mon Aug 10 18:40:46 2026] 127.0.0.1:63587 Accepted
+[Mon Aug 10 18:40:46 2026] 127.0.0.1:51077 [200]: GET /assets/styles.css
+[Mon Aug 10 18:40:46 2026] 127.0.0.1:63587 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:40:46 2026] 127.0.0.1:51077 Closing
+[Mon Aug 10 18:40:46 2026] 127.0.0.1:63587 Closing
+[Mon Aug 10 18:40:47 2026] 127.0.0.1:53196 Accepted
+[Mon Aug 10 18:40:47 2026] 127.0.0.1:53196 [200]: GET /records.php?tab=committee
+[Mon Aug 10 18:40:47 2026] 127.0.0.1:53196 Closing
+[Mon Aug 10 18:40:47 2026] 127.0.0.1:54875 Accepted
+[Mon Aug 10 18:40:47 2026] 127.0.0.1:62567 Accepted
+[Mon Aug 10 18:40:47 2026] 127.0.0.1:54875 [200]: GET /assets/styles.css
+[Mon Aug 10 18:40:47 2026] 127.0.0.1:62567 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:40:47 2026] 127.0.0.1:54875 Closing
+[Mon Aug 10 18:40:47 2026] 127.0.0.1:62567 Closing
+[Mon Aug 10 18:40:55 2026] 127.0.0.1:62571 Accepted
+[Mon Aug 10 18:40:55 2026] 127.0.0.1:62571 [200]: GET /assets/styles.css
+[Mon Aug 10 18:40:55 2026] 127.0.0.1:62571 Closing
+[Mon Aug 10 18:41:37 2026] 127.0.0.1:64824 Accepted
+[Mon Aug 10 18:41:37 2026] 127.0.0.1:64824 [200]: GET /record_view.php?id=7&popup=1&return=records&return_url=%2Frecords.php%3Ftab%3Dcommittee%23record-7
+[Mon Aug 10 18:41:37 2026] 127.0.0.1:64824 Closing
+[Mon Aug 10 18:41:38 2026] 127.0.0.1:58744 Accepted
+[Mon Aug 10 18:41:38 2026] 127.0.0.1:56796 Accepted
+[Mon Aug 10 18:41:38 2026] 127.0.0.1:58744 [200]: GET /assets/styles.css
+[Mon Aug 10 18:41:38 2026] 127.0.0.1:56796 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:41:38 2026] 127.0.0.1:58744 Closing
+[Mon Aug 10 18:41:38 2026] 127.0.0.1:56796 Closing
+[Mon Aug 10 18:41:51 2026] 127.0.0.1:59322 Accepted
+[Mon Aug 10 18:41:51 2026] 127.0.0.1:59322 [200]: GET /records.php?tab=committee
+[Mon Aug 10 18:41:51 2026] 127.0.0.1:59322 Closing
+[Mon Aug 10 18:41:51 2026] 127.0.0.1:55968 Accepted
+[Mon Aug 10 18:41:51 2026] 127.0.0.1:56557 Accepted
+[Mon Aug 10 18:41:51 2026] 127.0.0.1:55968 [200]: GET /assets/styles.css
+[Mon Aug 10 18:41:51 2026] 127.0.0.1:56557 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:41:51 2026] 127.0.0.1:55968 Closing
+[Mon Aug 10 18:41:51 2026] 127.0.0.1:56557 Closing
+[Mon Aug 10 18:41:53 2026] 127.0.0.1:57052 Accepted
+[Mon Aug 10 18:41:54 2026] 127.0.0.1:57052 [200]: GET /record_view.php?id=7&popup=1&return=records&return_url=%2Frecords.php%3Ftab%3Dcommittee%23record-7
+[Mon Aug 10 18:41:54 2026] 127.0.0.1:57052 Closing
+[Mon Aug 10 18:41:54 2026] 127.0.0.1:61000 Accepted
+[Mon Aug 10 18:41:54 2026] 127.0.0.1:50702 Accepted
+[Mon Aug 10 18:41:54 2026] 127.0.0.1:61000 [200]: GET /assets/styles.css
+[Mon Aug 10 18:41:54 2026] 127.0.0.1:50702 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:41:54 2026] 127.0.0.1:61000 Closing
+[Mon Aug 10 18:41:54 2026] 127.0.0.1:50702 Closing
+[Mon Aug 10 18:41:59 2026] 127.0.0.1:62521 Accepted
+[Mon Aug 10 18:42:00 2026] 127.0.0.1:62521 [200]: GET /records.php?tab=committee
+[Mon Aug 10 18:42:00 2026] 127.0.0.1:62521 Closing
+[Mon Aug 10 18:42:00 2026] 127.0.0.1:63658 Accepted
+[Mon Aug 10 18:42:00 2026] 127.0.0.1:55494 Accepted
+[Mon Aug 10 18:42:00 2026] 127.0.0.1:63658 [200]: GET /assets/styles.css
+[Mon Aug 10 18:42:00 2026] 127.0.0.1:55494 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:42:00 2026] 127.0.0.1:63658 Closing
+[Mon Aug 10 18:42:00 2026] 127.0.0.1:55494 Closing
+[Mon Aug 10 18:43:32 2026] 127.0.0.1:60134 Accepted
+[Mon Aug 10 18:43:32 2026] 127.0.0.1:60134 [200]: GET /assets/styles.css
+[Mon Aug 10 18:43:32 2026] 127.0.0.1:60134 Closing
+[Mon Aug 10 18:43:37 2026] 127.0.0.1:50275 Accepted
+[Mon Aug 10 18:43:38 2026] 127.0.0.1:50275 [200]: GET /records.php?tab=committee
+[Mon Aug 10 18:43:38 2026] 127.0.0.1:50275 Closing
+[Mon Aug 10 18:43:38 2026] 127.0.0.1:63333 Accepted
+[Mon Aug 10 18:43:38 2026] 127.0.0.1:58956 Accepted
+[Mon Aug 10 18:43:38 2026] 127.0.0.1:63333 [200]: GET /assets/styles.css
+[Mon Aug 10 18:43:38 2026] 127.0.0.1:58956 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:43:38 2026] 127.0.0.1:63333 Closing
+[Mon Aug 10 18:43:38 2026] 127.0.0.1:58956 Closing
+[Mon Aug 10 18:44:27 2026] 127.0.0.1:57204 Accepted
+[Mon Aug 10 18:44:27 2026] 127.0.0.1:57204 [200]: GET /dashboard.php
+[Mon Aug 10 18:44:27 2026] 127.0.0.1:57204 Closing
+[Mon Aug 10 18:44:27 2026] 127.0.0.1:57833 Accepted
+[Mon Aug 10 18:44:27 2026] 127.0.0.1:63686 Accepted
+[Mon Aug 10 18:44:27 2026] 127.0.0.1:57833 [200]: GET /assets/styles.css
+[Mon Aug 10 18:44:27 2026] 127.0.0.1:63686 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:44:27 2026] 127.0.0.1:57833 Closing
+[Mon Aug 10 18:44:27 2026] 127.0.0.1:63686 Closing
+[Mon Aug 10 18:45:52 2026] 127.0.0.1:57899 Accepted
+[Mon Aug 10 18:45:52 2026] 127.0.0.1:57899 [200]: GET /assets/styles.css
+[Mon Aug 10 18:45:52 2026] 127.0.0.1:57899 Closing
+[Mon Aug 10 18:45:56 2026] 127.0.0.1:61321 Accepted
+[Mon Aug 10 18:45:56 2026] 127.0.0.1:61321 [200]: GET /dashboard.php
+[Mon Aug 10 18:45:56 2026] 127.0.0.1:61321 Closing
+[Mon Aug 10 18:45:56 2026] 127.0.0.1:56570 Accepted
+[Mon Aug 10 18:45:56 2026] 127.0.0.1:55592 Accepted
+[Mon Aug 10 18:45:56 2026] 127.0.0.1:56570 [200]: GET /assets/styles.css
+[Mon Aug 10 18:45:56 2026] 127.0.0.1:55592 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:45:56 2026] 127.0.0.1:56570 Closing
+[Mon Aug 10 18:45:56 2026] 127.0.0.1:55592 Closing
+[Mon Aug 10 18:47:13 2026] 127.0.0.1:53881 Accepted
+[Mon Aug 10 18:47:13 2026] 127.0.0.1:53881 [200]: GET /assets/styles.css
+[Mon Aug 10 18:47:13 2026] 127.0.0.1:53881 Closing
+[Mon Aug 10 18:47:18 2026] 127.0.0.1:59523 Accepted
+[Mon Aug 10 18:47:18 2026] 127.0.0.1:59523 [200]: GET /dashboard.php
+[Mon Aug 10 18:47:18 2026] 127.0.0.1:59523 Closing
+[Mon Aug 10 18:47:18 2026] 127.0.0.1:60736 Accepted
+[Mon Aug 10 18:47:18 2026] 127.0.0.1:59584 Accepted
+[Mon Aug 10 18:47:18 2026] 127.0.0.1:60736 [200]: GET /assets/styles.css
+[Mon Aug 10 18:47:18 2026] 127.0.0.1:59584 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:47:18 2026] 127.0.0.1:60736 Closing
+[Mon Aug 10 18:47:18 2026] 127.0.0.1:59584 Closing
+[Mon Aug 10 18:49:42 2026] 127.0.0.1:61263 Accepted
+[Mon Aug 10 18:49:42 2026] 127.0.0.1:61263 [200]: GET /assets/styles.css
+[Mon Aug 10 18:49:42 2026] 127.0.0.1:61263 Closing
+[Mon Aug 10 18:49:46 2026] 127.0.0.1:64400 Accepted
+[Mon Aug 10 18:49:46 2026] 127.0.0.1:64400 [200]: GET /dashboard.php
+[Mon Aug 10 18:49:46 2026] 127.0.0.1:64400 Closing
+[Mon Aug 10 18:49:46 2026] 127.0.0.1:51246 Accepted
+[Mon Aug 10 18:49:46 2026] 127.0.0.1:57632 Accepted
+[Mon Aug 10 18:49:46 2026] 127.0.0.1:51246 [200]: GET /assets/styles.css
+[Mon Aug 10 18:49:46 2026] 127.0.0.1:57632 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:49:46 2026] 127.0.0.1:51246 Closing
+[Mon Aug 10 18:49:46 2026] 127.0.0.1:57632 Closing
+[Mon Aug 10 18:52:47 2026] 127.0.0.1:54872 Accepted
+[Mon Aug 10 18:52:47 2026] 127.0.0.1:54872 [200]: GET /dashboard.php
+[Mon Aug 10 18:52:47 2026] 127.0.0.1:54872 Closing
+[Mon Aug 10 18:52:47 2026] 127.0.0.1:54184 Accepted
+[Mon Aug 10 18:52:47 2026] 127.0.0.1:59419 Accepted
+[Mon Aug 10 18:52:47 2026] 127.0.0.1:54184 [200]: GET /assets/styles.css
+[Mon Aug 10 18:52:47 2026] 127.0.0.1:59419 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:52:47 2026] 127.0.0.1:54184 Closing
+[Mon Aug 10 18:52:47 2026] 127.0.0.1:59419 Closing
+[Mon Aug 10 18:53:09 2026] 127.0.0.1:62962 Accepted
+[Mon Aug 10 18:53:09 2026] 127.0.0.1:62962 [200]: GET /dashboard.php
+[Mon Aug 10 18:53:09 2026] 127.0.0.1:62962 Closing
+[Mon Aug 10 18:53:09 2026] 127.0.0.1:59522 Accepted
+[Mon Aug 10 18:53:09 2026] 127.0.0.1:61128 Accepted
+[Mon Aug 10 18:53:09 2026] 127.0.0.1:59522 [200]: GET /assets/styles.css
+[Mon Aug 10 18:53:09 2026] 127.0.0.1:61128 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:53:09 2026] 127.0.0.1:59522 Closing
+[Mon Aug 10 18:53:09 2026] 127.0.0.1:61128 Closing
+[Mon Aug 10 18:53:37 2026] 127.0.0.1:63948 Accepted
+[Mon Aug 10 18:53:37 2026] 127.0.0.1:63948 [200]: GET /dashboard.php
+[Mon Aug 10 18:53:37 2026] 127.0.0.1:63948 Closing
+[Mon Aug 10 18:53:37 2026] 127.0.0.1:51982 Accepted
+[Mon Aug 10 18:53:37 2026] 127.0.0.1:51900 Accepted
+[Mon Aug 10 18:53:37 2026] 127.0.0.1:51982 [200]: GET /assets/styles.css
+[Mon Aug 10 18:53:37 2026] 127.0.0.1:51900 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:53:37 2026] 127.0.0.1:51982 Closing
+[Mon Aug 10 18:53:37 2026] 127.0.0.1:51900 Closing
+[Mon Aug 10 18:53:43 2026] 127.0.0.1:51905 Accepted
+[Mon Aug 10 18:53:43 2026] 127.0.0.1:51905 [200]: GET /assets/styles.css
+[Mon Aug 10 18:53:43 2026] 127.0.0.1:51905 Closing
+[Mon Aug 10 18:56:10 2026] 127.0.0.1:58446 Accepted
+[Mon Aug 10 18:56:10 2026] 127.0.0.1:58446 [200]: GET /assets/styles.css
+[Mon Aug 10 18:56:10 2026] 127.0.0.1:58446 Closing
+[Mon Aug 10 18:56:16 2026] 127.0.0.1:60381 Accepted
+[Mon Aug 10 18:56:17 2026] 127.0.0.1:60381 [200]: GET /dashboard.php
+[Mon Aug 10 18:56:17 2026] 127.0.0.1:60381 Closing
+[Mon Aug 10 18:56:17 2026] 127.0.0.1:61616 Accepted
+[Mon Aug 10 18:56:17 2026] 127.0.0.1:57143 Accepted
+[Mon Aug 10 18:56:17 2026] 127.0.0.1:61616 [200]: GET /assets/styles.css
+[Mon Aug 10 18:56:17 2026] 127.0.0.1:57143 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:56:17 2026] 127.0.0.1:61616 Closing
+[Mon Aug 10 18:56:17 2026] 127.0.0.1:57143 Closing
+[Mon Aug 10 18:58:39 2026] 127.0.0.1:61410 Accepted
+[Mon Aug 10 18:58:39 2026] 127.0.0.1:61410 [200]: GET /assets/styles.css
+[Mon Aug 10 18:58:39 2026] 127.0.0.1:61410 Closing
+[Mon Aug 10 18:59:53 2026] 127.0.0.1:56843 Accepted
+[Mon Aug 10 18:59:53 2026] 127.0.0.1:56843 [200]: GET /log_history.php?view=user&id=35&popup=1&return_url=%2Fdashboard.php%3Fcity_tab%3Dlogs
+[Mon Aug 10 18:59:53 2026] 127.0.0.1:56843 Closing
+[Mon Aug 10 18:59:53 2026] 127.0.0.1:59026 Accepted
+[Mon Aug 10 18:59:53 2026] 127.0.0.1:57752 Accepted
+[Mon Aug 10 18:59:53 2026] 127.0.0.1:59026 [200]: GET /assets/styles.css
+[Mon Aug 10 18:59:53 2026] 127.0.0.1:57752 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 18:59:53 2026] 127.0.0.1:59026 Closing
+[Mon Aug 10 18:59:53 2026] 127.0.0.1:57752 Closing
+[Mon Aug 10 19:00:44 2026] 127.0.0.1:62214 Accepted
+[Mon Aug 10 19:00:45 2026] 127.0.0.1:62214 [200]: GET /dashboard.php?city_tab=logs
+[Mon Aug 10 19:00:45 2026] 127.0.0.1:62214 Closing
+[Mon Aug 10 19:00:45 2026] 127.0.0.1:51152 Accepted
+[Mon Aug 10 19:00:45 2026] 127.0.0.1:53041 Accepted
+[Mon Aug 10 19:00:45 2026] 127.0.0.1:51152 [200]: GET /assets/styles.css
+[Mon Aug 10 19:00:45 2026] 127.0.0.1:53041 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 19:00:45 2026] 127.0.0.1:51152 Closing
+[Mon Aug 10 19:00:45 2026] 127.0.0.1:53041 Closing
+[Mon Aug 10 19:01:54 2026] 127.0.0.1:63994 Accepted
+[Mon Aug 10 19:01:55 2026] 127.0.0.1:63994 [200]: GET /dashboard.php?city_tab=logs
+[Mon Aug 10 19:01:55 2026] 127.0.0.1:63994 Closing
+[Mon Aug 10 19:01:55 2026] 127.0.0.1:60225 Accepted
+[Mon Aug 10 19:01:55 2026] 127.0.0.1:62203 Accepted
+[Mon Aug 10 19:01:55 2026] 127.0.0.1:60225 [200]: GET /assets/styles.css
+[Mon Aug 10 19:01:55 2026] 127.0.0.1:62203 [200]: GET /assets/splogo.jpg
+[Mon Aug 10 19:01:55 2026] 127.0.0.1:60225 Closing
+[Mon Aug 10 19:01:55 2026] 127.0.0.1:62203 Closing
+[Mon Aug 10 19:03:11 2026] 127.0.0.1:55406 Accepted
+[Mon Aug 10 19:03:11 2026] 127.0.0.1:55406 [200]: GET /assets/styles.css
+[Mon Aug 10 19:03:11 2026] 127.0.0.1:55406 Closing
