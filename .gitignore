@@ -3,3 +3,5 @@ app/db.php
 app/config.php
 web.config
 storage/
+tmp/
+storage/
