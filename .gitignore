@@ -2,3 +2,4 @@ backups/
 app/db.php
 app/config.php
 .config
+storage/
