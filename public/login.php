@@ -10,7 +10,7 @@ $error = '';
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     verify_csrf();
     if (attempt_login(trim($_POST['email'] ?? ''), $_POST['password'] ?? '')) {
-        redirect('/dashboard.php');
+        redirect('/sp-records/dashboard.php');
     }
     $error = 'Invalid email or password.';
 }
