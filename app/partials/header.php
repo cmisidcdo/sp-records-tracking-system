@@ -87,7 +87,7 @@ $activeMonitorRole = trim((string) ($_GET['monitor_role'] ?? ''));
     <div class="profile">
         <strong><?= e($user['name']) ?></strong>
         <span><?= e(role_label($user['role'])) ?></span>
-        <a href="/logout.php">Sign out</a>
+        <a href="/sp-records/logout.php">Sign out</a>
     </div>
 </aside>
 <?php endif; ?>
